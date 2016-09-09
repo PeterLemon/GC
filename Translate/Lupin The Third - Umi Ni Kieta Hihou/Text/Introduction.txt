@@ -1,0 +1,567 @@
+﻿SHIFT-JIS
+-------------
+Introduction:
+-------------
+［次元］
+[Jigen]
+$43A45538 (Line 1)
+33 0C	81 6D	8E 9F	8C B3	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #  ［	 #  次	 #  元	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	 #  ［	 J  i	 g  e	 n  ]	 [  n	 ]  #	| New English Text
+33 0C	81 6D	4A 69	67 65	6E 5D	5B 6E	5D 00	| New English Hex
+はやかったな
+I was early
+$43A4554E (Line 2)
+33 10	82 CD	82 E2	82 A9	82 C1	82 BD	82 C8	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #  は	 #  や	 #  か	 #  っ	 #  た	 #  な	 [  n	 ]  #	| Original Japanese Text
+ #LEN	 I   	 w  a	 s   	 e  a	 r  l	 y   	 [  n	 ]  #	| New English Text
+33 10	49 20	77 61	73 20	65 61	72 6C	79 20	5B 6E	5D 00	| New English Hex
+
+［次元］
+[Jigen]
+$43A455B2 (Line 1)
+33 0C	81 6D	8E 9F	8C B3	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #  ［	 #  次	 #  元	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	 #  ［	 J  i	 g  e	 n  ]	 [  n	 ]  #	| New English Text
+33 0C	81 6D	4A 69	67 65	6E 5D	5B 6E	5D 00	| New English Hex
+うまくいったか？
+Did it go well?
+$43A455C8 (Line 2)
+33 14	82 A4	82 DC	82 AD	82 A2	82 C1	82 BD	82 A9	81 48	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #  う	 #  ま	 #  く	 #  い	 #  っ	 #  た	 #  か	 #  ？	 [  n	 ]  #	| Original Japanese Text
+ #LEN	 D  i	 d   	 i  t	    g	 o   	 w  e	 l  l	 ?   	 [  n	 ]  #	| New English Text
+33 14	44 69	64 20	69 74	20 67	6F 20	77 65	6C 6C	3F 20	5B 6E	5D 00	| New English Hex
+
+［ルパン］
+[Lupin]
+$43A45600 (Line 1)
+33 1A	81 40	81 40	81 40	81 40	81 40	81 40	81 6D	83 8B	83 70	83 93	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  ［	 #  ル	 #  パ	 #  ン	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	 #  ［	 L  u	 p  i	 n  ]	     	 [  n	 ]  #	| New English Text
+33 1A	20 20	20 20	20 20	20 20	20 20	20 20	81 6D	4C 75	70 69	6E 5D	20 20	5B 6E	5D 00	| New English Hex
+バッチリよ！
+Perfect!
+$43A45624 (Line 2)
+33 20	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	83 6F	83 62	83 60	83 8A	82 E6	81 49	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  バ	 #  ッ	 #  チ	 #  リ	 #  よ	 #  ！	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	 P  e	 r  f	 e  c	 t  !	     	     	 [  n	 ]  #	| New English Text
+33 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	50 65	72 66	65 63	74 21	20 20	20 20	5B 6E	5D 00	| New English Hex
+
+［ルパン］
+[Lupin]
+$43A45668 (Line 1)
+33 1A	81 40	81 40	81 40	81 40	81 40	81 40	81 6D	83 8B	83 70	83 93	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  ［	 #  ル	 #  パ	 #  ン	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	 #  ［	 L  u	 p  i	 n  ]	     	 [  n	 ]  #	| New English Text
+33 1A	20 20	20 20	20 20	20 20	20 20	20 20	81 6D	4C 75	70 69	6E 5D	20 20	5B 6E	5D 00	| New English Hex
+ホレッ!!
+Here!! / Look at this!!
+$43A4568C (Line 2)
+33 1C	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	83 7A	83 8C	83 62	21 21	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  ホ	 #  レ	 #  ッ	 !  !	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	 L  o	 o  k	 !  !	     	 [  n	 ]  #	| New English Text
+33 1C	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	4C 6F	6F 6B	21 21	20 20	5B 6E	5D 00	| New English Hex
+
+［次元］
+[Jigen]
+$43A456C8 (Line 1)
+33 18	81 40	81 40	81 40	81 40	81 40	81 40	81 6D	8E 9F	8C B3	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  ［	 #  次	 #  元	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	 #  ［	 J  i	 g  e	 n  ]	     	     	     	     	 [  n	 ]  #	| New English Text
+33 18	20 20	20 20	81 6D	4A 69	67 65	6E 5D	20 20	20 20	20 20	20 20	5B 6E	5D 00	| New English Hex
+あ～ん
+Huh/Er/Eh/Ah/Oh/
+$43A456EA (Line 2)
+33 1A	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	82 A0	81 60	82 F1	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  あ	 #  ～	 #  ん	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	 H  u	 h . 	 .  .	     	     	     	     	 [  n	 ]  #	| New English Text
+33 1A	20 20	20 20	20 20	20 20	 48 75	68 2E	2E 2E	20 20	20 20	20 20	20 20	5B 6E	5D 00	| New English Hex
+なんだこりゃ？
+What on Earth is this?
+$43A45706 (Line 3)
+33 22	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	82 C8	82 F1	82 BE	82 B1	82 E8	82 E1	81 48	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  な	 #  ん	 #  だ	 #  こ	 #  り	 #  ゃ	 #  ？	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	 W  h	 a  t	    o	 n   	 E  a	 r  t	 h   	 i  s	    t	 h  i	 s  ?	 [  n	 ]  #	| New English Text
+33 22	20 20	20 20	20 20	20 20	57 68	61 74	20 6F	6E 20	45 61	72 74	68 20	69 73	20 74	68 69	73 3F	5B 6E	5D 00	| New English Hex
+
+［次元］
+[Jigen]
+$43A4574C (Line 1)
+33 0C	81 6D	8E 9F	8C B3	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #  ［	 #  次	 #  元	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	 #  ［	 J  i	 g  e	 n  ]	 [  n	 ]  #	| New English Text
+33 0C	81 6D	4A 69	67 65	6E 5D	5B 6E	5D 00	| New English Hex
+おい､ルパン！
+Hey, Lupin!
+$43A45762 (Line 2)
+33 14	81 40	82 A8	82 A2	A4 83	8B 83	70 83	93 81	49 5B	6E 5D	00 00	| Original Japanese Hex
+ #LEN	 #	 #  お	 #  い	 ､  #    ル  #	 パ  #	 ン  #	 ！ [	 n  ]	 #  #	| Original Japanese Text
+ #LEN	     	 H  e	 y  ,	    L	 u  p	 i  n	 !	     	 [  n	 ]  #	| New English Text
+33 14	20 20	48 65	79 2C	20 4C	75 70	69 6E	21 20	20 20	5B 6E	5D 00	| New English Hex
+まさかコレだけか？
+All that trouble just for this?
+$43A45778 (Line 3)
+33 18	81 40	82 DC	82 B3	82 A9	83 52	83 8C	82 BE	82 AF	82 A9	81 48	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #  ま	 #  さ	 #  か	 #  コ	 #  レ	 #  だ	 #  け	 #  か	 #  ？	 [  n	 ]  #	| Original Japanese Text
+ #LEN	 #   	 A  l	 l   	 t  h	 a  t  	    f	 o  r	    t	 h  i	 s  ?	 [  n	 ]  #	| New English Text
+33 18	20 20	41 6C	6C 20	74 68	61 74	20 66	6F 72	20 74	68 69	73 3F	5B 6E	5D 00	| New English Hex
+
+［ルパン］
+[Lupin]
+$43A457B4 (Line 1)
+33 18	81 40	81 40	81 40	81 40	81 40	81 6D	83 8B	83 70	83 93	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #  ［	 #  ル	 #  パ	 #  ン	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	 #  ［	 L  u	 p  i	 n  ]	     	     	 [  n	 ]  #	| New English Text
+33 18	20 20	20 20	20 20	20 20	81 6D	4C 75	70 69	6E 5D	20 20	20 20	5B 6E	5D 00	| New English Hex
+そう、それだけっ！
+Yes, only that!
+$43A457D6 (Line 2)
+33 20	81 40	81 40	81 40	81 40	81 40	82 BB	82 A4	81 41	82 BB	82 EA	82 BE	82 AF	82 C1	81 49	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #  そ	 #  う	 #  、	 #  そ	 #  れ	 #  だ	 #  け	 #  っ	 #  ！	 [  n	 ]  #	| Original Japanese Text
+ #LEN	 #   	 #   	 #   	 #   	 Y  e	 s  ,	    j	 u  s	 t   	 f  o	 r   	 t  h	 a  t	 !	 [  n	 ]  #	| New English Text
+33 20	20 20	20 20	20 20	20 20	59 65	73 2C	20 6A	75 73	74 20	66 6F	72 20	74 68	61 74	21 20	5B 6E	5D 00	| New English Hex
+
+［次元］
+[Jigen]
+$43A4581A (Line 1)
+33 0C	81 6D	8E 9F	8C B3	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #  ［	 #  次	 #  元	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	 #  ［	 J  i	 g  e	 n  ]	 [  n	 ]  #	| New English Text
+33 0C	81 6D	4A 69	67 65	6E 5D	5B 6E	5D 00	| New English Hex
+けーっ！
+Only this!
+$43A45830 (Line 2)
+33 0C	82 AF	81 5B	82 C1	81 49	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #  け	 #  ー	 #  っ	 #  ！	 [  n	 ]  #	| Original Japanese Text
+ #LEN	 O  .	 K   	 t  h	 e  n	 [  n	 ]  #	| New English Text
+33 0C	4F 2E	4B 20	74 68	65 6E	5B 6E	5D 00	| New English Hex
+ギリシャくんだりまできたってのによっ！
+Due to that I had to come to Greece!
+Now we are in Greece, we should have a drink together!
+$43A4583E (Line 3)
+33 2A	83 4D	83 8A	83 56	83 83	82 AD	82 F1	82 BE	82 E8	82 DC	82 C5	82 AB	82 BD	82 C1	82 C4	82 CC	82 C9	82 E6	82 C1	81 49	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #  ギ	 #  リ	 #  シ	 #  ャ	 #  く	 #  ん	 #  だ	 #  り	 #  ま	 #  で	 #  き	 #  た	 #  っ	 #  て	 #  の	 #  に	 #  よ	 #  っ	 #  ！	 [  n	 ]  #	| Original Japanese Text
+ #LEN	 a  s       w	 e  '	 r  e	    i	 n   	 G  r	 e  e	 c  e	    l	 e  t	 '  s	    h	 a  v	 e   	 a   	 d  r	 i  n	 k  !	 [  n	 ]  #	| New English Text
+33 2A	61 73	20 77	65 27	72 65	20 69	6E 20	47 72	65 65	63 65	20 6C	65 74	27 73	20 68	61 76	65 20	61 20	64 72	69 6E	6B 21	5B 6E	5D 00	| New English Hex
+
+［ルパン］
+[Lupin]
+$43A4588C (Line 1)
+33 18	81 40	81 40	81 40	81 40	81 40	81 6D	83 8B	83 70	83 93	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #  ［	 #  ル	 #  パ	 #  ン	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	 #  ［	 L  u	 p  i	 n  ]	     	     	 [  n	 ]  #	| New English Text
+33 18	20 20	20 20	20 20	20 20	81 6D	4C 75	70 69	6E 5D	20 20	20 20	5B 6E	5D 00	| New English Hex
+ところが、そいつは
+However, that person is
+$43A458AE (Line 2)
+33 20	81 40	81 40	81 40	81 40	81 40	82 C6	82 B1	82 EB	82 AA	81 41	82 BB	82 A2	82 C2	82 CD	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #  と	 #  こ	 #  ろ	 #  が	 #  、	 #  そ	 #  い	 #  つ	 #  は	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	 H  o	 w  e	 v  e	 r  ,	    t	 h  a	 t   	 p  e	 r  s    o  n	 [  n	 ]  #	| New English Text
+33 20	20 20	20 20	20 20	20 20	48 6F	77 65	76 65	72 2C	20 74	68 61	74 20	70 65	72 73	6F 6E	5B 6E	5D 00	| New English Hex
+すんげェ『お宝』なのよっ！
+depending on the "treasure"!
+$43A458D0 (Line 3)
+33 28	81 40	81 40	81 40	81 40	81 40	82 B7	82 F1	82 B0	83 46	81 77	82 A8	95 F3	81 78	82 C8	82 CC	82 E6	82 C1	81 49	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #  す	 #  ん	 #  げ	 #  ェ	 #  『	 #  お	 #  宝	 #  』	 #  な	 #  の	 #  よ	 #  っ	 #  ！	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	 d  e	 p  e	 n  d	 i  n	 g   	 o  n	    t	 h  e	    "	 t  r	 e  a	 s  u	 r  e	 "  !	 [  n	 ]  #	| New English Text
+33 28	20 20	20 20	20 20	20 20	64 65	70 65	6E 64	69 6E	67 20	6F 6E	20 74	68 65	20 22	74 72	65 61	73 75	72 65	22 21	5B 6E	5D 00	| New English Hex
+
+［次元］
+[Jigen]
+$43A4591C (Line 1)
+33 0C	81 6D	8E 9F	8C B3	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #  ［	 #  次	 #  元	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	 #  ［	 J  i	 g  e	 n  ]	 [  n	 ]  #	| New English Text
+33 0C	81 6D	4A 69	67 65	6E 5D	5B 6E	5D 00	| New English Hex
+これが？
+This is?
+$43A45932 (Line 2)
+33 0E	81 40	82 B1	82 EA	82 AA	81 48	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #  こ	 #  れ	 #  が	 #  ？	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	 T  h	 i  s	    i	 s  ?	 [  n	 ]  #	| New English Text
+33 0E	20 20	54 68	69 73	20 69	73 3F	5B 6E	5D 00	| New English Hex
+
+［次元］
+[Jigen]
+$43A45964 (Line 1)
+33 16	81 40	81 40	81 40	81 40	81 40	81 6D	8E 9F	8C B3	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #  ［	 #  次	 #  元	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	 #  ［	 J  i	 g  e	 n  ]	 [  n	 ]  #	| New English Text
+33 16	20 20	20 20	20 20	20 20	20 20	81 6D	4A 69	67 65	6E 5D	5B 6E	5D 00	| New English Hex
+そんな、たいそうなモンには
+Meanwhile, this is very fine
+$43A45984 (Line 2)
+33 28	81 40	81 40	81 40	81 40	81 40	82 BB	82 F1	82 C8	81 41	82 BD	82 A2	82 BB	82 A4	82 C8	83 82	83 93	82 C9	82 CD	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #  そ	 #  ん	 #  な	 #  、	 #  た	 #  い	 #  そ	 #  う	 #  な	 #  モ	 #  ン	 #  に	 #  は	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	 #   	 #   	 #   	 #   	 A  l	 s  o	 ,   	 t  h	 i  s	    i	 s   	 v  e	 r  y	    f	 i  n	 e   	     	 [  n	 ]  #	| New English Text
+33 28	20 20	20 20	20 20	20 20	20 20	41 6C	73 6F	2C 20	74 68	69 73	20 69	73 20	76 65	72 79	20 66	69 6E	65 20	20 20	5B 6E	5D 00	| New English Hex
+見えねぇけどな･･･。
+do you not see....
+$43A459AE (Line 3)
+33 22	81 40	81 40	81 40	81 40	81 40	8C A9	82 A6	82 CB	82 A5	82 AF	82 C7	82 C8	A5 A5	A5 81	42 5B	6E 5D	00 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #  見	 #  え	 #  ね	 #  ぇ	 #  け	 #  ど	 #  な	 ･  ･	 ･  #	 。  [	 n  ]	 #  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	 d  o	    y	 o  u	    n	 o  t	    s	 e  e	 .  .	 .   	     	 [  n	 ]  #	| New English Text
+33 22	20 20	20 20	20 20	20 20	20 20	64 6F	20 79	6F 75	20 6E	6F 74	20 73	65 65	2E 2E	2E 20	20 20	5B 6E	5D 00	| New English Hex
+
+［次元］
+[Jigen]
+$43A459F4 (Line 1)
+33 10	81 40	81 40	81 6D	8E 9F	8C B3	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #  ［	 #  次	 #  元	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	 #  ［	 J  i	 g  e	 n  ]	 [  n	 ]  #	| New English Text
+33 10	20 20	20 20	81 6D	4A 69	67 65	6E 5D	5B 6E	5D 00	| New English Hex
+で、これなんだ？
+What is it?
+$43A45A0E (Line 2)
+33 18	81 40	81 40	82 C5	81 41	82 B1	82 EA	82 C8	82 F1	82 BE	81 48	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #  で	 #  、	 #  こ	 #  れ	 #  な	 #  ん	 #  だ	 #  ？	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	 W  h	 a  t	    i	 s   	 i  t	 ?   	     	     	 [  n	 ]  #	| New English Text
+33 18	20 20	20 20	57 68	61 74	20 69	73 20	69 74	3F 20	20 20	20 20	5B 6E	5D 00	| New English Hex
+
+［ルパン］
+[Lupin]
+$43A45A4A (Line 1)
+33 20	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 6D	83 8B	83 70	83 93	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  ［	 #  ル	 #  パ	 #  ン	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	 #  ［	 L  u	 p  i	 n  ]	     	     	     	     	 [  n	 ]  #	| New English Text
+33 20	20 20	20 20	20 20	20 20	20 20	20 20	81 6D	4C 75	70 69	6E 5D	20 20	20 20	20 20	20 20	5B 6E	5D 00	| New English Hex
+キリム･･･
+to cross swords with... / Key rim... / The Trim ...
+$43A45A74 (Line 2)
+33 24	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	83 4C	83 8A	83 80	A5 A5	A5 5B	6E 5D	00 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  キ	 #  リ	 #  ム	 ･  ･	 ･  [	 n  ]	 #  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	 I  t  	    m	 i  g	 h  t	    b	 e   	 a   	 k  e	 y  .	 .  .	 [  n	 ]  #	| New English Text
+33 24	20 20	20 20	20 20	20 20	20 20	20 20	49 74	20 6D	69 67	68 74	20 62	65 20	61 20	6B 65	79 A5	A5 A5	5B 6E	5D 00	| New English Hex
+                         
+［次元］
+[Jigen]
+$43A45ABC (Line 1)
+33 10	81 40	81 40	81 6D	8E 9F	8C B3	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #  ［	 # 次	 # 元	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	 #  ［	 J  i	 g  e	 n  ]	 [  n	 ]  #	| New English Text
+33 10	20 20	20 20	81 6D	4A 69	67 65	6E 5D	5B 6E	5D 00	| New English Hex
+キリム？
+Key rim?
+$43A45AD6 (Line 2)
+33 10	81 40	81 40	83 4C	83 8A	83 80	81 48	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #  キ	 #  リ	 #  ム	 #  ？	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	 A   	 k  e	 y  ?   	 [  n	 ]  #	| New English Text
+33 10	20 20	20 20	41 20	6B 65	79 3F	20 20	5B 6E	5D 00	| New English Hex
+
+［ルパン］
+[Lupin]
+$43A45B2A (Line 1)
+33 10	81 40	81 6D	83 8B	83 70	83 93	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #  ［	 #  ル	 #  パ	 #  ン	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	 #  ［	 L  u	 p  i	 n  ]	     	 [  n	 ]  #	| New English Text
+33 10	20 20	81 6D	4C 75	70 69	6E 5D	20 20	5B 6E	5D 00	| New English Hex
+な、なんだーっ！？
+Yep, what is that!?
+$43A45B44 (Line 2)
+33 1A	81 40	81 40	82 C8	81 41	82 C8	82 F1	82 BE	81 5B	82 C1	81 49	81 48	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #  な	 #  、	 #  な	 #  ん	 #  だ	 #  ー	 #  っ	 #  ！	 #  ？	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	 Y  e	 p  ,	    w	 h  a	 t   	 i  s	    t	 h  a	 t  !	 ?   	 [  n	 ]  #	| New English Text
+33 1A	20 20	59 65	70 2C	20 77	68 61	74 20	69 73	20 74	68 61	74 21	3F 20	5B 6E	5D 00	| New English Hex
+
+［次元］
+[Jigen]
+$43A45BA2 (Line 1)
+33 1E	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 6D	8E 9F	8C B3	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  ［	 #  次	 #  元	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	 #  ［	 J  i	 g  e	 n  ]	 [  n	 ]  #	| New English Text
+33 1E	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	81 6D	4A 69	67 65	6E 5D	5B 6E	5D 00	| New English Hex
+何がどうしたんだっ!?
+What's happening!?
+$43A45BCA (Line 2)
+33 28	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	89 BD	82 AA	82 C7	82 A4	82 B5	82 BD	82 F1	82 BE	82 C1	21 3F	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  何	 #  が	 #  ど	 #  う	 #  し	 #  た	 #  ん	 #  だ	 #  っ	 !  ?	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	 W  h	 a  t	 '  s	    h	 a  p	 p  e	 n  i	 n  g	 !  ?	     	 [  n	 ]  #	| New English Text
+33 28	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	57 68	61 74	20 73	20 68	61 70	70 65	6E 69	6E 67	21 3F	20 20	5B 6E	5D 00	| New English Hex
+	    	 
+［次元］
+[Jigen]
+$43A45C56 (Line 1)
+33 1A	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 6D	8E 9F	8C B3	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  ［	 #  次	 #  元	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	 #  ［	 J  i	 g  e	 n  ]	 [  n	 ]  #	| New English Text
+33 1A	20 20	20 20	20 20	20 20	20 20	20 20	20 20	81 6D	4A 69	67 65	6E 5D	5B 6E	5D 00	| New English Hex
+うわっ！
+Wow! / Aaargh!
+$43A45C7A (Line 2)
+33 1E	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	82 A4	82 ED	82 C1	81 49	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  う	 #  わ	 #  っ	 #  ！	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	 A  a	 a  r	 g  h	 !   	 [  n	 ]  #	| New English Text
+33 1E	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	41 61	61 72	67 68	21 20	5B 6E	5D 00	| New English Hex
+
+［ルパン］
+[Lupin]
+$43A45CBC (Line 1)
+33 0E	81 6D	83 8B	83 70	83 93	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #  ［	 #  ル	 #  パ	 #  ン	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	 #  ［	 L  u	 p  i	 n  ]	     	 [  n	 ]  #	| New English Text
+33 0E	81 6D	4C 75	70 69	6E 5D	20 20	5B 6E	5D 00	| New English Hex
+次元、お友達は選びなさいよ！
+Jigen, you know how to pick friends!
+$43A45CD4 (Line 2)
+33 20	8E 9F	8C B3	81 41	82 A8	97 46	92 42	82 CD	91 49	82 D1	82 C8	82 B3	82 A2	82 E6	81 49	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #  次	 #  元	 #  、	 #  お	 #  友	 #  達	 #  は	 #  選	 #  び	 #  な	 #  さ	 #  い	 #  よ	 #  ！	 [  n	 ]  #	| Original Japanese Text
+ #LEN	 J  i	 g  e	 n  ,	    y	 o  u	    g	 o  t	    a	    n	 e  w	    f	 r  i	 e  n	 d  !	 [  n	 ]  #	| New English Text
+33 20	4A 69	67 65	6E 2C	20 79	6F 75	20 67	6F 74	20 61	20 6E	65 77	20 66	72 69	65 6E	64 21	5B 6E	5D 00	| New English Hex
+
+［次元］
+[Jigen]
+$43A45D18 (Line 1)
+33 1E	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 6D	8E 9F	8C B3	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  ［	 #  次	 #  元	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	 #  ［	 J  i	 g  e	 n  ]	 [  n	 ]  #	| New English Text
+33 1E	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	81 6D	4A 69	67 65	6E 5D	5B 6E	5D 00	| New English Hex
+こんなヤツは
+This guy
+$43A45D40 (Line 2)
+33 26	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	82 B1	82 F1	82 C8	83 84	83 63	82 CD	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  こ	 #  ん	 #  な	 #  ヤ	 #  ツ	 #  は	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	     	    I	    d	 o   	 n  o	 t   	 k  n	 o  w	 [  n	 ]  #	| New English Text
+33 26	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 49	20 64	6F 20	6E 6F	74 20	6B 6E	6F 77	5B 6E	5D 00	| New English Hex
+知らねえぞ!!
+I do not know!!
+$43A45D68 (Line 3)
+33 26	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	92 6D	82 E7	82 CB	82 A6	82 BC	21 21	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  知	 #  ら	 #  ね	 #  え	 #  ぞ	 !  !	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	     	    t	 h  i	 s   	 g  u	 y  !	 !   	     	 [  n	 ]  #	| New English Text
+33 26	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 74	68 69	73 20	67 75	79 21	21 20	20 20	5B 6E	5D 00	| New English Hex
+
+［ルパン］
+[Lupin]
+$43A45DB2 (Line 1)
+33 0E	81 6D	83 8B	83 70	83 93	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #  ［	 #  ル	 #  パ	 #  ン	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	 #  ［	 L  u	 p  i	 n  ]	     	 [  n	 ]  #	| New English Text
+33 0E	81 6D	4C 75	70 69	6E 5D	20 20	5B 6E	5D 00	| New English Hex
+次元！
+Jigen!
+$43A45DCA (Line 2)
+33 0A	8E 9F	8C B3	81 49	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #  次	 #  元	 #  ！	 [  n	 ]  #	| Original Japanese Text
+ #LEN	 J  i	 g  e	 n  !	 [  n	 ]  #	| New English Text
+33 0A	4A 69	67 65	6E 21	5B 6E	5D 00	| New English Hex
+そいつの狙いはキリムだっ！
+The aim of that person is to kill!
+$43A45DD6 (Line 3)
+33 1E	82 BB	82 A2	82 C2	82 CC	91 5F	82 A2	82 CD	83 4C	83 8A	83 80	82 BE	82 C1	81 49	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #  そ	 #  い	 #  つ	 #  の	 #  狙	 #  い	 #  は	 #  キ	 #  リ	 #  ム	 #  だ	 #  っ	 #  ！	 [  n	 ]  #	| Original Japanese Text
+ #LEN	 H  e	    i	 s   	 t  r	 y  i	 n  g	    t	 o   	 k  i	 l  l	    y	 o  u	 !   	 [  n	 ]  #	| New English Text
+33 1E	48 65	20 69	73 20	74 72	79 69	6E 67	20 74	6F 20	6B 69	6C 6C	20 79	6F 75	21 20	5B 6E	5D 00	| New English Hex
+
+［次元］
+[Jigen]
+$43A45E18 (Line 1)
+33 1A	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 6D	8E 9F	8C B3	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  ［	 #  次	 #  元	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	 #  ［	 J  i	 g  e	 n  ]	 [  n	 ]  #	| New English Text
+33 1A	20 20	20 20	20 20	20 20	20 20	20 20	20 20	81 6D	4A 69	67 65	6E 5D	5B 6E	5D 00	| New English Hex
+なにっ？
+What?
+$43A45E3C (Line 2)
+33 1E	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	82 C8	82 C9	82 C1	81 48	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  な	 #  に	 #  っ	 #  ？	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	 W  h	 a  t	 ?   	     	 [  n	 ]  #	| New English Text
+33 1E	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	57 68	61 74	3F 20	20 20	5B 6E	5D 00	| New English Hex
+
+［次元］
+[Jigen]
+$43A45E7E (Line 1)
+33 0E	81 40	81 6D	8E 9F	8C B3	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #  ［	 #  次	 #  元	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	 #  ［	 J  i	 g  e	 n  ]	 [  n	 ]  #	| New English Text
+33 0E	20 20	81 6D	4A 69	67 65	6E 5D	5B 6E	5D 00	| New English Hex
+あのヤロー、銃身に穴あけやがった！
+That guy, punched a hole in my gun barrel!
+$43A45E96 (Line 2)
+33 2C	81 40	81 40	81 40	82 A0	82 CC	83 84	83 8D	81 5B	81 41	8F 65	90 67	82 C9	8C 8A	82 A0	82 AF	82 E2	82 AA	82 C1	82 BD	81 49	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #  あ	 #  の	 #  ヤ	 #  ロ	 #  ー	 #  、	 #  銃	 #  身	 #  に	 #  穴	 #  あ	 #  け	 #  や	 #  が	 #  っ	 #  た	 #  ！	 [  n	 ]  #	| Original Japanese Text
+ #LEN	 #  T	 h  a	 t   	 g  u	 y  , 	    m	 a  d	 e   	 a   	 h  o	 l  e	    i	 n   	 m  y	    g	 u  n	    b	 a  r	 r  e	 l  !	 [  n	 ]  #	| New English Text
+33 2C	20 54	68 61	74 20	67 75	79 2C	20 6D	61 64	65 20	61 20	68 6F	6C 65	20 69	6E 20	6D 79	20 67	75 6E	20 62	61 72	72 65	6C 21	5B 6E	5D 00	| New English Hex
+										 
+［次元］
+[Jigen]
+$43A45FB2 (Line 1)
+33 12	81 40	81 40	81 40	81 6D	8E 9F	8C B3	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #  ［	 #  次	 #  元	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	 #  ［	 J  i	 g  e	 n  ]	 [  n	 ]  #	| New English Text
+33 12	20 20	20 20	20 20	81 6D	4A 69	67 65	6E 5D	5B 6E	5D 00	| New English Hex
+どうやら俺たち以外にも、こいつを
+Apparently in addition to us, it seems like
+$43A45FED (Line 2)
+33 2A	81 40	81 40	81 40	82 C7	82 A4	82 E2	82 E7	89 B4	82 BD	82 BF	88 C8	8A 4F	82 C9	82 E0	81 41	82 B1	82 A2	82 C2	82 F0	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #  ど	 #  う	 #  や	 #  ら	 #  俺	 #  た	 #  ち	 #  以	 #  外	 #  に	 #  も	 #  、	 #  こ	 #  い	 #  つ	 #  を	 [  n	 ]  #	| Original Japanese Text
+ #LEN	 A  p	 p  a	 r  e	 n  t	 l  y	    i	 n   	 a  d	 d  i	 t  i	 o  n	    t	 o   	 u  s	 ,   	 i  t	    s	 e  e	 m  s	 [  n	 ]  #	| New English Text
+33 2A	41 70	70 61	72 65	6E 74	6C 79	20 69	6E 20	61 64	64 69	74 69	6F 6E	20 74	6F 20	75 73	2C 20	69 74	20 73	65 65	6D 73	5B 6E	5D 00	| New English Hex
+狙ってるヤツらがいるみたいだな。
+there are guys that are looking for this.
+$43A46019 (Line 3)
+33 2A	81 40	81 40	81 40	91 5F	82 C1	82 C4	82 E9	83 84	83 63	82 E7	82 AA	82 A2	82 E9	82 DD	82 BD	82 A2	82 BE	82 C8	81 42	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #  狙	 #  っ	 #  て	 #  る	 #  ヤ	 #  ツ	 #  ら	 #  が	 #  い	 #  る	 #  み	 #  た	 #  い	 #  だ	 #  な	 #  。	 [  n	 ]  #	| Original Japanese Text
+ #LEN	 t  h	 e  r	 e   	 a  r	 e   	 g  u	 y  s	    a	 l  s	 o   	 l  o	 o  k	 i  n	 g   	 f  o	 r   	 t  h	 i  s	 .   	 [  n	 ]  #	| New English Text
+33 2A	74 68	65 72	65 20	61 72	65 20	67 75	79 73	20 61	6C 73	6F 20	6C 6F	6F 6B	69 6E	67 20	66 6F	72 20	74 68	69 73	2E 20	5B 6E	5D 00	| New English Hex	    
+
+［ルパン］
+[Lupin]
+$43A46095 (Line 1)
+33 1A	81 40	81 40	81 40	81 40	81 40	81 40	81 6D	83 8B	83 70	83 93	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  ［	 #  ル	 #  パ	 #  ン	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	 #  ［	 L  u	 p  i	 n  ]	     	 [  n	 ]  #	| New English Text
+33 1A	20 20	20 20	20 20	20 20	20 20	20 20	81 6D	4C 75	70 69	6E 5D	20 20	5B 6E	5D 00	| New English Hex
+だから言ったろ？
+So you say? / Do you suppose? / Do you really think so?
+$43A460E6 (Line 2)
+33 20	81 40	81 40	81 40	81 40	81 40	81 40	82 BE	82 A9	82 E7	8C BE	82 C1	82 BD	82 EB	81 48	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  だ	 #  か	 #  ら	 #  言	 #  っ	 #  た	 #  ろ	 #  ？	 [  n	 ]  #	| Original Japanese Text
+ #LEN	    D	 o   	 y  o	 u  	 t  h	 i  n	 k   	 s  o	 ?   	     	     	     	     	     	 [  n	 ]  #	| New English Text
+33 20	20 44	6F 20	79 6F	75 20	74 68	69 6E	6B 20	73 6F	3F 20	20 20	20 20	20 20	20 20	20 20	5B 6E	5D 00	| New English Hex
+そいつは、すンごいお宝なのよ！
+That guy, really wanted that treasure!
+$43A46108 (Line 3)
+33 2E	81 40	81 40	81 40	81 40	81 40	81 40	82 BB	82 A2	82 C2	82 CD	81 41	82 B7	83 93	82 B2	82 A2	82 A8	95 F3	82 C8	82 CC	82 E6	81 49	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  そ	 #  い	 #  つ	 #  は	 #  、	 #  す	 #  ン	 #  ご	 #  い	 #  お	 #  宝	 #  な	 #  の	 #  よ	 #  ！	 [  n	 ]  #	| Original Japanese Text
+ #LEN	    T	 h  a	 t   	 g  u	 y  ,	    h	 e   	 w  a	 s   	 r  e	 a  l	 l  y	    t	 r  y	 i  n	 g   	 t  o	    g	 e  t	    i	 t  !	 [  n	 ]  #	| New English Text
+33 2E	20 54	68 61	74 20	67 75	79 2C	20 68	65 20	77 61	73 20	72 65	61 6C	6C 79	20 74	72 79	69 6E	67 20	74 6F	20 67	65 74	20 69	74 21	5B 6E	5D 00	| New English Hex
+
+［次元］
+[Jigen]
+$43A4618C (Line 1)
+33 12	81 40	81 40	81 40	81 6D	8E 9F	8C B3	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #  ［	 #  次	 #  元	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	 #  ［	 J  i	 g  e	 n  ]	 [  n	 ]  #	| New English Text
+33 12	20 20	20 20	20 20	81 6D	4A 69	67 65	6E 5D	5B 6E	5D 00	| New English Hex
+・・・
+・・・
+$43A461B0 (Line 2)
+33 10	81 40	81 40	81 40	81 45	81 45	81 45	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #  ・	 #  ・	 #  ・	 [  n	 ]  #	| Original Japanese Text
+ #LEN	 .  .	 .   	 A  l	 s  o	 ,   	     	 [  n	 ]  #	| New English Text
+33 10	2E 2E	2E 20	41 6C	73 6F	2C 20	20 20	5B 6E	5D 00	| New English Hex
+で、どうスゲーんだ？
+Also, did you see how incredible he was?
+$43A461DF (Line 3)
+33 1E	81 40	81 40	81 40	82 C5	81 41	82 C7	82 A4	83 58	83 51	81 5B	82 F1	82 BE	81 48	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #  で	 #  、	 #  ど	 #  う	 #  ス	 #  ゲ	 #  ー	 #  ん	 #  だ	 #  ？	 [  n	 ]  #	| Original Japanese Text
+ #LEN	 h  o	 w   	 w  a	 s   	 h  e	    s	 o   	 i  n	 c  r	 e  d	 i  b	 l  e	 ?	 [  n	 ]  #	| New English Text
+33 1E	68 6F	77 20	77 61	73 20	68 65	20 73	6F 20	69 6E	63 72	65 64	69 62	6C 65	3F 20	5B 6E	5D 00	| New English Hex
+
+［ルパン］
+[Lupin]
+$43A46269 (Line 1)
+33 1A	81 40	81 40	81 40	81 40	81 40	81 40	81 6D	83 8B	83 70	83 93	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  ［	 #  ル	 #  パ	 #  ン	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	 #  ［	 L  u	 p  i	 n  ]	     	 [  n	 ]  #	| New English Text
+33 1A	20 20	20 20	20 20	20 20	20 20	20 20	81 6D	4C 75	70 69	6E 5D	20 20	5B 6E	5D 00	| New English Hex
+そのことにくわしい人間のトコへ
+I bet we are going to meet more
+$43A462AC (Line 2)
+33 2E	81 40	81 40	81 40	81 40	81 40	81 40	82 BB	82 CC	82 B1	82 C6	82 C9	82 AD	82 ED	82 B5	82 A2	90 6C	8A D4	82 CC	83 67	83 52	82 D6	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  そ	 #  の	 #  こ	 #  と	 #  に	 #  く	 #  わ	 #  し	 #  い	 #  人	 #  間	 #  の	 #  ト	 #  コ	 #  へ	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	 I   	 b  e	 t   	 w  e	    a	 r  e	    g	 o  i	 n  g	    t	 o   	 m  e	 e  t	    m	 o  r	 e   	 [  n	 ]  #	| New English Text
+33 2E	20 20	20 20	20 20	20 20	20 20	49 20	62 65	74 20	77 65	20 61	72 65	20 67	6F 69	6E 67	20 74	6F 20	6D 65	65 74	20 6D	6F 72	65 20	5B 6E	5D 00	| New English Hex
+これから会いに行くんだよ！
+incredible people like that!
+$43A462DC (Line 3)
+33 2A	81 40	81 40	81 40	81 40	81 40	81 40	82 B1	82 EA	82 A9	82 E7	89 EF	82 A2	82 C9	8D 73	82 AD	82 F1	82 BE	82 E6	81 49	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  こ	 #  れ	 #  か	 #  ら	 #  会	 #  い	 #  に	 #  行	 #  く	 #  ん	 #  だ	 #  よ	 #  ！	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	 i  n	 c  r	 e  d	 i  b	 l  e	    p	 e  o	 p  l	 e   	 l  i	 k  e	    t	 h  a	 t  !	 [  n	 ]  #	| New English Text
+33 2A	20 20	20 20	20 20	20 20	20 20	69 6E	63 72	65 64	69 62	6C 65	20 70	65 6F	70 6C	65 20	6C 69	6B 65	20 74	68 61	74 21	5B 6E	5D 00	| New English Hex
+
+［次元］
+[Jigen]
+$43A46372 (Line 1)
+33 12	81 40	81 40	81 40	81 6D	8E 9F	8C B3	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #  ［	 #  次	 #  元	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	 #  ［	 J  i	 g  e	 n  ]	 [  n	 ]  #	| New English Text
+33 12	20 20	20 20	20 20	81 6D	4A 69	67 65	6E 5D	5B 6E	5D 00	| New English Hex
+なに？
+What?
+$43A463A5 (Line 2)
+33 10	81 40	81 40	81 40	82 C8	82 C9	81 48	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #  な	 #  に	 #  ？	 [  n	 ]  #	| Original Japanese Text
+ #LEN	 W  h	 a  t	 ?   	 Y  o	 u	     	 [  n	 ]  #	| New English Text
+33 10	57 68	61 74	3F 20	59 6F	75 20	20 20	5B 6E	5D 00	| New English Hex
+オメェ知らねえのか！
+You do not know that!
+$43A463B7 (Line 3)
+33 1E	81 40	81 40	81 40	83 49	83 81	83 46	92 6D	82 E7	82 CB	82 A6	82 CC	82 A9	81 49	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #  オ	 #  メ	 #  ェ	 #  知	 #  ら	 #  ね	 #  え	 #  の	 #  か	 #  ！	 [  n	 ]  #	| Original Japanese Text
+ #LEN	 d  o	    n	 o  t	    k	 n  o	 w   	 t  h	 a  t	    f	 o  r	    s	 u  r	 e  !	 [  n	 ]  #	| New English Text
+33 1E	64 6F	20 6E	6F 74	20 6B	6E 6F	77 20	74 68	61 74	20 66	6F 72	20 73	75 72	65 21	5B 6E	5D 00	| New English Hex
+
+［ルパン］
+[Lupin]
+$43A4642B (Line 1)
+33 1A	81 40	81 40	81 40	81 40	81 40	81 40	81 6D	83 8B	83 70	83 93	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  ［	 #  ル	 #  パ	 #  ン	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	 #  ［	 L  u	 p  i	 n  ]	     	 [  n	 ]  #	| New English Text
+33 1A	20 20	20 20	20 20	20 20	20 20	20 20	81 6D	4C 75	70 69	6E 5D	20 20	5B 6E	5D 00	| New English Hex
+だから
+Well
+$43A46466 (Line 2)
+33 16	81 40	81 40	81 40	81 40	81 40	81 40	82 BE	82 A9	82 E7	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  だ	 #  か	 #  ら	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	 W  e	 l  l	     	 [  n	 ]  #	| New English Text
+33 16	20 20	20 20	20 20	20 20	20 20	20 20	57 65	6C 6C	20 20	5B 6E	5D 00	| New English Hex
+会いに行くん だ って！
+we will have to see!
+$43A4647E (Line 3)
+33 24	81 40	81 40	81 40	81 40	81 40	81 40	89 EF	82 A2	82 C9	8D 73	82 AD	82 F1	82 BE	82 C1	82 C4	81 49	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  会	 #  い	 #  に	 #  行	 #  く	 #  ん	 #  だ	 #  っ	 #  て	 #  ！	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	 w  e	    w	 i  l	 l   	 h  a	 v  e	    t	 o   	 s  e	 e  !	 [  n	 ]  #	| New English Text
+33 24	20 20	20 20	20 20	20 20	20 20	20 20	77 65	20 77	69 6C	6C 20	68 61	76 65	20 74	6F 20	73 65	65 21	5B 6E	5D 00	| New English Hex
+
+［次元］
+[Jigen]
+$43A464F8 (Line 1)
+33 12	81 40	81 40	81 40	81 6D	8E 9F	8C B3	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #  ［	 #  次	 #  元	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	 #  ［	 J  i	 g  e	 n  ]	 [  n	 ]  #	| New English Text
+33 12	20 20	20 20	20 20	81 6D	4A 69	67 65	6E 5D	5B 6E	5D 00	| New English Hex
+ふ～・・・。
+O.K...
+$43A46533 (Line 2)
+33 16	81 40	81 40	81 40	82 D3	81 60	81 45	81 45	81 45	81 42	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #  ふ	 #  ～	 #  ・	 #  ・	 #  ・	 #  。	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	 O  .	 K  .	 .  .	     	     	     	 [  n	 ]  #	| New English Text
+33 16	20 20	20 20	20 20	4F 2E	4B 2E	2E 2E	20 20	20 20	20 20	5B 6E	5D 00	| New English Hex
+
+［銭形］
+[Zenigata]
+$43A46611 (Line 1)
+33 1A	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 6D	91 4B	8C 60	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  ［	 #  銭	 #  形	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	 #  ［	 Z  e	 n  i	 g  a	 t  a	 ]   	 [  n	 ]  #	| New English Text
+33 1A	20 20	20 20	20 20	20 20	20 20	81 6D	5A 65	6E 69	67 61	74 61	5D 20	5B 6E	5D 00	| New English Hex
+おのれ～
+He was one step ahead of me,
+$43A46635 (Line 2)
+33 1E	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	82 A8	82 CC	82 EA	81 60	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  お	 #  の	 #  れ	 #  ～	 [  n	 ]  #	| Original Japanese Text
+ #LEN	 H  e	    w	 a  s	    1	    s	 t  e	 p   	 a  h	 e  a	 d   	 o  f	    m	 e  ,	 [  n	 ]  #	| New English Text
+33 1E	48 65	20 77	61 73	20 31	20 73	74 65	70 20	61 68	65 61	64 20	6F 66	20 6D	65 2C	5B 6E	5D 00	| New English Hex
+一足、おそかったかっ！
+I got here too late!  
+$43A46655 (Line 3)
+33 2C	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	88 EA	91 AB	81 41	82 A8	82 BB	82 A9	82 C1	82 BD	82 A9	82 C1	81 49	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  一	 #  足	 #  、	 #  お	 #  そ	 #  か	 #  っ	 #  た	 #  か	 #  っ	 #  ！	 [  n	 ]  #	| Original Japanese Text
+ #LEN	 I   	 g  o	 t   	 h  e	 r  e	    t	 o  o	    l	 a  t	 e   	 t  o	    c	 a  t	 c  h	    h	 i  m	 !   	     	     	     	 [  n	 ]  #	| New English Text
+33 2C	49 20	67 6F	74 20	68 65	72 65	20 74	6F 6F	20 6C	61 74	65 20	74 6F	20 63	61 74	63 68	20 68	69 6D	21 20	20 20	20 20	20 20	5B 6E	5D 00	| New English Hex
+
+［銭形］
+[Zenigata]
+$43A466A5 (Line 1)
+33 18	81 40	81 40	81 40	81 40	81 40	81 40	81 6D	91 4B	8C 60	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  ［	 #  銭	 #  形	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	 #  ［	 Z  e	 n  i	 g  a	 t  a	 ]   	 [  n	 ]  #	| New English Text
+33 18	20 20	20 20	20 20	20 20	81 6D	5A 65	6E 69	67 61	74 61	5D 20	5B 6E	5D 00	| New English Hex
+ルパンを追うぞ！
+I will find you Lupin!
+$43A466C7 (Line 2)
+33 22	81 40	81 40	81 40	81 40	81 40	81 40	81 40	83 8B	83 70	83 93	82 F0	92 C7	82 A4	82 BC	81 49	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  ル	 #  パ	 #  ン	 #  を	 #  追	 #  う	 #  ぞ	 #  ！	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	 I   	 w  i	 l  l	    f	 i  n	 d   	 y  o	 u   	 L  u	 p  i	 n  !	 [  n	 ]  #	| New English Text
+33 22	20 20	20 20	20 20	20 20	49 20	77 69	6C 6C	20 66	69 6E	64 20	79 6F	75 20	4C 75	70 69	6E 21	5B 6E	5D 00	| New English Hex
