@@ -12,7 +12,7 @@ Please check out RomHacking & their forum, a great resource for translation work
 http://www.romhacking.net<br />
 <br />
 Howto Compile:<br />
-You will need the original Japanese disk image in .iso (Big-Endian) Format, in the root directory of the patch<br />
+You will need the original Japanese disk image in .iso (Big-Endian) Format, in the root directory of the patch.<br />
 All the code compiles into a new ISO image (ISONAME.iso) file.<br />
 Using bass Run: make.bat<br />
 Or you can patch the original Japanese disk image using the xdelta 3 file.<br />
