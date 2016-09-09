@@ -1,0 +1,92 @@
+﻿SHIFT-JIS
+------------
+Memory Card:
+------------
+しばらくおまちください
+Please Stay Tuned / Please Wait
+$00115B3C
+82 B5	82 CE	82 E7	82 AD	82 A8	82 DC	82 BF	82 AD	82 BE	82 B3	82 A2	00 00	| Original Japanese Hex
+ #  し	 #  ば	 #  ら	 #  く	 #  お	 #  ま	 #  ち	 #  く	 #  だ	 #  さ	 #  い	 #  #	| Original Japanese Text
+ P  l	 e  a	 s  e	    W	 a  i	 t  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	| New English Text
+50 6C	65 61	73 65	20 57	61 69	74 00	00 00	00 00	00 00	00 00	00 00	00 00	| New English Hex
+
+
+スロットＡのメモリーカードに もんだいがあります。
+There is a problem with the memory card in Slot A.
+$00115CFC (Line 1)
+83 58	83 8D	83 62	83 67	82 60	82 CC	83 81	83 82	83 8A	81 5B	83 4A	81 5B	83 68	82 C9	20 82	E0 82	F1 82	BE 82	A2 82	AA 82	A0 82	E8 82	DC 82	B7 81	42 0A	| Original Japanese Hex
+ #  ス	 #  ロ	 #  ッ	 #  ト	 #  Ａ	 #  の	 #  メ	 #  モ	 #  リ	 #  ー	 #  カ	 #  ー	 #  ド	 #  に	    #	 も  #	 ん  #	 だ  #	 い  #	 が  #	 あ  #	 り  #	 ま  #	 す  #	 。 LF	| Original Japanese Text
+ T  h	 e  r	 e   	 i  s	    a	    p	 r  o	 b  l	 e  m	    w	 i  t	 h   	 t  h	 e   	 m  e	 m  o	 r  y	    c	 a  r	 d   	 i  n	    S	 l  o	 t  A	 . LF	| New English Text
+54 68	65 72	65 20	69 73	20 61	20 70	72 6F	62 6C	65 6D	20 77	69 74	68 20	74 68	65 20	6D 65	6D 6F	72 79	20 63	61 72	64 20	69 6E	20 53	6C 6F	74 41	2E 0A	| New English Hex
+しょきかをすることで なおるかもしれませんが
+It might get fixed by initializing it,
+$00115D2E (Line 2)
+82 B5	82 E5	82 AB	82 A9	82 F0	82 B7	82 E9	82 B1	82 C6	82 C5	20 82	C8 82	A8 82	E9 82	A9 82	E0 82	B5 82	EA 82	DC 82	B9 82	F1 82	AA 0A	| Original Japanese Hex
+ #  し	 #  ょ	 #  き	 #  か	 #  を	 #  す	 #  る	 #  こ	 #  と	 #  で	    #	 な  #	 お  #	 る  #	 か  #	 も  #	 し  #	 れ  #	 ま  #	 せ  #	 ん  #	 が LF	| Original Japanese Text
+ I  t	    m	 i  g	 h  t	    g	 e  t	    f	 i  x	 e  d	    b	 y   	 i  n	 i  t	 i  a	 l  i	 z  i	 n  g	    i	 t  ,	     	     	   LF	| New English Text
+49 74	20 6D	69 67	68 74	20 67	65 74	20 66	69 78	65 64	20 62	79 20	69 6E	69 74	69 61	6C 69	7A 69	6E 67	20 69	74 2C	20 20	20 20	20 0A	| New English Hex
+データもすべてきえてしまいます。
+but all the data will be lost.
+$00115D5A (Line 3)
+83 66	81 5B	83 5E	82 E0	82 B7	82 D7	82 C4	82 AB	82 A6	82 C4	82 B5	82 DC	82 A2	82 DC	82 B7	81 42	0A	| Original Japanese Hex
+ #  デ	 #  ー	 #  タ	 #  も	 #  す	 #  べ	 #  て	 #  き	 #  え	 #  て	 #  し	 #  ま	 #  い	 #  ま	 #  す	 #  。	LF	| Original Japanese Text
+ b u	t    	 a  l	 l   	 t  h	 e   	 d  a	 t  a	    w	 i  l	 l   	 b  e	    l	 o  s	 t  .	     	LF	| New English Text
+62 75	74 20	61 6C	6C 20	74 68	65 20	64 61	74 61	20 77	69 6C	6C 20	62 65	20 6C	6F 73	74 2E	20 20	0A	| New English Hex
+しょきかを おこないますか？
+Do you want to initialize?
+$00115D7B (Line 4)
+82 B5	82 E5	82 AB	82 A9	82 F0	20 82	A8 82	B1 82	C8 82	A2 82	DC 82	B7 82	A9 81	48 00	00	| Original Japanese Hex
+ #  し	 #  ょ	 #  き	 #  か	 #  を	    #	 お  #	 こ  #	 な  #	 い  #	 ま  #	 す  #	 か  #	 ？ #	 #	| Original Japanese Text
+ D  o	    y	 o  u	    w	 a  n	 t   	 t  o	    i	 n  i	 t  i	 a  l	 i  z	 e  ?	 #  #	 #	| New English Text
+44 6F	20 79	6F 75	20 77	61 6E	74 20	74 6F	20 69	6E 69	74 69	61 6C	69 7A	65 3F	00 00	00	| New English Hex
+
+
+しょきかを おこないます。 よろしいですか？
+Initializing memory card. Is this OK?
+$00115DE8
+82 B5	82 E5	82 AB	82 A9	82 F0	20 82	A8 82	B1 82	C8 82	A2 82	DC 82	B7 81	42 20	82 E6	82 EB	82 B5	82 A2	82 C5	82 B7	82 A9	81 48	00 00	| Original Japanese Hex
+ #  し	 #  ょ	 #  き	 #  か	 #  を	    #    お  #	 こ  #	 な  #	 い  #	 ま  #	 す  #	 。   	 #  よ	 #  ろ	 #  し	 #  い	 #  で	 #  す	 #  か	 #  ？	 #  #	| Original Japanese Text
+ I  n	 i  t	 i  a	 l  i	 z  i	 n  g	    m	 e  m	 o  r	 y   	 c  a	 r  d	 .   	 I  s	    t	 h  i	 s   	 O  K	 ?  #	 #  #	 #  #	 #  #	| New English Text
+49 6E	69 74	69 61	6C 69	7A 69	6E 67	20 6D	65 6D	6F 72	79 20	63 61	72 64	2E 20	49 73	20 74	68 69	73 20	4F 4B	3F 00	00 00	00 00	00 00	| New English Hex
+ 
+
+しょきかされました。
+It has been initialized.
+$00115E6C
+82 B5	82 E5	82 AB	82 A9	82 B3	82 EA	82 DC	82 B5	82 BD	81 42	00 00	00 00	| Original Japanese Hex
+ #  し	 #  ょ	 #  き	 #  か	 #  さ	 #  れ	 #  ま	 #  し	 #  た	 #  。	 #  #	 #  #	| Original Japanese Text
+ I  t	    i	 s	 n  o	 w     	 i  n	 i  t	 i  a	 l  i	 z  e	 d  .	 #  #	| New English Text
+49 74	20 69	73 20	6E 6F	77 20	69 6E	69 74	69 61	6C 69	7A 65	64 2E	00 00	| New English Hex
+ 
+
+このままゲームをはじめると　セーブすることができません。
+It will not be able to save your progress in the game.
+$00115EC0
+82 B1	82 CC	82 DC	82 DC	83 51	81 5B	83 80	82 F0	82 CD	82 B6	82 DF	82 E9	82 C6	81 40	83 5A	81 5B	83 75	82 B7	82 E9	82 B1	82 C6	82 AA	82 C5	82 AB	82 DC	82 B9	82 F1	81 42	00 00	00 00	| Original Japanese Hex
+ #  こ	 #  の	 #  ま	 #  ま	 #  ゲ	 #  ー	 #  ム	 #  を	 #  は	 #  じ	 #  め	 #  る	 #  と	 #  　	 #  セ	 #  ー	 #  ブ	 #  す	 #  る	 #  こ	 #  と	 #  が	 #  で	 #  き	 #  ま	 #  せ	 #  ん	 #  。	 #  #	 #  #	| Original Japanese Text
+ I  t	    w	 i  l	 l   	 n  o	 t   	 b  e	    a	 b  l	 e   	 t  o	    s	 a  v	 e   	 y  o	 u  r	    p	 r  o	 g  r	 e  s	 s   	 i  n	    t	 h  e	    g	 a  m	 e  .	 #  #	 #  #	 #  #	| New English Text
+49 74	20 77	69 6C	6C 20	6E 6F	74 20	62 65	20 61	62 6C	65 20	74 6F	20 73	61 76	65 20	79 6F	75 72	20 70	72 6F	67 72	65 73	73 20	69 6E	20 74	68 65	20 67	61 6D	65 2E	00 00	00 00	00 00	| New English Hex
+
+
+スロットＡのメモリーカードに ぼうけんを きろくしています。
+The memory card in Slot A is used to record the adventure.
+$00116084 (Line 1)
+83 58	83 8D	83 62	83 67	82 60	82 CC	83 81	83 82	83 8A	81 5B	83 4A	81 5B	83 68	82 C9	20 82	DA 82	A4 82	AF 82	F1 82	F0 20	82 AB	82 EB	82 AD	82 B5	82 C4	82 A2	82 DC	82 B7	81 42	0A	| Original Japanese Hex
+ #  ス	 #  ロ	 #  ッ	 #  ト	 #  Ａ	 #  の	 #  メ	 #  モ	 #  リ	 #  ー	 #  カ	 #  ー	 #  ド	 #  に	    #	 ぼ  #	 う  #	 け  #	 ん  #	 を   	 #  き	 #  ろ	 #  く	 #  し	 #  て	 #  い	 #  ま	 #  す	 #  。	LF	| Original Japanese Text
+ T  h	 e   	 m  e	 m  o	 r  y	    c	 a  r	 d   	 i  n	    S	 l  o	 t   	 A   	 i  s	    u	 s  e	 d   	 t  o	    r	 e  c	 o  r	 d   	 t  h	 e   	 a  d	 v  e	 n  t	 u  r	 e  .	LF	| New English Text
+54 68	65 20	6D 65	6D 6F	72 79	20 63	61 72	64 20	69 6E	20 53	6C 6F	74 20	41 20	69 73	20 75	73 65	64 20	74 6F	20 72	65 63	6F 72	64 20	74 68	65 20	61 64	76 65	6E 74	75 72	65 2E	0A	| New English Hex
+カードをぬいたり でんげんをきったりしないでください。
+Please do not turn off the power or remove the card.
+$001160BF (Line 2)
+83 4A	81 5B	83 68	82 F0	82 CA	82 A2	82 BD	82 E8	20 82	C5 82	F1 82	B0 82	F1 82	F0 82	AB 82	C1 82	BD 82	E8 82	B5 82	C8 82	A2 82	C5 82	AD 82	BE 82	B3 82	A2 81	42 00	00 00	00	| Original Japanese Hex
+ #  カ	 #  ー	 #  ド	 #  を	 #  ぬ	 #  い	 #  た	 #  り	    #	 で  #	 ん  #	 げ  #	 ん  #	 を  #	 き  #	 っ  #	 た  #	 り  #	 し  #	 な  #	 い  #	 で  #	 く  #	 だ  #	 さ  #	 い  #	 。  #	 #  #	 #	| Original Japanese Text
+ P  l	 e  a	 s  e	    d	 o   	 n  o	 t   	 t  u	 r  n	    o	 f  f	    t	 h  e	    p	 o  w	 e  r	    o	 r   	 r  e	 m  o	 v  e	    t	 h  e	    c	 a  r	 d  .	 #  #	 #  #	 #	| New English Text
+50 6C	65 61	73 65	20 64	6F 20	6E 6F	74 20	74 75	72 6E	20 6F	66 66	20 74	68 65	20 70	6F 77	65 72	20 6F	72 20	72 65	6D 6F	76 65	20 74	68 65	20 63	61 72	64 2E	00 00	00 00	00	| New English Hex
+
+ぼうけんを きろくしました。
+The adventure was recorded.
+$001160F8
+82 DA	82 A4	82 AF	82 F1	82 F0	20 82	AB 82	EB 82	AD 82	B5 82	DC 82	B5 82	BD 81	42 00	| Original Japanese Hex
+ #  ぼ	 #  う	 #  け	 #  ん	 #  を	 #  き	 #  ろ	 #  く	 #  し	 #  ま	 #  し	 #  た	 #  。	 #  #	| Original Japanese Text
+ T  h	 e   	 a  d	 v  e	 n  t	 u  r	 e   	 w  a	 s   	 r  e	 c  o	 r  d	 e  d	 .  #	| New English Text
+54 68	65 20	61 64	76 65	6E 74	75 72	65 20	77 61	73 20	72 65	63 6F	72 64	65 64	2E 00	| New English Hex

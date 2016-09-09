@@ -1,0 +1,18 @@
+﻿SHIFT-JIS
+------
+Menus:
+------
+はい
+Yes
+$00199B58 (Line 1)
+82 CD	82 A2	00 00	00 00	| Original Japanese Hex
+ #  は	 #  い	 #  #	 #  #	| Original Japanese Text
+ Y  e	 s  #	 #  #	 #  #	| New English Text
+59 65	73 00	00 00	00 00	| New English Hex
+いいえ
+No
+$00199B60 (Line 2)
+82 A2	82 A2	82 A6	00 00	| Original Japanese Hex
+ #  い	 #  い	 #  え	 #  #	| Original Japanese Text
+ N  o	 #  #	 #  #	 #  #	| New English Text
+4E 6F	00 00	00 00	00 00	| New English Hex

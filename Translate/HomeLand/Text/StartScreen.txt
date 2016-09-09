@@ -1,0 +1,90 @@
+﻿SHIFT-JIS
+-------------
+Start Screen:
+-------------
+ぶき
+Weapons
+$57052600
+82 D4	82 AB	00 00	00 00	| Original Japanese Hex
+ #  ぶ	 #  き	 #  #	 #  #	| Original Japanese Text
+ W  e	 a  p	 o  n	 s  #	| New English Text
+57 65	61 70	6F 6E	73 00	| New English Hex
+
+たて
+Shields
+$57052608
+82 BD	82 C4	00 00	00 00	| Original Japanese Hex
+ #  た	 #  て	 #  #	 #  #	| Original Japanese Text
+ S  h	 i  e	 l  d	 s  #	| New English Text
+53 68	69 65	6C 64	73 00	| New English Hex
+
+こもの
+Items
+$57052610
+82 B1	82 E0	82 CC	00 00	| Original Japanese Hex
+ #  こ	 #  も	 #  の	 #  #	| Original Japanese Text
+ I  t	 e  m	 s  #	 #  #	| New English Text
+49 74	65 6D	73 00	00 00	| New English Hex
+
+けいけん%Dをえた
+You have got %D experiences
+$57052618
+82 AF	82 A2	82 AF	82 F1	25 44	82 F0	82 A6	82 BD	00 00	00 00	| Original Japanese Hex
+ #  け	 #  い	 #  け	 #  ん	 %  D	 #  を	 #  え	 #  た	 #  #	 #  #	| Original Japanese Text
+ Y  o	 u    	 h  a	 v  e	     	 %  D	    E	 X  P	 #  #	 #  #	| New English Text
+59 6F	75 20	68 61	76 65	20 20	25 44	20 45	58 50	00 00	00 00	| New English Hex
+
+はじめから あそぶ
+Start from the beginning
+$5705262C
+82 CD	82 B6	82 DF	82 A9	82 E7	20 82	A0 82	BB 82	D4 00	00 00	| Original Japanese Hex
+ #  は	 #  じ	 #  め	 #  か	 #  ら	    #	 あ  #	 そ  #	 ぶ	 #  #	| Original Japanese Text
+ B  e	 g  i	 n   	 A   	 N  e	 w   	 G  a	 m  e	 #  #	 #  #	| New English Text
+42 65	67 69	6E 20	41 20	4E 65	77 20	47 61	6D 65	00 00	00 00	| New English Hex
+
+ネットワーク
+Network
+$57052640
+83 6C	83 62	83 67	83 8F	81 5B	83 4E	00 00	00 00	| Original Japanese Hex
+ #  ネ	 #  ッ	 #  ト	 #  ワ	 #  ー	 #  ク	 #  #	 #  #	| Original Japanese Text
+ N  e	 t  w	 o  r	 k  #	 #  #	 #  #	 #  #	 #  #	| New English Text
+4E 65	74 77	6F 72	6B 00	00 00	00 00	00 00	00 00	| New English Hex
+
+ネットせってい
+Network Settings
+$57052650
+83 6C	83 62	83 67	82 B9	82 C1	82 C4	82 A2	00 00	| Original Japanese Hex
+ #  ネ	 #  ッ	 #  ト	 #  せ	 #  っ	 #  て	 #  い	 #  #	| Original Japanese Text
+ N  e	 t  w	 o  r	 k   	 S  e	 t  u	 p  #	 #  #	| New English Text
+4E 65	74 77	6F 72	6B 20	53 65	74 75	70 00	00 00	| New English Hex
+
+せつぞくテスト
+Connection Test
+$57052660
+82 B9	82 C2	82 BC	82 AD	83 65	83 58	83 67	00 00	| Original Japanese Hex
+ #  せ	 #  つ	 #  ぞ	 #  く	 #  テ	 #  ス	 #  ト	 #  #	| Original Japanese Text
+ C  o	 n  n	 e  c	 t  i	 o  n	    T	 e  s	 t  #	| New English Text
+43 6F	6E 6E	65 63	74 69	6F 6E	20 54	65 73	74 00	| New English Hex
+
+せいさくスタッフ
+Production Staff
+$57052670
+82 B9	82 A2	82 B3	82 AD	83 58	83 5E	83 62	83 74	00 00	00 00	| Original Japanese Hex
+ #  せ	 #  い	 #  さ	 #  く	 #  ス	 #  タ	 #  ッ	 #  フ	 #  #	 #  #	| Original Japanese Text
+ P  r	 o  d	 u  c	 t  i	 o  n	    S	 t  a	 f  f	 #  #	 #  #	| New English Text
+50 72	6F 64	75 63	74 69	6F 6E	20 53	74 61	66 66	00 00	00 00	| New English Hex
+
+ネットせっていがめんにうつります。
+Go To The Network Settings.
+$57052684 (Line 1)
+83 6C	83 62	83 67	82 B9	82 C1	82 C4	82 A2	82 AA	82 DF	82 F1	82 C9	82 A4	82 C2	82 E8	82 DC	82 B7	81 42	0A	| Original Japanese Hex
+ #  ネ	 #  ッ	 #  ト	 #  せ	 #  っ	 #  て	 #  い	 #  が	 #  め	 #  ん	 #  に	 #  う	 #  つ	 #  り	 #  ま	 #  す	 #  。	LF	| Original Japanese Text
+ G  o	    T	 o   	 T  h	 e   	 N  e	 t  w	 o  r	 k   	 S  e	 t  t	 i  n	 g  s	 .   	     	     	     	LF	| New English Text
+47 6F	20 54	6F 20	54 68	65 20	4E 65	74 77	6F 72	6B 20	53 65	74 74	69 6E	67 73	2E 20	20 20	20 20	20 20	0A	| New English Hex
+よろしいですか？
+Is This OK?
+$570526A7 (Line 2)
+82 E6	82 EB	82 B5	82 A2	82 C5	82 B7	82 A9	81 48	00 00	00 00	00 00	00 00	00	| Original Japanese Hex
+ #  よ	 #  ろ	 #  し	 #  い	 #  で	 #  す	 #  か	 #  ？	 #  #	 #  #	 #  #	 #  #	 #	| Original Japanese Text
+ I  s	    T	 h  i	 s   	 O  K	 ?  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #	| New English Text
+49 73	20 54	68 69	73 20	4F 4B	3F 00	00 00	00 00	00 00	00 00	00 00	00 00	00	| New English Hex

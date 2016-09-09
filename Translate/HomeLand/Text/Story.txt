@@ -1,0 +1,11 @@
+﻿SHIFT-JIS
+------
+Story:
+------
+”ふだんとかわらぬ あるひのこと‥‥”
+"One day, not the same as usual..."
+$23E21A08
+81 68	82 D3	82 BE	82 F1	82 C6	82 A9	82 ED	82 E7	82 CA	20 82	A0 82	E9 82	D0 82	CC 82	B1 82	C6 81	64 81	64 81	68 00	| Original Japanese Hex
+ #  ”	 #  ふ	 #  だ	 #  ん	 #  と	 #  か	 #  わ	 #  ら	 #  ぬ	    #	 あ  #	 る  #	 ひ  #	 の  #	 こ  #	 と  #	 ‥  #	 ‥  #	 ”  #	| Original Japanese Text
+ "  O	 n  e	    d	 a  y	 ,   	 n  o	 t   	 t  h	 e   	 s  a	 m  e	    a	 s   	 u  s	 u  a	 l  .	 .  .	 "  #	 #  #	| New English Text
+22 4F	6E 65	20 64	61 79	2C 20	6E 6F	74 20	74 68	65 20	73 61	6D 65	20 61	73 20	75 73	75 61	6C 2E	2E 2E	22 00	00 00	| New English Hex
