@@ -1,0 +1,162 @@
+﻿SHIFT-JIS
+-----------
+Game Menus:
+-----------
+はい
+Yes
+$41C05442
+82 CD	82 A2	00	| Original Japanese Hex
+ #  は	 #  い	 #	| Original Japanese Text
+ Y  e	 s  #	 #	| New English Text
+59 65	73 00	00	| New English Hex
+
+いいえ
+No
+$41C05447
+82 A2	82 A2	82 A6	00	| Original Japanese Hex
+ #  い	 #  い	 #  え	 #	| Original Japanese Text
+ N  o	 #  #	 #  #	 #	| New English Text
+4E 6F	00 00	00 00	00	| New English Hex
+
+
+てをさしだした
+Joining Team
+$43B54790
+82 C4	82 F0	82 B3	82 B5	82 BE	82 B5	82 BD	00 00	| Original Japanese Hex
+ #  て	 #  を	 #  さ	 #  し	 #  だ	 #  し	 #  た	 #  #	| Original Japanese Text
+ #  Ｊ	 #  ｏ	 #  ｉ	 #  ｎ	 #  ｉ	 #  ｎ	 #  ｇ	 #  #	| New English Text
+82 69	82 8F	82 89	82 8E	82 89	82 8E	82 87	00 00	| New English Hex
+
+
+で せいとん
+Sort Items
+$43B55730
+20 20	20 20	82 C5	20 82	B9 82	A2 82	C6 82	F1 00	| Original Japanese Hex
+     	     	 #  で	    #	 せ  #	 い  #	 と  #	 ん  #	| Original Japanese Text
+     	     	 S  o	 r  t	    I	 t  e	 m  s	 #  #	| New English Text
+20 20	20 20	53 6F	72 74	20 49	74 65	6D 73	00 00	| New English Hex
+
+
+ポイント
+Points
+$43B560E0
+83 7C	83 43	83 93	83 67	00 00	00 00	| Original Japanese Hex
+ #  ポ	 #  イ	 #  ン	 #  ト	 #  #	 #  #	| Original Japanese Text
+ P o	 i  n	 t  s	 #  #	 #  #	 #  #	| New English Text
+50 6F	69 6E	74 73	00 00	00 00	00 00	| New English Hex
+
+もちもの
+Items
+$43B560EC
+82 E0	82 BF	82 E0	82 CC	00 00	00 00	| Original Japanese Hex
+ #  も	 #  ち	 #  も	 #  の	 #  #	 #  #	| Original Japanese Text
+ I  t	 e  m	 s  #	 #  #	 #  #	 #  #	| New English Text
+49 74	65 6D	73 00	00 00	00 00	00 00	| New English Hex
+
+
+たずねる
+Ask
+$43B56100
+82 BD	82 B8	82 CB	82 E9	00 00	00 00	| Original Japanese Hex
+ #  た	 #  ず	 #  ね	 #  る	 #  #	 #  #	| Original Japanese Text
+ A  s	 k  #	 #  #	 #  #	 #  #	 #  #	| New English Text
+41 73	6B 00	00 00	00 00	00 00	00 00	| New English Hex
+
+
+しらべる
+Examine
+$43B56114
+82 B5	82 E7	82 D7	82 E9	00 00	00 00	| Original Japanese Hex
+ #  し	 #  ら	 #  べ	 #  る	 #  #	 #  #	| Original Japanese Text
+ E  x	 a  m	 i  n	 e  #	 #  #	 #  #	| New English Text
+45 78	61 6D	69 6E	65 00	00 00	00 00	| New English Hex
+
+
+いう
+Talk
+$43B56128
+82 A2	82 A4	00 00	00 00	| Original Japanese Hex
+ #  い	 #  う	 #  #	 #  #	| Original Japanese Text
+ T  a	 l  k	 #  #	 #  #	| New English Text
+54 61	6C 6B	00 00	00 00	| New English Hex
+
+てつなぎ
+Team Up
+$43B56130
+82 C4	82 C2	82 C8	82 AC	00 00	00 00	| Original Japanese Hex
+ #  て	 #  つ	 #  な	 #  ぎ	 #  #	 #  #	| Original Japanese Text
+ T  e	 a  m	    U	 p  #	 #  #	 #  #	| New English Text
+54 65	61 6D	20 55	70 00	00 00	00 00	| New English Hex
+
+
+もちものをもっていません
+I do not have any items
+$43B5620C
+82 E0	82 BF	82 E0	82 CC	82 F0	82 E0	82 C1	82 C4	82 A2	82 DC	82 B9	82 F1	00 00	00 00	| Original Japanese Hex
+ #  も	 #  ち	 #  も	 #  の	 #  を	 #  も	 #  っ	 #  て	 #  い	 #  ま	 #  せ	 #  ん	 #  #	 #  #	| Original Japanese Text
+ I   	 d  o	    n	 o  t	    h	 a  v	 e   	 a  n	 y   	 i  t	 e  m	 s  #	 #  #	 #  #	| New English Text
+49 20	64 6F	20 6E	6F 74	20 68	61 76	65 20	61 6E	79 20	69 74	65 6D	73 00	00 00	00 00	| New English Hex
+
+
+てをつなぐ
+Connect Team
+$43B56390
+82 C4	82 F0	82 C2	82 C8	82 AE	00 00	| Original Japanese Hex
+ #  て	 #  を	 #  つ	 #  な	 #  ぐ	 #  #	| Original Japanese Text
+ J  o	 i  n  	    T	 e  a	 m  #	 #  #	| New English Text
+4A 6F	69 6E	20 54	65 61	6D 00	00 00	| New English Hex
+
+てをはなす
+Leave Team
+$43B5639C
+82 C4	82 F0	82 CD	82 C8	82 B7	00 00	| Original Japanese Hex
+ #  て	 #  を	 #  は	 #  な	 #  す	 #  #	| Original Japanese Text
+ L  e	 a  v	 e   	 T  e	 a  m	 #  #	| New English Text
+4C 65	61 76	65 20	54 65	61 6D	00 00	| New English Hex
+
+
+せんとうズーム
+Top Zoom
+$43B564CC (Line 1)
+82 B9	82 F1	82 C6	82 A4	83 59	81 5B	83 80	00 00	| Original Japanese Hex
+ #  せ	 #  ん	 #  と	 #  う	 #  ズ	 #  ー	 #  ム	 #  #	| Original Japanese Text
+ T  o	 p   	 Z  o	 o  m	 #  #	 #  #	 #  #	 #  #	| New English Text
+54 6F	70 20	5A 6F	6F 6D	00 00	00 00	00 00	00 00	| New English Hex
+わざカーソル
+Skill Pointer
+$43B564DC (Line 2)
+82 ED	82 B4	83 4A	81 5B	83 5C	83 8B	00 00	00 00	| Original Japanese Hex
+ #  わ	 #  ざ	 #  カ	 #  ー	 #  ソ	 #  ル	 #  #	 #  #	| Original Japanese Text
+ S  k	 i  l	 l   	 P  o	 i  n	 t  e	 r  #	 #  #	| New English Text
+53 6B	69 6C	6C 20	50 6F	69 6E	74 65	72 00	00 00	| New English Hex
+ＢＧＭボリューム
+BGM Volume
+$43B564EC (Line 3)
+82 61	82 66	82 6C	83 7B	83 8A	83 85	81 5B	83 80	00 00	00 00	| Original Japanese Hex
+ #  Ｂ	 #  Ｇ	 #  Ｍ	 #  ボ	 #  リ	 #  ュ	 #  ー	 #  ム	 #  #	 #  #	| Original Japanese Text
+ B  G	 M   	 V  o	 l  u	 m  e	 #  #	 #  #	 #  #	 #  #	 #  #	| New English Text
+42 47	4D 20	56 6F	6C 75	6D 6E	00 00	00 00	00 00	00 00	00 00	| New English Hex
+ＳＥボリューム
+SE volume
+$43B56500 (Line 4)
+82 72	82 64	83 7B	83 8A	83 85	81 5B	83 80	00 00	| Original Japanese Hex
+ #  Ｓ	 #  Ｅ	 #  ボ	 #  リ	 #  ュ	 #  ー	 #  ム	 #  #	| Original Japanese Text
+    S	 E   	 V  o	 l  u	 m  e	 #  #	 #  #	 #  #	| New English Text
+20 53	45 20	56 6F	6C 75	6D 6E	00 00	00 00	00 00	| New English Hex
+
+
+クリアポイント %dてん
+Clear Points %d Points
+$43B58B90
+83 4E	83 8A	83 41	83 7C	83 43	83 93	83 67	00 00	| Original Japanese Hex
+ #  ク	 #  リ	 #  ア	 #  ポ	 #  イ	 #  ン	 #  ト	 #  #	| Original Japanese Text
+ C  l	 e  a	 r   	 P  o	 i  n	 t  s	 #  #	 #  #	| New English Text
+43 6C	65 61	72 20	50 6F	69 6E	74 73	00 00	00 00	| New English Hex
+
+てん
+points
+$43B58BA0
+82 C4	82 F1	00 00	00 00	| Original Japanese Hex
+ #  て	 #  ん	 #  #	 #  #	| Original Japanese Text
+ p  o	 i  n	 t  s	 #  #	| New English Text
+70 6F	69 6E	74 73	00 00	| New English Hex

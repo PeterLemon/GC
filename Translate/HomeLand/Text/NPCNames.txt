@@ -1,0 +1,11 @@
+﻿SHIFT-JIS
+----------
+NPC Names:
+----------
+おかあさん
+Mother / Mom
+$23E20CF8
+82 A8	82 A9	82 A0	82 B3	82 F1	00	| Original Japanese Hex
+ #  お	 #  か	 #  あ	 #  さ	 #  ん	 #	| Original Japanese Text
+ M  o	 t  h	 e  r	 #  #	 #  #	 #	| New English Text
+4D 6F	74 68	65 72	00 00	00 00	00	| New English Hex

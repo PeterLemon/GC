@@ -2,6 +2,91 @@
 ------
 Story:
 ------
+はやく しゅくだいを しないと
+If the homework is not done / completed quickly
+$23E20D79 (Line 1)
+82 CD	82 E2	82 AD	20 82	B5 82	E3 82	AD 82	BE 82	A2 82	F0 20	82 B5	82 C8	82 A2	82 C6	0A	| Original Japanese Hex
+ #  は	 #  や	 #  く	    #	 し  #	 ゅ  #	 く  #	 だ  #	 い  #	 を   	 #  し	 #  な	 #  い	 #  と	LF	| Original Japanese Text
+ I  f	    t	 h  e	    h	 o  m	 w  o	 r  k	    i	 s   	 n  o	 t   	 d  o	 n  e	LF  M	 o	| New English Text
+49 66	20 74	68 65	20 68	6F 6D	77 6F	72 6B	20 69	73 20	6E 6F	74 20	64 6F	6E 65	0A 4D	6F	| New English Hex
+おかあさんに おこられる！
+Mom will get angry!
+$23E20D96 (Line 2)
+82 A8	82 A9	82 A0	82 B3	82 F1	82 C9	20 82	A8 82	B1 82	E7 82	EA 82	E9 81	49 00	| Original Japanese Hex
+ #  お	 #  か	 #  あ	 #  さ	 #  ん	 #  に	    #	 お  #	 こ  #	 ら  #	 れ  #	 る  #	 ！ #	| Original Japanese Text
+ m   	 w  i	 l  l	    g	 e  t	    a	 n  g	 r  y	 !  #	 #  #	 #  #	 #  #	 #  #	| New English Text
+6D 20	77 69	6C 6C	20 67	65 74	20 61	6E 67	72 79	21 00	00 00	00 00	00 00	00 00	| New English Hex
+
+
+しゅくだいをしますか？
+Are you sure you want to do your homework?
+$23E21417
+82 B5	82 E3	82 AD	82 BE	82 A2	82 F0	82 B5	82 DC	82 B7	82 A9	81 48	00	| Original Japanese Hex
+ #  し	 #  ゅ	 #  く	 #  だ	 #  い	 #  を	 #  し	 #  ま	 #  す	 #  か	 #  ？	 #	| Original Japanese Text
+ D  o	    y	 o  u	 r   	 h  o	 m  e	 w  o	 r  k	 ?  #	 #  #	 #  #	 #	| New English Text
+44 6F	20 79	6F 65	72 20	68 6F	6D 65	77 6F	72 6B	3F 00	00 00	00 00	00	| New English Hex
+
+もんだい１：
+Problem/Question 1:
+$23E2142E (Line 1)
+82 E0	82 F1	82 BE	82 A2	82 50	81 46	0A	| Original Japanese Hex
+ #  も	 #  ん	 #  だ	 #  い	 #  １	 #  ：	LF	| Original Japanese Text
+ Q  u	 e  s	 t  i	 o  n	    1	 :   	LF	| New English Text
+51 75	65 73	74 69	6F 6E	20 31	3A 20	0A	| New English Hex
+３０＋７０＝？
+３０＋７０＝？
+$23E2143B (Line 2)
+82 52	82 4F	81 7B	82 56	82 4F	81 81	81 48	00	| Original Japanese Hex
+ #  ３	 #  ０	 #  ＋	 #  ７	 #  ０	 #  ＝	 #  ？	 #	| Original Japanese Text
+ #  ３	 #  ０	 #  ＋	 #  ７	 #  ０	 #  ＝	 #  ？	 #	| New English Text
+82 52	82 4F	81 7B	82 56	82 4F	81 81	81 48	00	| New English Hex
+
+もんだい２：
+Problem/Question 2:
+$23E2145D (Line 1)
+82 E0	82 F1	82 BE	82 A2	82 51	81 46	0A	| Original Japanese Hex
+ #  も	 #  ん	 #  だ	 #  い	 #  ２	 #  ：	LF	| Original Japanese Text
+ Q  u	 e  s	 t  i	 o  n	    2	 :   	LF	| New English Text
+51 75	65 73	74 69	6F 6E	20 32	3A 20	0A	| New English Hex
+１００－５０＝？
+１００－５０＝？
+$23E2146A (Line 2)
+82 50	82 4F	82 4F	81 7C	82 54	82 4F	81 81	81 48	00	| Original Japanese Hex
+ #  １	 #  ０	 #  ０	 #  －	 #  ５	 #  ０	 #  ＝	 #  ？	 #	| Original Japanese Text
+ #  １	 #  ０	 #  ０	 #  －	 #  ５	 #  ０	 #  ＝	 #  ？	 #	| New English Text
+82 50	82 4F	82 4F	81 7C	82 54	82 4F	81 81	81 48	00	| New English Hex
+
+もんだい３：
+Problem/Question 3:
+$23E21487 (Line 1)
+82 E0	82 F1	82 BE	82 A2	82 52	81 46	0A	| Original Japanese Hex
+ #  も	 #  ん	 #  だ	 #  い	 #  ３	 #  ：	LF	| Original Japanese Text
+ Q  u	 e  s	 t  i	 o  n	    3	 :   	LF	| New English Text
+51 75	65 73	74 69	6F 6E	20 33	3A 20	0A	| New English Hex
+９×９＝？
+９×９＝？
+$23E21494 (Line 2)
+82 58	81 7E	82 58	81 81	81 48	00	| Original Japanese Hex
+ #  ９	 #  ×	 #  ９	 #  ＝	 #  ？	 #	| Original Japanese Text
+ #  ９	 #  ×	 #  ９	 #  ＝	 #  ？	 #	| New English Text
+82 58	81 7E	82 58	81 81	81 48	00	| New English Hex
+
+『きゅうけいタイム』
+"Break Time"
+$23E214B2 (Line 1)
+81 40	81 40	81 40	81 40	81 77	82 AB	82 E3	82 A4	82 AF	82 A2	83 5E	83 43	83 80	81 78	0A	| Original Japanese Hex
+ #   	 #   	 #   	 #   	 #  『	 #  き	 #  ゅ	 #  う	 #  け	 #  い	 #  タ	 #  イ	 #  ム	 #  』	LF	| Original Japanese Text
+     	     	     	     	     	    "	 B  r	 e  a	 k   	 T  i	 m  e	 " LF	 H  e	 r  e	 ,	| New English Text
+20 20	20 20	20 20	20 20	20 20	20 22	42 72	65 61	6B 20	54 69	6D 65	22 0A	48 65	72 65	2C	| New English Hex
+ここで ひといき きゅうけいしましょう！
+Here, let's take a breather break!
+$23E214CF (Line 2)
+82 B1	82 B1	82 C5	20 82	D0 82	C6 82	A2 82	AB 20	82 AB	82 E3	82 A4	82 AF	82 A2	82 B5	82 DC	82 B5	82 E5	82 A4	81 49	00	| Original Japanese Hex
+ #  こ	 #  こ	 #  で	    #	 ひ  #	 と  #	 い  #	 き   	 #  き	 #  ゅ	 #  う	 #  け	 #  い	 #  し	 #  ま	 #  し	 #  ょ	 #  う	 #  ！	 #	| Original Japanese Text
+    l	 e  t	 '  s	    t	 a  k	 e   	 a   	 b  r	 e  a	 t  h	 e  r	    b	 r  e	 a  k	 !  #	 #  #	 #  #	 #  #	 #  #	 #	| New English Text
+20 6C	65 74	27 73	20 74	61 6B	65 20	61 20	62 72	65 61	74 68	65 72	20 62	72 65	61 6B	21 00	00 00	00 00	00 00	00 00	00	| New English Hex
+
+
 ”ふだんとかわらぬ あるひのこと‥‥”
 "One day, not the same as usual..."
 $23E21A08
@@ -9,3 +94,78 @@ $23E21A08
  #  ”	 #  ふ	 #  だ	 #  ん	 #  と	 #  か	 #  わ	 #  ら	 #  ぬ	    #	 あ  #	 る  #	 ひ  #	 の  #	 こ  #	 と  #	 ‥  #	 ‥  #	 ”  #	| Original Japanese Text
  "  O	 n  e	    d	 a  y	 ,   	 n  o	 t   	 t  h	 e   	 s  a	 m  e	    a	 s   	 u  s	 u  a	 l  .	 .  .	 "  #	 #  #	| New English Text
 22 4F	6E 65	20 64	61 79	2C 20	6E 6F	74 20	74 68	65 20	73 61	6D 65	20 61	73 20	75 73	75 61	6C 2E	2E 2E	22 00	00 00	| New English Hex
+
+
+(Player Name)！
+(Player Name)！
+$23E21A39
+81 49	81 A5	00	| Original Japanese Hex
+ #  ！	 #  ▼	 #	| Original Japanese Text
+ #  ！	 #  ▼	 #	| New English Text
+81 49	81 A5	00	| New English Hex
+
+(Player Name)!
+(Player Name)!
+$23E21A3E (Line 1)
+81 49	0A	| Original Japanese Hex
+ #  ！	LF	| Original Japanese Text
+ #  ！	LF	| New English Text
+81 49	0A	| New English Hex
+しゅくだい
+Homework
+$23E21A41 (Line 2)
+82 B5	82 E3	82 AD	82 BE	82 A2	0A	| Original Japanese Hex
+ #  し	 #  ゅ	 #  く	 #  だ	 #  い	LF	| Original Japanese Text
+ H  a	 v  e	    y	 o  u	    d	 o	| New English Text
+48 61	76 65	20 79	6F 75	20 64	6F	| New English Hex
+ちゃんと やってるのっ？
+have you done it?
+$23E21A4C (Line 3)
+82 BF	82 E1	82 F1	82 C6	20 82	E2 82	C1 82	C4 82	E9 82	CC 82	C1 81	48 81	A5 00	| Original Japanese Hex
+ #  ち	 #  ゃ	 #  ん	 #  と	    #	 や  #	 っ  #	 て  #	 る  #	 の  #	 っ  #	 ？  #	 ▼  #	| Original Japanese Text
+ n  e	LF  y	 o  u	 r   	 h  o	 m  e	 w  o	 r  k	 ?  #	 ▼  #	 #  #	 #  #	 #  #	| New English Text
+6E 65	0A 79	6F 75	72 20	68 6F	6D 65	77 6F	72 6B	3F 81	A5 00	00 00	00 00	00 00	| New English Hex 
+
+ほんとに？
+Really?
+$23E21A66 (Line 1)
+82 D9	82 F1	82 C6	82 C9	81 48	0A	| Original Japanese Hex
+ #  ほ	 #  ん	 #  と	 #  に	 #  ？	LF	| Original Japanese Text
+ R  e	 a  l	 l  y	 ? LF  	 O  n	 c	| New English Text
+52 65	61 6C	6C 79	3F 0A	4F 6E	63	| New English Hex
+ウソついたら
+Once you lied
+$23E21A71 (Line 2)
+83 45	83 5C	82 C2	82 A2	82 BD	82 E7	0A	| Original Japanese Hex
+ #  ウ	 #  ソ	 #  つ	 #  い	 #  た	 #  ら	LF	| Original Japanese Text
+ e   	 y  o	 u  	 l  i	 e  d	LF  a	 b	| New English Text
+65 20	79 6F	75 20	6C 69	65 64	0A 61	62	| New English Hex
+おやつぬきよ！
+to me about doing it!
+$23E21A7E (Line 3)
+82 A8	82 E2	82 C2	82 CA	82 AB	82 E6	81 49	81 A5	00	| Original Japanese Hex
+ #  お	 #  や	 #  つ	 #  ぬ	 #  き	 #  よ	 #  ！	 #  ▼	 #	| Original Japanese Text
+ o  u	 t   	 d  o	 i  n	 g   	 i  t    !  #	 ▼  #	 #	| New English Text
+6F 75	74 20	68 6F	69 6E	67 20	69 74	21 81	A5 00	00	| New English Hex
+
+まったく もうっ！
+Really now / you have not done it yet!
+$23E21A8F (Line 1)
+82 DC	82 C1	82 BD	82 AD	20 82	E0 82	A4 82	C1 81	49 0A	| Original Japanese Hex
+ #  ま	 #  っ	 #  た	 #  く	    #	 も  #	 う  #	 っ  #	 ！ LF	| Original Japanese Text
+ R  e	 a  l	 l  y	    n	 o  w	 ! LF	 I  f	    y	 o  u	| New English Text
+52 65	61 6C	6C 79	20 6E	6F 77	21 0A	49 66	20 79	6F 75	| New English Hex
+はやく おわらせないと
+If you do not finish it soon
+$23E21AA1 (Line 2)
+82 CD	82 E2	82 AD	20 82	A8 82	ED 82	E7 82	B9 82	C8 82	A2 82	C6 0A	| Original Japanese Hex
+ #  は	 #  や	 #  く	    #	 お  #	 わ  #	 ら  #	 せ  #	 な  #	 い  #	 と LF	| Original Japanese Text
+    d	 o   	 n  o	 t   	 f  i	 n  i	 s  h	    i	 t LF	 I   	 w  i	| New English Text
+20 68	6F 20	6E 6F	74 20	66 69	6E 69	73 68	20 69	74 0A	49 20	77 69	| New English Hex
+おやつぬきですからねっ！
+I will not let you eat your snack!
+$23E21AB7 (Line 3)
+82 A8	82 E2	82 C2	82 CA	82 AB	82 C5	82 B7	82 A9	82 E7	82 CB	82 C1	81 49	81 A5	00	| Original Japanese Hex
+ #  お	 #  や	 #  つ	 #  ぬ	 #  き	 #  で	 #  す	 #  か	 #  ら	 #  ね	 #  っ	 #  ！	 #  ▼	 #	| Original Japanese Text
+ l  l 	    n	 o  t	    g	 i  v	 e   	 y  o	 u   	 a   	 s  n	 a  c	 k  !	 #  ▼	 #	| New English Text
+6C 6C	20 6E	6F 74	20 67	69 76	65 20	79 6F	75 20	61 20	73 6E	61 63	6B 21	81 A5	00	| New English Hex
