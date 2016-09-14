@@ -7,15 +7,272 @@ If the homework is not done / completed quickly
 $23E20D79 (Line 1)
 82 CD	82 E2	82 AD	20 82	B5 82	E3 82	AD 82	BE 82	A2 82	F0 20	82 B5	82 C8	82 A2	82 C6	0A	| Original Japanese Hex
  #  は	 #  や	 #  く	    #	 し  #	 ゅ  #	 く  #	 だ  #	 い  #	 を   	 #  し	 #  な	 #  い	 #  と	LF	| Original Japanese Text
- I  f	    t	 h  e	    h	 o  m	 w  o	 r  k	    i	 s   	 n  o	 t   	 d  o	 n  e	LF  M	 o	| New English Text
-49 66	20 74	68 65	20 68	6F 6D	77 6F	72 6B	20 69	73 20	6E 6F	74 20	64 6F	6E 65	0A 4D	6F	| New English Hex
+ I  f	    t	 h  e	    h	 o  m	 e  w	 o  r	 k   	 i  s	    n	 o  t	    d	 o  n	 e LF	 M	| New English Text
+49 66	20 74	68 65	20 68	6F 6D	65 77	6F 72	6B 20	69 73	20 6E	6F 74	20 64	6F 6E	65 0A	4D	| New English Hex
 おかあさんに おこられる！
 Mom will get angry!
 $23E20D96 (Line 2)
 82 A8	82 A9	82 A0	82 B3	82 F1	82 C9	20 82	A8 82	B1 82	E7 82	EA 82	E9 81	49 00	| Original Japanese Hex
  #  お	 #  か	 #  あ	 #  さ	 #  ん	 #  に	    #	 お  #	 こ  #	 ら  #	 れ  #	 る  #	 ！ #	| Original Japanese Text
- m   	 w  i	 l  l	    g	 e  t	    a	 n  g	 r  y	 !  #	 #  #	 #  #	 #  #	 #  #	| New English Text
-6D 20	77 69	6C 6C	20 67	65 74	20 61	6E 67	72 79	21 00	00 00	00 00	00 00	00 00	| New English Hex
+ o  m	    w	 i  l	 l   	 g  e	 t   	 a  n	 g  r	 y  !	 #  #	 #  #	 #  #	 #  #	| New English Text
+6F 6D	20 77	69 6C	6C 20	67 65	74 20	61 6E	67 72	79 21	00 00	00 00	00 00	00 00	| New English Hex
+
+しゅくだいを おわらせないと
+If you do not finish the homework
+$23E20DB0 (Line 1)
+82 B5	82 E3	82 AD	82 BE	82 A2	82 F0	20 82	A8 82	ED 82	E7 82	B9 82	C8 82	A2 82	C6 0A	| Original Japanese Hex
+ #  し	 #  ゅ	 #  く	 #  だ	 #  い	 #  を	    #	 お  #	 わ  #	 ら  #	 せ  #	 な  #	 い  #	 と LF	| Original Japanese Text
+ I  f	    y	 o  u	    d	 o   	 n  o	 t   	 f  i	 n  i	 s  h	    t	 h  e	    h	 o  m	| New English Text
+49 66	20 79	6F 75	20 64	6F 20	6E 6F	74 20	66 69	6E 69	73 68	20 74	68 65	20 68	6F 6D	| New English Hex
+おかあさんに おこられる。
+Mom will get angry.
+$23E20DCC (Line 2)
+82 A8	82 A9	82 A0	82 B3	82 F1	82 C9	20 82	A8 82	B1 82	E7 82	EA 82	E9 81	42 00	| Original Japanese Hex
+ #  お	 #  か	 #  あ	 #  さ	 #  ん	 #  に	    #	 お  #	 こ  #	 ら  #	 れ  #	 る  #	 。  #	| Original Japanese Text
+ e  w	 o  r	 k LF	 M  o	 m   	 w  i	 l  l	    g	 e  t	    a	 n  g	 r  y	 .  #	| New English Text
+65 77	6F 72	6B 0A	4D 6F	6D 20	77 69	6C 6C	20 67	65 74	20 61	6E 67	72 79	2E 00	| New English Hex
+
+
+いろいろ しまってある クローゼット。
+Closet that contains various things is closed.
+$23E20E4B (Line 1)
+82 A2	82 EB	82 A2	82 EB	20 82	B5 82	DC 82	C1 82	C4 82	A0 82	E9 20	83 4E	83 8D	81 5B	83 5B	83 62	83 67	81 42	0A	| Original Japanese Hex
+ #  い	 #  ろ	 #  い	 #  ろ	    #	 し  #	 ま  #	 っ  #	 て  #	 あ  #	 る   	 #  ク	 #  ロ	 #  ー	 #  ゼ	 #  ッ	 #  ト	 #  。	LF	| Original Japanese Text
+ C  l	 o  s	 e  t	    c	 o  n	 t  a	 i  n	 i  n	 g	 v  a	 r  i	 o  u	 s   	 t  h	 i  n	 g  s	    i	 s   	 c	| New English Text
+43 6C	6F 73	65 74	20 63	6F 6E	74 61	69 6E	69 6E	67 20	76 61	72 69	6F 75	73 20	74 68	69 6E	67 73	20 69	73 20	63	| New English Hex
+さいきん かたづけていないので
+Recently I cleaned up because it
+$23E20E70 (Line 2)
+82 B3	82 A2	82 AB	82 F1	20 82	A9 82	BD 82	C3 82	AF 82	C4 82	A2 82	C8 82	A2 82	CC 82	C5 0A	| Original Japanese Hex
+ #  さ	 #  い	 #  き	 #  ん	    #	 か  #	 た  #	 づ  #	 け  #	 て  #	 い  #	 な  #	 い  #	 の  #	 で LF	| Original Japanese Text
+ l  o	 s  e	 d  .	LF  I	    c	 l  e	 a  n	 e  d	    u	 p       b  e	 c  a	 u  s	 e   	 i  t	| New English Text
+6C 6F	73 65	64 2E	0A 49	20 63	6C 65	61 6E	65 64	20 75	70 20	62 65	63 61	75 73	65 20	69 74	| New English Hex
+あけたら たいへんなことになるかも‥‥。
+becomes quite messy once opened...
+$23E20E8E (Line 3)
+82 A0	82 AF	82 BD	82 E7	20 82	BD 82	A2 82	D6 82	F1 82	C8 82	B1 82	C6 82	C9 82	C8 82	E9 82	A9 82	E0 81	64 81	64 81	42 00	| Original Japanese Hex
+ #  あ	 #  け	 #  た	 #  ら	    #	 た  #	 い  #	 へ  #	 ん  #	 な  #	 こ  #	 と  #	 に  #	 な  #	 る  #	 か  #	 も  #	 ‥  #	 ‥  #	 。  #	| Original Japanese Text
+    b	 e  c	 o  m	 e  s	    q	 u  i	 t  e	    m	 e  s	 s  y	LF  o	 n  c	 e   	 i  t	    i	 s   	 o  p	 e  n	 e  d	 .  #	| New English Text
+20 62	65 63	6F 6D	65 73	20 71	75 69	74 65	20 6D	65 73	73 79	0A 6F	6E 63	65 20	69 74	20 69	73 20	6F 70	65 6E	65 64	2E 00	| New English Hex
+
+
+『せいぎのヒーロー クエスター』
+"Hero of Justice Quest"
+$23E20EC3
+81 77	82 B9	82 A2	82 AC	82 CC	83 71	81 5B	83 8D	81 5B	20 83	4E 83	47 83	58 83	5E 81	5B 81	78 00	| Original Japanese Hex
+ #  『	 #  せ	 #  い	 #  ぎ	 #  の	 #  ヒ	 #  ー	 #  ロ	 #  ー	    #	 ク  #	 エ  #	 ス  #	 タ  #	 ー  #	 』  #	| Original Japanese Text
+ "  H	 e  r	 o   	 o  f	    J	 u  s	 t  i	 c  e	    Q	 u  e	 s  t	 "  #	 #  #	 #  #	 #  #	 #  #	| New English Text
+22 48	65 72	6F 20	6F 66	20 4A	75 73	74 69	63 65	20 51	75 65	73 74	22 00	00 00	00 00	00 00	00 00	| New English Hex
+
+おそろしい かいぶつがロベルトに おそいかかる！
+Horrible monster whale against Roberto!
+$23E20EE3 (Line 1)
+82 A8	82 BB	82 EB	82 B5	82 A2	20 82	A9 82	A2 82	D4 82	C2 82	AA 83	8D 83	78 83	8B 83	67 82	C9 20	82 A8	82 BB	82 A2	82 A9	82 A9	82 E9	81 49	0A	| Original Japanese Hex
+ #  お	 #  そ	 #  ろ	 #  し	 #  い	    #	 か  #	 い  #	 ぶ  #	 つ  #	 が  #	 ロ  #	 ベ  #	 ル  #	 ト  #	 に  	 #  お	 #  そ	 #  い	 #  か	 #  か	 #  る	 #  ！	 #	| Original Japanese Text
+ H  o	 r  r	 i  b	 l  e	    m	 o  n	 s  t	 e  r	    w	 h  a	 l  e	    a	 g  a	 i  n	 s  t	    R	 o  b	 e  r	 t  o	 ! LF	 M  o	 n  s	 t  e	 r	| New English Text
+48 6F	72 72	69 62	6C 65	20 6D	6F 6E	73 74	65 72	20 77	68 61	6C 65	20 61	67 61	69 6E	73 74	20 52	6F 62	65 72	74 6F	21 0A	4D 6F	6E 73	74 65	72	| New English Hex
+かいぶつ『ギャーオ！！』
+Monster "Gyao!!"
+$23E20F12 (Line 2)
+82 A9	82 A2	82 D4	82 C2	81 77	83 4D	83 83	81 5B	83 49	81 49	81 49	81 78	00	| Original Japanese Hex
+ #  か	 #  い	 #  ぶ	 #  つ	 #  『	 #  ギ	 #  ャ	 #  ー	 #  オ	 #  ！	 #  ！	 #  』	 #	| Original Japanese Text
+    "	 G  y	 a  o	 !  !	 "  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #	| New English Text
+20 22	47 79	61 6F	21 21	22 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00	| New English Hex
+
+あぶないロベルト！
+Danger Roberto!
+$23E20F2B (Line 1)
+82 A0	82 D4	82 C8	82 A2	83 8D	83 78	83 8B	83 67	81 49	0A	| Original Japanese Hex
+ #  あ	 #  ぶ	 #  な	 #  い	 #  ロ	 #  ベ	 #  ル	 #  ト	 #  ！	LF	| Original Japanese Text
+ D  a	 n  g	 e  r	    R	 o  b	 e  r	 t  o	 ! LF	 T  h	 e	| New English Text
+44 61	6E 67	65 72	20 52	6F 62	65 72	74 6F	21 0A	54 68	65	| New English Hex
+するとそこへ しゅりけんビームさくれつ！
+Then the shuriken beam explodes!
+$23E20F3E (Line 2)
+82 B7	82 E9	82 C6	82 BB	82 B1	82 D6	20 82	B5 82	E3 82	E8 82	AF 82	F1 83	72 81	5B 83	80 82	B3 82	AD 82	EA 82	C2 81	49 00	| Original Japanese Hex
+ #  す	 #  る	 #  と	 #  そ	 #  こ	 #  へ	    #	 し  #	 ゅ  #	 り  #	 け  #	 ん  #	 ビ  #	 ー  #	 ム  #	 さ  #	 く  #	 れ  #	 つ  #	 ！  #	| Original Japanese Text
+ n   	 t  h	 e   	 s  h	 u  r	 i  k	 e  n	    b	 e  a	 m   	 e  x	 p  l	 o  d	 e  s	 !  #	 #  #	 #  #	 #  #	 #  #	 #  #	| New English Text
+6E 20	74 68	65 20	73 68	75 72	69 6B	65 6E	20 62	65 61	6D 20	65 78	70 6C	6F 64	65 73	21 00	00 00	00 00	00 00	00 00	00 00	| New English Hex
+
+かいぶつ『ギャアアーォ‥‥！』
+Monster "Gyaaao...!"
+$23E20F66 (Line 1)
+82 A9	82 A2	82 D4	82 C2	81 77	83 4D	83 83	83 41	83 41	81 5B	83 48	81 64	81 64	81 49	81 78	0A	| Original Japanese Hex
+ #  か	 # い	 #  ぶ	 #  つ	 #  『	 #  ギ	 #  ャ	 #  ア	 #  ア	 #  ー	 #  ォ	 #  ‥	 #  ‥	 #  ！	 #  』	LF	| Original Japanese Text
+ M  o	 n  s	 t  e	 r   	 "  G	 y  a	 a  a	 o  .	 .  .	 !  "	LF  U	 n  b	 e  a	 r  a	 b  l	 e	| New English Text
+4D 6F	 6E 73	74 65	72 20	22 47	79 61	61 61	6F 2E	2E 2E	21 22	0A 55	6E 62	65 61	72 61	62 6C	65	| New English Hex
+たまらず にげだす かいぶつ。
+Unbearable can not run away from the monster.
+$23E20F85 (Line 2)
+82 BD	82 DC	82 E7	82 B8	20 82	C9 82	B0 82	BE 82	B7 20	82 A9	82 A2	82 D4	82 C2	81 42	00	| Original Japanese Hex
+ #  た	 #  ま	 #  ら	 #  ず	    #	 に  #	 げ  #	 だ  #	 す  	 #  か	 #  い	 #  ぶ	 #  つ	 #  。	 #	| Original Japanese Text
+    I	    c	 a  n	 n  o	 t	 r  u	 n   	 a  w	 a  y	    f	 r  o	 m   	 i  t	 .  #	 #	| New English Text
+20 49	20 63	61 6E	6E 6F	74 20	72 75	6E 20	61 77	61 79	20 66	72 6F	6D 20	69 74	2E 00	00	| New English Hex
+
+ロベルトに かけよる ナゾのおとこ。
+A mystery man runs over to Roberto.
+$23E20FA2 (Line 1)
+83 8D	83 78	83 8B	83 67	82 C9	20 82	A9 82	AF 82	E6 82	E9 20	83 69	83 5D	82 CC	82 A8	82 C6	82 B1	81 42	0A	| Original Japanese Hex
+ #  ロ	 #  ベ	 #  ル	 #  ト	 #  に	    #	 か  #	 け  #	 よ  #	 る   	 #  ナ	 #  ゾ	 #  の	 #  お	 #  と	 #  こ	 #  。	LF	| Original Japanese Text
+ A   	 m  y	 s  t	 e  r	 y   	 m  a	 n   	 r  u	 n  s	    o	 v  e	 r   	 t  o	    R	 o  b	 e  r	 t  o	 .	| New English Text
+41 20	6D 79	73 74	65 72	79 20	6D 61	6E 20	72 75	6E 73	20 6F	76 65	72 20	74 6F	20 52	6F 62	65 72	74 6F	2E	| New English Hex
+＊＊＊『おケガは ありませんか？』
+*** "Are you not hurt?"
+$23E20FC5 (Line 2)
+81 96	81 96	81 96	81 77	82 A8	83 50	83 4B	82 CD	20 82	A0 82	E8 82	DC 82	B9 82	F1 82	A9 81	48 81	78 00	| Original Japanese Hex
+ #  ＊	 #  ＊	 #  ＊	 #  『	 #  お	 #  ケ	 #  ガ	 #  は	    #	 あ  #	 り  #	 ま  #	 せ  #	 ん  #	 か  #	 ？  #	 』  #	| Original Japanese Text
+LF  *	 *  *	    "	 A  r	 e   	 y  o	 u   	 n  o	 t   	 h  u	 r  t	 ?  "	 #  #	 #  #	 #  #	 #  #	 #  #	| New English Text
+0A 2A	2A 2A	20 22	41 72	65 20	79 6F	75 20	6E 6F	74 20	68 75	72 74	3F 22	00 00	00 00	00 00	00 00	00 00	| New English Hex
+
+かおを あげるロベルト。
+Roberto increases his honor.
+$23E20FE7 (Line 1)
+82 A9	82 A8	82 F0	20 82	A0 82	B0 82	E9 83	8D 83	78 83	8B 83	67 81	42 0A	| Original Japanese Hex
+ #  か	 #  お	 #  を	    #	 あ  #	 げ  #	 る  #	 ロ  #	 ベ  #	 ル  #	 ト  #	 。 LF	| Original Japanese Text
+ R  o	 b  e	 r  t	 o   	 i  n	 c  r	 e  a	 s  e	 s   	 h  i	 s   	 h  o	| New English Text
+52 6F	62 65	72 74	6F 20	69 6E	63 72	65 61	73 65	73 20	68 69	73 20	68 6F	| New English Hex
+ロベルト『おぉ！ もしやあなたは
+Roberto "Oh! By chance you are the
+$23E20FFF (Line 2)
+83 8D	83 78	83 8B	83 67	81 77	82 A8	82 A7	81 49	20 82	E0 82	B5 82	E2 82	A0 82	C8 82	BD 82	CD 0A	| Original Japanese Hex
+ #  ロ	 #  ベ	 #  ル	 #  ト	 #  『	 #  お	 #  ぉ	 #  ！	    #	 も  #	 し  #	 や  #	 あ  #	 な  #	 た  #	 は LF	| Original Japanese Text
+ n  o	 r  .	LF  R	 o  b	 e  r	 t  o	    "	 O  h	 !   	 B  y	    c	 h  a	 n  c	 e   	 y  o	 u   	| New English Text
+6E 6F	72 2E	0A 52	6F 62	65 72	74 6F	20 22	 4F 68	21 20	42 79	20 63	68 61	6E 63	65 20	79 6F	75 20	| New English Hex
+せいぎのヒーロー‥‥』
+Hero of Justice..."
+$23E2101F (Line 3)
+81 40	81 40	81 40	81 40	81 40	82 B9	82 A2	82 AC	82 CC	83 71	81 5B	83 8D	81 5B	81 64	81 64	81 78	00	| Original Japanese Hex
+ #   	 #   	 #   	 #   	 #   	 #  せ	 #  い	 #  ぎ	 #  の	 #  ヒ	 #  ー	 #  ロ	 #  ー	 #  ‥	 #  ‥	 #  』	 #	| Original Japanese Text
+ a  r	 e   	 t  h	 e LF  	 H  e	 r  o	    o	 f   	 J  u	 s  t	 i  c	 e  .	 .  .	 "  #	 #  #	 #  #	 #	| New English Text
+61 72	65 20	74 68	65 0A	48 65	72 6F	20 6F	66 20	4A 75	73 74	69 63	65 2E	2E 2E	22 00	00 00	00 00	00	| New English Hex
+
+つづく‥‥
+To be continued... / To go on... / To follow...
+$23E21040
+82 C2	82 C3	82 AD	81 64	81 64	00	| Original Japanese Hex
+ #  つ	 #  づ	 #  く	 #  ‥	 #  ‥	 #	| Original Japanese Text
+ C  o	 n  t	 i  n	 u  e	 .  .	 #	| New English Text
+43 6F	6E 74	69 6E	75 65	2E 2E	00	| New English Hex
+
+
+マンガにふろくが ついている。
+Appendix is attached to comics.
+$23E2107F (Line 1)
+83 7D	83 93	83 4B	82 C9	82 D3	82 EB	82 AD	82 AA	20 82	C2 82	A2 82	C4 82	A2 82	E9 81	42 0A	| Original Japanese Hex
+ #  マ	 #  ン	 #  ガ	 #  に	 #  ふ	 #  ろ	 #  く	 #  が	    #	 つ  #	 い  #	 て  #	 い  #	 る  。	 # LF	| Original Japanese Text
+ A  p	 p  e	 n  d	 i  x	    a	 t  t	 a  c	 h  e	 d   	 t  o	    c	 o  m	 i  c	 . LF	 W  a	| New English Text
+41 70	70 65	6E 64	69 78	20 61	74 74	61 63	68 65	64 20	74 6F	20 63	6F 6D	69 63	2E 0A	57 61	| New English Hex
+やってみますか？
+Do you want to try? / Want to try and do it?
+$23E2109D (Line 2)
+82 E2	82 C1	82 C4	82 DD	82 DC	82 B7	82 A9	81 48	00	| Original Japanese Hex
+ #  や	 #  っ	 #  て	 #  み	 #  ま	 #  す	 #  か	 #  ？	 #	| Original Japanese Text
+ n  t	    t	 o   	 t  r	 y   	 i  t	 ?  #	 #  #	 #	| New English Text
+6E 74	20 74	6F 20	74 72	79 20	69 74	3F 00	00 00	00	| New English Hex
+
+『クエスターしんだんテスト』
+"Quest Diagnostic Test."
+$23E210AE (Line 1)
+BB 81	77 83	4E 83	47 83	58 83	5E 81	5B 82	B5 82	F1 82	BE 82	F1 83	65 83	58 83	67 81	78 B0	0A	| Original Japanese Hex
+RED #	 『  #	 ク  #	 エ  #	 ス  #	 タ  #	 ー  #	 し  #	 ん  #	 だ  #	 ん  #	 テ  #	 ス  #	 ト  #	 』BLACK	LF	| Original Japanese Text
+RED "	 Q  u	 e  s	 t   	 D  i	 a  g	 n  o	 s  t	 i  c	    T	 e  s	 t  .	 "BLACK LF  A	    k	 e	| New English Text
+BB 22	51 75	65 73	74 20	64 69	61 67	6E 6F	73 74	69 63	20 54	65 73	74 2E	22 B0	0A 41	20 6B	65	| New English Hex
+これで キミも クエスター！
+There is a key to be found in this quest!
+$23E210CD (Line 2)
+81 40	82 B1	82 EA	82 C5	20 83	4C 83	7E 82	E0 20	83 4E	83 47	83 58	83 5E	81 5B	81 49	00	| Original Japanese Hex
+ #   	 #  こ	 #  れ	 #  で	    #	 キ  #	 ミ  #	 も   	 #  ク	 #  エ	 #  ス	 #  タ	 #  ー	 #  ！	 #	| Original Japanese Text
+ y	 c  a	 n   	 b  e	    f	 o  u	 n  d	    i	 n   	 t  h	 e   	 q  u	 e  s	 t  !	 #	| New English Text
+79 20	63 61	6E 20	62 65	20 66	6F 75	6E 64	20 69	6E 20	74 68	65 20	71 75	65 73	74 21	00	| New English Hex
+
+
+『こうかんにっき』
+"Exchange Diary"
+$23E212BF
+81 77	82 B1	82 A4	82 A9	82 F1	82 C9	82 C1	82 AB	81 78	00	| Original Japanese Hex
+ #  『	 #  こ    #  う	 #  か	 #  ん	 #  に	 #  っ	 #  き	 #  』	 #	| Original Japanese Text
+ "  E	 x  c	 h  a	 n  g	 e   	 D  i	 a  r	 y  "	 #  #	 #	| New English Text
+22 45	78 63	68 61	6E 67	65 20	44 69	61 72	79 22	00 00	00	| New English Hex
+
+○がつ×にち
+○ Month x Day
+$23E212D2 (Line 1)
+81 9B	82 AA	82 C2	81 7E	82 C9	82 BF	0A 00	| Original Japanese Hex
+ #  ○	 #  が	 #  つ	 #  ×	 #  に	 #  ち	LF  #	| Original Japanese Text
+ #  ○	    M	 o  n	 t  h	 /  D	 a  y	LF  #	| New English Text
+81 9B	20 4D	6F 6E	74 68	2F 44	61 79	0A 00	| New English Hex
+(Player Name)！ こんしゅうの
+(Player Name)! This week's
+$23E212E0 (Line 2)
+81 49	20 82	B1 82	F1 82	B5 82	E3 82	A4 82	CC 0A	| Original Japanese Hex
+ #  ！	 #  こ	 #  ん	 #  し	 #  ゅ	 #  う	 #  の	 # LF	| Original Japanese Text
+ !   	 T  h	 i  s	    w	 e  e	 k  '	 s LF	 "  H	| New English Text
+21 20	54 68	69 73	20 77	65 65	6B 27	73 0A	22 48	| New English Hex
+『せいぎのヒーロー クエスター』みた？
+"Hero of Justice Quest" seen?
+$23E212F0 (Line 3)
+81 77	82 B9	82 A2	82 AC	82 CC	83 71	81 5B	83 8D	81 5B	20 83	4E 83	47 83	58 83	5E 81	5B 81	78 82	DD 82	BD 81	48 0A	| Original Japanese Hex
+ #  『	 #  せ	 #  い	 #  ぎ	 #  の	 #  ヒ	 #  ー	 #  ロ	 #  ー	    #	 ク  #	 エ  #	 ス  #	 タ  #	 ー  #	 』  #	 み  #	 た  #	 ？ LF	| Original Japanese Text
+ e  r	 o   	 o  f	    J	 u  s	 t  i	 c  e	    Q	 u  e	 s  t	 "   	 s  e	 e  n	 ? LF	 R  o	 b  e	 r  t	 o   	 i  t	| New English Text
+65 72	6F 20	6F 66	20 4A	75 73	74 69	63 65	20 51	75 65	73 74	22 20	73 65	65 6E	3E 0A	52 6F	62 65	72 74	6F 20	69 74	| New English Hex
+ロベルトあぶなかったよねぇー。
+Roberto it was dangerous.
+$23E21316 (Line 4)
+83 8D	83 78	83 8B	83 67	82 A0	82 D4	82 C8	82 A9	82 C1	82 BD	82 E6	82 CB	82 A5	81 5B	81 42	00	| Original Japanese Hex
+ #  ロ	 #  ベ	 #  ル	 #  ト	 #  あ	 #  ぶ	 #  な	 #  か	 #  っ	 #  た	 #  よ	 #  ね	 #  ぇ	 #  ー	 #  。	 #	| Original Japanese Text
+    w	 a  s	    d	 a  n	 g  e	 r  o	 u  s	 .  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #	| New English Text
+20 77	61 73	20 64	61 6E	67 65	72 6F	75 73	2E 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00	| New English Hex
+
+あのさいごに でてきたナゾのおとこって
+Huh, some quest with a mysterious man that
+$23E21335 (Line 1)
+82 A0	82 CC	82 B3	82 A2	82 B2	82 C9	20 82	C5 82	C4 82	AB 82	BD 83	69 83	5D 82	CC 82	A8 82	C6 82	B1 82	C1 82	C4 0A	| Original Japanese Hex
+ #  あ	 #  の	 #  さ	 #  い	 #  ご	 #  に	    #	 で  #	 て  #	 き  #	 た  #	 ナ  #	 ゾ  #	 の  #	 お  #	 と  #	 こ  #	 っ  #	 て LF	| Original Japanese Text
+ H  u	 h  ,	    s	 o  m	 e   	 q  u	 e  s	 t   	 w  i	 t  h	    a       m	 y  s	 t  e	 r  i	 o  u	 s   	 m  a	 n LF	| New English Text
+48 75	68 2C	20 73	6F 6D	65 20	71 75	65 73	74 20	77 69	74 68	20 61	20 6D	79 73	74 65	72 69	6F 75	73 20	6D 61	6E 0A	| New English Hex
+きっとクエスターだよね？
+I just read about in that last moment?
+$23E2135B (Line 2)
+82 AB	82 C1	82 C6	83 4E	83 47	83 58	83 5E	81 5B	82 BE	82 E6	82 CB	81 48	0A	| Original Japanese Hex
+ #  き	 #  っ	 #  と	 #  ク	 #  エ	 #  ス	 #  タ	 #  ー	 #  だ	 #  よ	 #  ね	 #  ？	LF	| Original Japanese Text
+ t  h	 a  t	    I	    j	 u  s	 t   	 r  e	 a  d	 ? LF	 I  '	 l  l	    q	 u	| New English Text
+74 68	61 74	20 49	20 6A	75 73	74 20	72 65	61 64	3F 0A	49 27	6C 6C	20 71	75	| New English Hex
+ああ はやく つづきが よみたいなぁ。
+I'll quickly continue, as I want to read more.
+$23E21374 (Line 3)
+82 A0	82 A0	20 82	CD 82	E2 82	AD 20	82 C2	82 C3	82 AB	82 AA	20 82	E6 82	DD 82	BD 82	A2 82	C8 82	9F 81	42 00	| Original Japanese Hex
+ #  あ	 #  あ	    #	 は  #	 や  #	 く   	 #  つ	 #  づ	 #  き	 #  が	    #	 よ  #	 み  #	 た  #	 い  #	 な  #	 ぁ  #	 。  #	| Original Japanese Text
+ i  c	 k  l	 y   	 c  o	 n  t	 i  n	 u  e	 ,   	 t  o	    f	 i  n	 d   	 o  u	 t   	 m  o	 r  e	 .  #	 #  #	| New English Text
+69 63	6B 6C	79 20	63 6F	6E 74	69 6E	75 65	2C 20	74 6F	20 66	69 6E	64 20	6F 75	74 20	6D 6F	72 65	2E 00	00 00	| New English Hex
+
+あ。あと マンガについてた ふろくやった？
+Ah. Is there anything extra to read?
+$23E21398 (Line 1)
+82 A0	81 42	82 A0	82 C6	20 83	7D 83	93 83	4B 82	C9 82	C2 82	A2 82	C4 82	BD 20	82 D3	82 EB	82 AD	82 E2	82 C1	82 BD	81 48	0A	| Original Japanese Hex
+ #  あ	 #  。	 #  あ	 #  と	    #	 マ  #	 ン  #	 ガ  #	 に  #	 つ  #	 い  #	 て  #	 た  	 #  ふ	 #  ろ	 #  く	 #  や	 #  っ	 #  た	 #  ？	LF	| Original Japanese Text
+ A  h	 .   	 I  s	    t	 h  e	 r  e	    a	 n  y	 t  h	 i  n	 g   	 e  x	 t  r	 a   	 t  o	    r	 e  a	 d   	 h  e	 r  e	 ?	| New English Text
+41 68	2E 20	49 73	20 74	68 65	72 65	20 61	6E 79	74 68	69 6E	67 20	65 78	74 72	61 20	74 6F	20 72	65 61	64 20	68 65	72 65	3F	| New English Hex
+『クエスターしんだんテスト』とかいうやつ。
+"Quest Diagnostic Test" some guy. 
+$23E213C1 (Line 2)
+BB 81	77 83	4E 83	47 83	58 83	5E 81	5B 82	B5 82	F1 82	BE 82	F1 83	65 83	58 83	67 81	78 B0	82 C6	82 A9	82 A2	82 A4	82 E2	82 C2	81 42	0A 00	| Original Japanese Hex
+RED #	 『  #	 ク  #	 エ  #	 ス  #	 タ  #	 ー  #	 し  #	 ん  #	 だ  #	 ん  #	 テ  #	 ス  #	 ト  #	 』BLACK	 #  と	 #  か	 #  い	 #  う	 #  や	 #  つ	 #  。	LF  #	| Original Japanese Text
+LF RED	 "  Q	 u  e	 s  t	    D	 i  a	 g  n	 o  s	 t  i	 c   	 T  e	 s  t	 "BLACK     s	 o  m	 e   	 g  u	 y  .	LF  #	 #  #	 #  #	 #  #	 #  #	| New English Text
+0A BB	22 51	75 65	73 74	20 44	69 61	67 6E	6F 73	74 69	63 20	54 65	73 74	22 B0	20 73	6F 6D	65 20	67 75	79 2E	0A 00	00 00	00 00	00 00	00 00	| New English Hex
+(Player Name)のけっか あした がっこうで
+(Player Name) will find out about the results
+$23E213EF (Line 3)
+82 CC	82 AF	82 C1	82 A9	20 82	A0 82	B5 82	BD 20	82 AA	82 C1	82 B1	82 A4	82 C5	0A	| Original Japanese Hex
+ #  の	 #  け	 #  っ	 #  か	    #	 あ  #	 し  #	 た   	 #  が	 #  っ	 #  こ	 #  う	 #  で	LF	| Original Japanese Text
+    w    i  l	 l   	 f  i	 n  d	    o	 u  t	    t	 o  m	 o  r	 r  o	 w   	 a  t	LF  	| New English Text
+20 77	69 6C	6C 20	66 69	6E 64	20 6F	75 74	20 74	6F 6D	6F 72	72 6F	77 20	61 74	0A	| New English Hex
+おしえてね！
+tomorrow at school!
+$23E2140A (Line 4)
+82 A8	82 B5	82 A6	82 C4	82 CB	81 49	00	| Original Japanese Hex
+ #  お	 #  し	 #  え	 #  て	 #  ね	 #  ！	 #	| Original Japanese Text
+ s  c	 h  o	 o  l	 !  #	 #  #	 #  #	 #	| New English Text
+73 63	68 6F	6F 6C	21 00	00 00	00 00	00	| New English Hex
 
 
 しゅくだいをしますか？
@@ -85,6 +342,28 @@ $23E214CF (Line 2)
  #  こ	 #  こ	 #  で	    #	 ひ  #	 と  #	 い  #	 き   	 #  き	 #  ゅ	 #  う	 #  け	 #  い	 #  し	 #  ま	 #  し	 #  ょ	 #  う	 #  ！	 #	| Original Japanese Text
     l	 e  t	 '  s	    t	 a  k	 e   	 a   	 b  r	 e  a	 t  h	 e  r	    b	 r  e	 a  k	 !  #	 #  #	 #  #	 #  #	 #  #	 #	| New English Text
 20 6C	65 74	27 73	20 74	61 6B	65 20	61 20	62 72	65 61	74 68	65 72	20 62	72 65	61 6B	21 00	00 00	00 00	00 00	00 00	00	| New English Hex
+
+しゅくだい。
+Homework.
+$23E214F6 (Line 1)
+82 B5	82 E3	82 AD	82 BE	82 A2	81 42	0A	| Original Japanese Hex
+ #  し	 #  ゅ	 #  く	 #  だ	 #  い	 #  。	LF	| Original Japanese Text
+ H  o	 m  e	 w  o	 r  k	 . LF	 I  t	  	| New English Text
+48 6F	6D 65	77 6F	72 6B	2E 0A	49 74	20	| New English Hex
+はんぶん おわっている。
+It is halfway through.
+$23E21503 (Line 2)
+82 CD	82 F1	82 D4	82 F1	20 82	A8 82	ED 82	C1 82	C4 82	A2 82	E9 81	42 0A	| Original Japanese Hex
+ #  は	 #  ん	 #  ぶ	 #  ん	    #	 お  #	 わ  #	 っ  #	 て  #	 い  #	 る  #	 。 LF	| Original Japanese Text
+ i  s	    h	 a  l	 f  w	 a  y	    t	 h  r	 o  u	 g  h	 . LF	 T  a	 k  e	| New English Text
+69 73	20 68	61 6C	66 77	61 79	20 74	68 72	6F 75	67 68	2E 0A	54 61	6B 65	| New English Hex
+ちょっと きゅうけいしよう。
+Take a little break.
+$23E2151B (Line 3)
+82 BF	82 E5	82 C1	82 C6	20 82	AB 82	E3 82	A4 82	AF 82	A2 82	B5 82	E6 82	A4 81	42 00	| Original Japanese Hex
+ #  ち	 #  ょ	 #  っ	 #  と	    #	 き  #	 ゅ  #	 う  #	 け  #	 い  #	 し  #	 よ  #	 う  #	 。  #	| Original Japanese Text
+    a	    l	 i  t	 t  l	 e   	 b  r	 e  a	 k  .	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	| New English Text
+20 61	20 6C	69 74	74 6C	65 20	62 72	65 61	6B 2E	00 00	00 00	00 00	00 00	00 00	00 00	| New English Hex
 
 
 ”ふだんとかわらぬ あるひのこと‥‥”

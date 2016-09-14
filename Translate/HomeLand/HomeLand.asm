@@ -32,6 +32,10 @@ macro TextShiftJIS(OFFSET, TEXT) {
   dw {TEXT} // Shift-JIS Text To Print
 }
 
+// Font Colors
+constant BLACK($B0) // Default
+constant RED($BB)
+
 // Memory Card
 Text($00115982, " ON") ; fill 7
 Text($0011598C, "  OFF") ; db $81, $E8 ; fill 5
@@ -72,7 +76,56 @@ Text($23E20CF8, "Mother") ; fill 5
 
 // Story
 Text($23E20D79, "If the homework is not done\n")
-             db "Mom will get angry!" ; fill 9
+             db "Mom will get angry!" ; fill 8
+
+Text($23E20DB0, "If you do not finish the homework\n")
+             db "Mom will get angry." ; fill 1
+
+Text($23E20E4B, "Closet containing various things is closed.\n")
+             db "I cleaned up because it becomes quite messy\n"
+             db "once it is opened." ; fill 1
+
+Text($23E20EC3, "\dHero of Justice Quest\d") ; fill 9
+
+Text($23E20EE3, "Horrible monster whale against Roberto!\n")
+             db "Monster \dGyao!!\d" ; fill 16
+
+Text($23E20F2B, "Danger Roberto!\n")
+             db "Then the shuriken beam explodes!" ; fill 11
+
+Text($23E20F66, "Monster \dGyaaao...!\d\n")
+             db "Unbearable I cannot run away from it." ; fill 2
+
+Text($23E20FA2, "A mystery man runs over to Roberto.\n")
+             db "*** \dAre you not hurt?\d" ; fill 10
+
+Text($23E20FE7, "Roberto increases his honor.\n")
+             db "Roberto \dOh! By chance you are the\n"
+             db "Hero of Justice...\d" ; fill 6
+
+Text($23E21040, "Continue..") ; fill 1
+
+Text($23E2107F, "Appendix attached to comic.\n")
+             db "Want to try it?" ; fill 4
+
+Text($23E210AE, RED) ; db "\dQuest Diagnostic Test.\d", BLACK, "\n"
+             db "A key can be found in the quest!" ; fill 1
+
+Text($23E212BF, "\dExchange Diary\d") ; fill 3
+
+Text($23E212D4, " Month/Day\n") ; fill 1
+Text($23E212E0, "! This week's\n")
+             db "\dHero of Justice Quest\d seen?\n"
+             db "Roberto it was dangerous." ; fill 16
+
+Text($23E21335, "Huh, some quest with a mysterious man\n")
+             db "that I just read?\n"
+             db "I'll quickly continue, to find out more." ; fill 3
+
+Text($23E21398, "Ah. Is there anything extra to read here?\n")
+             db RED, "\dQuest Diagnostic Test\d", BLACK, " some guy.\n" ; fill 9
+             db " will find out tomorrow at\n"
+             db "school!\n" ; fill 6
 
 Text($23E21417, "Do your homework?") ; fill 6
 Text($23E2142E, "Question 1: \n")
@@ -81,6 +134,10 @@ Text($23E21487, "Question 3: \n")
 
 Text($23E214B2, "           \dBreak Time\d\n")
              db "Here, let's take a breather break!" ; fill 10
+
+Text($23E214F6, "Homework.\n")
+             db "It is halfway through.\n"
+             db "Take a little break." ; fill 12
 
 Text($23E21A08, "\dOne day, not the same as usual...\d") ; fill 3
 
