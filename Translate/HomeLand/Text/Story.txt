@@ -32,6 +32,14 @@ $23E20DCC (Line 2)
  e  w	 o  r	 k LF	 M  o	 m   	 w  i	 l  l	    g	 e  t	    a	 n  g	 r  y	 .  #	| New English Text
 65 77	6F 72	6B 0A	4D 6F	6D 20	77 69	6C 6C	20 67	65 74	20 61	6E 67	72 79	2E 00	| New English Hex
 
+クローゼットを かたづけないと！
+If you do not clean up the closet!
+$23E20DE6
+83 4E	83 8D	81 5B	83 5B	83 62	83 67	82 F0	20 82	A9 82	BD 82	C3 82	AF 82	C8 82	A2 82	C6 81	49 00	| Original Japanese Hex
+ #  ク	 #  ロ	 #  ー	 #  ゼ	 #  ッ	 #  ト	 #  を	    #	 か  #	 た  #	 づ  #	 け  #	 な  #	 い  #	 と  #	 ！ #	| Original Japanese Text
+ Y  o	 u   	 m  u	 s  t	    c	 l  e	 a  n  	    u	 p   	 y  o	 u  r	    c	 l  o	 s  e	 t  !	 #  #	| New English Text
+59 6F	65 20	6D 75	73 74	20 63	6C 65	61 6E	20 75	70 20	79 6F	75 72	20 63	6C 6F	73 65	74 21	00 00	| New English Hex
+
 
 いろいろ しまってある クローゼット。
 Closet that contains various things is closed.
@@ -154,6 +162,20 @@ $23E21040
  C  o	 n  t	 i  n	 u  e	 .  .	 #	| New English Text
 43 6F	6E 74	69 6E	75 65	2E 2E	00	| New English Hex
 
+マンガにふろくが ついている。
+Appendix is marked in this comic.
+$23E2104B (Line 1)
+83 7D	83 93	83 4B	82 C9	82 D3	82 EB	82 AD	82 AA	20 82	C2 82	A2 82	C4 82	A2 82	E9 81	42 0A	| Original Japanese Hex
+ #  マ	 #  ン	 #  ガ	 #  に	 #  ふ	 #  ろ	 #  く	 #  が	    #	 つ  #	 い  #	 て  #	 い  #	 る  #	 。 LF	| Original Japanese Text
+ A  p	 p  e	 n  d	 i  x	    i	 s   	 m  a	 r  k	 e  d	    i	 n   	 t  h	 i  s	    c	 o  m	| New English Text
+41 70	70 65	6E 64	69 78	20 69	73 20	6D 61	72 6B	65 64	20 69	6E 20	74 68	69 73	20 63	6F 6D	| New English Hex
+これは さっきやった。
+This was done a while ago.
+$23E21069 (Line 2)
+82 B1	82 EA	82 CD	20 82	B3 82	C1 82	AB 82	E2 82	C1 82	BD 81	42 00	| Original Japanese Hex
+ #  こ	 #  れ	 #  は	    #	 さ  #	 っ  #	 き  #	 や  #	 っ  #	 た  #	 。  #	| Original Japanese Text
+ i  c	 . LF	 D  o	 n  e	    a	    w	 h  i	 l  e	    a	 g  o	 .  #	| New English Text
+69 63	2E 0A	44 6F	6E 65	20 61	20 77	68 69	6C 65	20 61	67 6F	2E 00	| New English Hex
 
 マンガにふろくが ついている。
 Appendix is attached to comics.
@@ -185,6 +207,163 @@ $23E210CD (Line 2)
  y	 c  a	 n   	 b  e	    f	 o  u	 n  d	    i	 n   	 t  h	 e   	 q  u	 e  s	 t  !	 #	| New English Text
 79 20	63 61	6E 20	62 65	20 66	6F 75	6E 64	20 69	6E 20	74 68	65 20	71 75	65 73	74 21	00	| New English Hex
 
+もんだい１：
+Question 1:
+$23E210EA (Line 1)
+82 E0	82 F1	82 BE	82 A2	82 50	81 46	0A	| Original Japanese Hex
+ #  も	 #  ん	 #  だ	 #  い	 #  １	 #  ：	LF	| Original Japanese Text
+ Q  u	 e  s	 t  i	 o  n	    1	 : LF  	 A	| New English Text
+51 75	65 73	74 69	6F 6E	20 31	3A 0A	61	| New English Hex
+じけんはっせい！ キミならどうする？
+An incident happens! What would you do?
+$23E210F7 (Line 2)
+82 B6	82 AF	82 F1	82 CD	82 C1	82 B9	82 A2	81 49	20 83	4C 83	7E 82	C8 82	E7 82	C7 82	A4 82	B7 82	E9 81	48 00	| Original Japanese Hex
+ #  じ	 #  け	 #  ん	 #  は	 #  っ	 #  せ	 #  い	 #  ！	    #	 キ  #	 ミ  #	 な  #	 ら  #	 ど  #	 う  #	 す  #	 る  #	 ？  #	| Original Japanese Text
+ n	 i  n	 c  i	 d  e	 n  t	    h  	 a  p	 p  e	 n  s	 !   	 W  h	 a  t	    d	 o   	 y  o	 u   	 d  o	 ?  #	| New English Text
+6E 20	69 6E	63 69	64 65	6E 74	20 68	61 70	70 65	6E 63	21 20	57 68	61 74	20 64	6F 20	79 6F	75 20	64 6F	3F 00	| New English Hex
+
+ちからで かいけつ！
+Resolve it by force!
+$23E2111B (Line 1)
+82 BF	82 A9	82 E7	82 C5	20 82	A9 82	A2 82	AF 82	C2 81	49 00	| Original Japanese Hex
+ #  ち	 #  か	 #  ら	 #  で	    #	 か  #	 い  #	 け  #	 つ  #	 ！  #	| Original Japanese Text
+ R  e	 s  o	 l  v	 e   	 w  i	 t  h	    f	 o  r	 c  e	 !  #	| New English Text
+52 65	73 6F	6C 76	65 20	77 69	74 68	20 66	6F 72	63 65	21 00	| New English Hex
+ずのうで かいけつ！
+Resolve it using your brain!
+$23E2112F (Line 2)
+82 B8	82 CC	82 A4	82 C5	20 82	A9 82	A2 82	AF 82	C2 81	49 00	| Original Japanese Hex
+ #  ず	 #  の	 #  う	 #  で	    #	 か  #	 い  #	 け  #	 つ  #	 ！  #	| Original Japanese Text
+ R  e	 s  o	 l  v	 e   	 w  i	 t  h	    b	 r  a	 i  n	 !  #	| New English Text
+52 65	73 6F	6C 76	65 20	77 69	74 68	20 62	72 61	69 6E	21 00	| New English Hex
+
+もんだい２：
+Question 2:
+$23E21143 (Line 1)
+82 E0	82 F1	82 BE	82 A2	82 51	81 46	0A	| Original Japanese Hex
+ #  も	 #  ん	 #  だ	 #  い	 #  ２	 #  ：	LF	| Original Japanese Text
+ Q  u	 e  s	 t  i	 o  n	    2	 : LF	 C	| New English Text
+51 75	65 73	74 69	6F 6E	20 32	3A 0A	43	| New English Hex
+カワイイふくと カッコイイふく。
+Cute clothes or cool clothes.
+$23E21150 (Line 2)
+83 4A	83 8F	83 43	83 43	82 D3	82 AD	82 C6	20 83	4A 83	62 83	52 83	43 83	43 82	D3 82	AD 81	42 0A	| Original Japanese Hex
+ #  カ	 #  ワ	 #  イ	 #  イ	 #  ふ	 #  く	 #  と	    #	 カ  #	 ッ  #	 コ  #	 イ  #	 イ  #	 ふ  #	 く  #	 。 LF	| Original Japanese Text
+ u  t	 e   	 c  l	 o  t	 h  e	 s   	 o  r	    c	 o  o	 l   	 c  l	 o  t	 h  e	 s  .	LF  W	 h  i	| New English Text
+75 74	65 20	63 6C	6F 74	68 65	73 20	6F 72	20 63	6F 6F	6C 20	63 6C	6F 74	68 65	73 2E	0A 57	68 69	| New English Hex
+キミなら どっちをえらぶ？
+Which would you choose?
+$23E21170 (Line 3)
+83 4C	83 7E	82 C8	82 E7	20 82	C7 82	C1 82	BF 82	F0 82	A6 82	E7 82	D4 81	48 00	| Original Japanese Hex
+ #  キ	 #  ミ	 #  な	 #  ら	    #	 ど  #	 っ  #	 ち  #	 を  #	 え  #	 ら  #	 ぶ  #	 ？  #	| Original Japanese Text
+ c  h	    w	 o  u	 l  d	    y	 o  u	    c	 h  o	 o  s	 e  ?	 #  #	 #  #	 #  #	| New English Text
+63 68	20 77	6F 65	6C 64	20 79	6F 75	20 63	68 6F	6F 73	65 3F	00 00	00 00	00 00	| New English Hex
+
+カワイイふく
+Cute clothes
+$23E2118A (Line 1)
+83 4A	83 8F	83 43	83 43	82 D3	82 AD	00	| Original Japanese Hex
+ #  カ	 #  ワ	 #  イ	 #  イ	 #  ふ	 #  く	 #	| Original Japanese Text
+ C  u	 t  e	    c	 l  o	 t  h	 e  s	 #	| New English Text
+43 75	74 65	20 63	6C 6F	74 68	65 73	00	| New English Hex
+カッコイイふく
+Cool clothes
+$23E21197 (Line 2)
+83 4A	83 62	83 52	83 43	83 43	82 D3	82 AD	00	| Original Japanese Hex
+ #  カ	 #  ッ	 #  コ	 #  イ	 #  イ	 #  ふ	 #  く	 #	| Original Japanese Text
+ C  o	 o  l	    c	 l  o	 t  h	 e  s	 #  #	 #	| New English Text
+43 6F	6F 6C	20 63	6C 6F	74 68	65 73	00 00	00	| New English Hex
+
+もんだい３：
+Question 3:
+$23E211A6 (Line 1)
+82 E0	82 F1	82 BE	82 A2	82 52	81 46	0A	| Original Japanese Hex
+ #  も	 #  ん	 #  だ	 #  い	 #  ３	 #  ：	LF	| Original Japanese Text
+ Q  u	 e  s	 t  i	 o  n	    3	 : LF	 A	| New English Text
+51 75	65 73	74 69	6F 6E	20 33	3A 0A	41	| New English Hex
+おそろしいまものが おそってきた！
+A Horrible monster needs to be hit!
+$23E211B3 (Line 2)
+82 A8	82 BB	82 EB	82 B5	82 A2	82 DC	82 E0	82 CC	82 AA	20 82	A8 82	BB 82	C1 82	C4 82	AB 82	BD 81	49 0A	| Original Japanese Hex
+ #  お	 #  そ	 #  ろ	 #  し	 #  い	 #  ま	 #  も	 #  の	 #  が	    #	 お  #	 そ  #	 っ  #	 て  #	 き  #	 た  #	 ！ LF	| Original Japanese Text
+    H	 o  r	 r  i	 b  l	 e   	 m  o	 n  s	 t  e	 r   	 n  e	 e  d	 s   	 t  o	    b	 e   	 h  i	 t  !	| New English Text
+20 48	6F 72	72 69	62 6C	65 20	6D 6F	6E 73	74 65	72 20	6E 65	65 64	73 20	74 6F	20 62	65 20	68 69	74 21	| New English Hex
+キミならどうする？
+What would you do?
+$23E211D5 (Line 3)
+83 4C	83 7E	82 C8	82 E7	82 C7	82 A4	82 B7	82 E9	81 48	00	| Original Japanese Hex
+ #  キ	 #  ミ	 #  な	 #  ら	 #  ど	 #  う	 #  す	 #  る	 #  ？	 #	| Original Japanese Text
+LF  W	 h  a	 t   	 d  o	    y	 o  u	    d	 o  ?	 #  #	 #	| New English Text
+0A 57	68 61	74 20	68 6F	20 79	6F 75	20 64	6F 3F	00 00	00	| New English Hex
+
+みんなで たちむかう
+Get everyone to face it
+$23E211E8 (Line 1)
+82 DD	82 F1	82 C8	82 C5	20 82	BD 82	BF 82	DE 82	A9 82	A4 00	| Original Japanese Hex
+ #  み	 #  ん	 #  な	 #  で	    #	 た  #	 ち  #	 む  #	 か  #	 う  #	| Original Japanese Text
+ E  v	 e  r	 y  o	 n  e	    t	 o   	 f  a	 c  e	    i	 t  #	| New English Text
+45 76	65 72	79 6F	6E 65	20 74	6F 20	66 61	63 65	20 69	74 00	| New English Hex
+ひとりで たちむかう
+Face it alone
+$23E211FC (Line 2)
+82 D0	82 C6	82 E8	82 C5	20 82	BD 82	BF 82	DE 82	A9 82	A4 00	| Original Japanese Hex
+ #  ひ	 #  と	 #  り	 #  で	    #	 た  #	 ち  #	 む  #	 か  #	 う  #	| Original Japanese Text
+ F  a	 c  e	    i	 t   	 a  l	 o  n	 e  #	 #  #	 #  #	 #  #	| New English Text
+46 61	63 65	20 69	74 20	61 6C	6F 6E	65 00	00 00	00 00	00 00	| New English Hex
+
+おわり
+End / Done
+$23E21210
+82 A8	82 ED	82 E8	00	| Original Japanese Hex
+ #  お	 #  わ	 #  り	 #	| Original Japanese Text
+ D  o	 n  e	 #  #	 #	| New English Text
+44 6F	6E 65	00 00	00	| New English Hex
+
+もふぉっ。
+My follower / pupil.
+$23E21217 (Line 1)
+82 E0	82 D3	82 A7	82 C1	81 42	00	| Original Japanese Hex
+ #  も	 #  ふ	 #  ぉ	 #  っ	 #  。	 #	| Original Japanese Text
+ M  y	    P	 u  p	 i  l	 .  #	 #	| New English Text
+4D 79	20 50	75 70	69 6C	2E 00	00	| New English Hex
+しんだんのけっか おぬしは‥‥
+The outcome of the diagnosis is...
+$23E21222 (Line 2)
+82 B5	82 F1	82 BE	82 F1	82 CC	82 AF	82 C1	82 A9	20 82	A8 82	CA 82	B5 82	CD 81	64 81	64 00	| Original Japanese Hex
+ #  し	 #  ん	 #  だ	 #  ん	 #  の	 #  け	 #  っ	 #  か	    #	 お  #	 ぬ  #	 し  #	 は  #	 ‥  #	 ‥  #	| Original Japanese Text
+ Y  o	 u  r	    d	 i  a	 g  n	 o  s	 i  s	    r	 e  s	 u  l	 t  s	    a	 r  e	 .  .	 .  # 	| New English Text
+59 6F	75 72	20 64	69 61	67 6E	6F 73	69 73	20 72	65 73	75 6C	74 73	20 61	72 65	2E 2E	2E 00	| New English Hex
+
+ちからづよいガントタイプじゃ！
+Super Powerful Galant Type!
+$23E21240
+82 BF	82 A9	82 E7	82 C3	82 E6	82 A2	83 4B	83 93	83 67	83 5E	83 43	83 76	82 B6	82 E1	81 49	00	| Original Japanese Hex
+ #  ち	 #  か	 #  ら	 #  づ	 #  よ	 #  い	 #  ガ	 #  ン	 #  ト	 #  タ	 #  イ	 #  プ	 #  じ	 #  ゃ	 #  ！	 #	| Original Japanese Text
+ S  u	 p  e	 r   	 P  o	 w  e	 r  f	 u  l	    G	 a  l	 a  n	 t   	 T  y	 p  e	 !  #	 #  #	 #	| New English Text
+53 75	70 65	72 20	50 6F	77 65	72 66	75 6C	20 47	61 6C	61 6E	74 20	54 79	70 65	21 00	00 00	00	| New English Hex
+
+がんばりやのブロックタイプじゃ！
+Super Perseverance & Defending Type!
+$23E2125F
+82 AA	82 F1	82 CE	82 E8	82 E2	82 CC	83 75	83 8D	83 62	83 4E	83 5E	83 43	83 76	82 B6	82 E1	81 49	00	| Original Japanese Hex
+ #  が	 #  ん	 #  ば	 #  り	 #  や	 #  の	 #  ブ	 #  ロ	 #  ッ	 #  ク	 #  タ	 #  イ	 #  プ	 #  じ	 #  ゃ	 #  ！	 #	| Original Japanese Text
+ P  e	 r  s	 e  v	 e  r	 a  n	 c  e	    a	 n  d	    D	 e  f	 e  n	 d  i	 n  g	    T	 y  p	 e  !	 #	| New English Text
+50 65	72 73	65 76	65 72	61 6E	63 65	20 61	6E 64	20 44	65 66	65 6E	64 69	6E 67	20 54	79 70	65 21	00	| New English Hex
+
+はやく クローゼットを かたづけないと
+If I do not clean up the closet quickly
+$23E21280 (Line 1)
+82 CD	82 E2	82 AD	20 83	4E 83	8D 81	5B 83	5B 83	62 83	67 82	F0 20	82 A9	82 BD	82 C3	82 AF	82 C8	82 A2	82 C6	0A	| Original Japanese Hex
+ #  は	 #  や	 #  く	    #	 ク  #	 ロ  #	 ー  #	 ゼ  #	 ッ  #	 ト  #	 を   	 #  か	 #  た	 #  づ	 #  け	 #  な	 #  い	 #  と	LF	| Original Japanese Text
+ I  f	    I	    d	 o   	 n  o	 t   	 c  l	 e  a	 n   	 u  p	    t	 h  e	    c	 l  o	 s  e	 t   	 q  u	 i  c	 k	| New English Text
+49 66	20 49	20 64	6F 20	6E 6F	74 20	63 6C	65 61	6E 20	75 70	20 74	68 65	20 63	6C 6F	73 65	74 20	71 75	69 63	6B	| New English Hex
+おかあさんに おこられる！
+mom will get angry!
+$23E212A5 (Line 2)
+82 A8	82 A9	82 A0	82 B3	82 F1	82 C9	20 82	A8 82	B1 82	E7 82	EA 82	E9 81	49 00	| Original Japanese Hex
+ #  お	 #  か	 #  あ	 #  さ	 #  ん	 #  に	    #	 お  #	 こ  #	 ら  #	 れ  #	 る  #	 ！  #	| Original Japanese Text
+ l  y	LF  m	 o  m	    w	 i  l	 l   	 g  e	 t   	 a  n	 g  r	 y  !	 #  #	 #  #	| New English Text
+6C 79	0A 6D	6F 6D	20 77	69 6C	6C 20	67 65	74 20	61 6E	67 72	79 21	00 00	00 00	| New English Hex
 
 『こうかんにっき』
 "Exchange Diary"
@@ -364,6 +543,59 @@ $23E2151B (Line 3)
  #  ち	 #  ょ	 #  っ	 #  と	    #	 き  #	 ゅ  #	 う  #	 け  #	 い  #	 し  #	 よ  #	 う  #	 。  #	| Original Japanese Text
     a	    l	 i  t	 t  l	 e   	 b  r	 e  a	 k  .	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	| New English Text
 20 61	20 6C	69 74	74 6C	65 20	62 72	65 61	6B 2E	00 00	00 00	00 00	00 00	00 00	00 00	| New English Hex
+
+
+(Player Name)！
+(Player Name)!
+$23E21776 (Line 1)
+81 49	0A	| Original Japanese Hex
+ #  ！	LF	| Original Japanese Text
+ #  ！	LF	| New English Text
+81 49	0A	| New English Hex
+しゅくだいは おわったのっ？
+Is the homework finished?
+$23E21779 (Line 2)
+82 B5	82 E3	82 AD	82 BE	82 A2	82 CD	20 82	A8 82	ED 82	C1 82	BD 82	CC 82	C1 81	48 81	A5 00	0A	| Original Japanese Hex
+ #  し	 #  ゅ	 #  く	 #  だ	 #  い	 #  は	    #	 お  #	 わ  #	 っ  #	 た  #	 の  #	 っ  #	 ？  #	 ▼  #	LF	| Original Japanese Text
+ I  s	    t	 h  e	    h	 o  m	 e  w	 o  r	 k   	 f  i	 n  i	 s  h	 e  d	 ?  #	 ▼  #	 #  #	LF	| New English Text
+49 73	20 74	68 65	20 68	6F 6D	65 77	6F 72	6B 20	66 69	6E 69	73 68	65 64	3F 81	A5 00	00 00	0A	| New English Hex
+
+おわったら おへやの
+When you are finished
+$23E21798 (Line 1)
+82 A8	82 ED	82 C1	82 BD	82 E7	20 82	A8 82	D6 82	E2 82	CC 0A	| Original Japanese Hex
+ #  お	 #  わ	 #  っ	 #  た	 #  ら	    #	 お  #	 へ  #	 や  #	 の LF	| Original Japanese Text
+ W  h	 e  n	    y	 o  u	    f	 i  n	 i  s	 h LF	 y  o	 u   	| New English Text
+57 68	65 6E	20 79	6F 75	20 66	69 6E	69 73	68 0A	79 6F	75 20	| New English Hex
+クローゼットのなか
+you can play with the things you have
+$23E217AC (Line 2)
+BB 83	4E 83	8D 81	5B 83	5B 83	62 83	67 B0	82 CC	82 C8	82 A9	0A	| Original Japanese Hex
+RED #	 ク  #	 ロ  #	 ー  #	 ゼ  #	 ッ  #	 トBLACK	 #  の	 #  な	 #  か	LF	| Original Japanese Text
+ c  a	 n   	 p  l	 a  y	    w	 i  t	 h   	 t  h	 e   	 s  t	 u	| New English Text
+63 61	6E 20	70 6C	61 79	20 77	69 74	68 20	74 68	65 20	73 74	75	| New English Hex
+かたづけなさいよっ！
+put away in the closet of your room!
+$23E217C1 (Line 3)
+82 A9	82 BD	82 C3	82 AF	82 C8	82 B3	82 A2	82 E6	82 C1	81 49	81 A5	00 0A	| Original Japanese Hex
+ #  か	 #  た	 #  づ	 #  け	 #  な	 #  さ	 #  い	 #  よ	 #  っ	 #  ！	 #  ▼	 # LF	| Original Japanese Text
+ f  f	LF  i	 n   	 y  o	 u  r	  RED	 c  l	 o  s	 e  t	BLACK!	 #  ▼	 # LF	| New English Text
+66 66	0A 69	6E 20	79 6F	75 72	20 BB	63 6C	6F 73	65 74	B0 21	81 A5	00 0A	| New English Hex
+
+ちゃんと かたづけないと
+If you do not clean up properly
+$23E217D9 (Line 1)
+82 BF	82 E1	82 F1	82 C6	20 82	A9 82	BD 82	C3 82	AF 82	C8 82	A2 82	C6 0A	| Original Japanese Hex
+ #  ち	 #  ゃ	 #  ん	 #  と	    #	 か  #	 た  #	 づ  #	 け  #	 な  #	 い  #	 と LF	| Original Japanese Text
+ I  f	    y	 o  u	    d	 o   	 n  o	 t   	 c  l	 e  a	 n   	 u  p	    I	| New English Text
+49 66	20 79	6F 75	20 64	6F 20	6E 6F	74 20	63 6C	65 61	6E 20	75 70	20 49	| New English Hex
+おやつぬきですからねっ！
+I will not give you a snack!
+$23E217F1 (Line 2)
+82 A8	82 E2	82 C2	82 CA	82 AB	82 C5	82 B7	82 A9	82 E7	82 CB	82 C1	81 49	81 A5	00 0A	| Original Japanese Hex
+ #  お	 #  や	 #  つ	 #  ぬ	 #  き	 #  で	 #  す	 #  か	 #  ら	 #  ね	 #  っ	 #  ！	 #  ▼	 # LF	| Original Japanese Text
+    w	 o  n	 '  t 	    g	 i  v	 e   	 y  o	 u   	 a   	 s  n	 a  c	 k  !	 #  ▼	 # LF	| New English Text
+20 77	6F 6E	27 74	20 67	69 76	65 20	79 6F	75 20	61 20	73 6E	61 63	6B 21	81 A5	00 0A	| New English Hex
 
 
 ”ふだんとかわらぬ あるひのこと‥‥”

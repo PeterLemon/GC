@@ -81,6 +81,8 @@ Text($23E20D79, "If the homework is not done\n")
 Text($23E20DB0, "If you do not finish the homework\n")
              db "Mom will get angry." ; fill 1
 
+Text($23E20DE6, "You must clean up your closet!") ; fill 2
+
 Text($23E20E4B, "Closet containing various things is closed.\n")
              db "I cleaned up because it becomes quite messy\n"
              db "once it is opened." ; fill 1
@@ -105,11 +107,42 @@ Text($23E20FE7, "Roberto increases his honor.\n")
 
 Text($23E21040, "Continue..") ; fill 1
 
+Text($23E2104B, "Appendix is marked in this comic.\n")
+             db "Done a while ago." ; fill 1
+
 Text($23E2107F, "Appendix attached to comic.\n")
              db "Want to try it?" ; fill 4
 
 Text($23E210AE, RED) ; db "\dQuest Diagnostic Test.\d", BLACK, "\n"
              db "A key can be found in the quest!" ; fill 1
+
+Text($23E210EA, "Question 1:\n")
+             db "An incident happens! What do you do?" ; fill 1
+Text($23E2111B, "Resolve with force!") ; fill 1
+Text($23E2112F, "Resolve with brain!") ; fill 1
+
+Text($23E21143, "Question 2:\n")
+             db "Cute clothes or cool clothes.\n"
+             db "Which would you choose?" ; fill 6
+Text($23E2118A, "Cute clothes") ; fill 1
+Text($23E21197, "Cool clothes") ; fill 3
+
+Text($23E211A6, "Question 3:\n")
+             db "A Horrible monster needs to be hit!\n"
+             db "What do you do?" ; fill 3
+Text($23E211E8, "Everyone to face it") ; fill 1
+Text($23E211FC, "Face it alone") ; fill 7
+
+Text($23E21210, "Done") ; fill 3
+
+Text($23E21217, "My Pupil.") ; fill 2
+Text($23E21222, "Your diagnosis results are...") ; fill 1
+
+Text($23E21240, "Super Powerful Galant Type!") ; fill 4
+Text($23E2125F, "Perseverance and Defending Type!") ; fill 1
+
+Text($23E21280, "If I do not clean up the closet quickly\n")
+             db "mom will get angry!" ; fill 4
 
 Text($23E212BF, "\dExchange Diary\d") ; fill 3
 
@@ -125,7 +158,7 @@ Text($23E21335, "Huh, some quest with a mysterious man\n")
 Text($23E21398, "Ah. Is there anything extra to read here?\n")
              db RED, "\dQuest Diagnostic Test\d", BLACK, " some guy.\n" ; fill 9
              db " will find out tomorrow at\n"
-             db "school!\n" ; fill 6
+             db "school!" ; fill 6
 
 Text($23E21417, "Do your homework?") ; fill 6
 Text($23E2142E, "Question 1: \n")
@@ -138,6 +171,15 @@ Text($23E214B2, "           \dBreak Time\d\n")
 Text($23E214F6, "Homework.\n")
              db "It is halfway through.\n"
              db "Take a little break." ; fill 12
+
+Text($23E21779, "Is the homework finished?") ; db $81, $A5 ; fill 3 ; db "\n"
+
+Text($23E21798, "When you finish\n")
+             db "you can play with the stuff\n"
+             db "in your ", RED, "closet", BLACK, "!", $81, $A5 ; fill 1 ; db "\n"
+
+Text($23E217D9, "If you do not clean up\n")
+             db "I won't give you a snack!", $81, $A5 ; fill 1 ; db "\n"
 
 Text($23E21A08, "\dOne day, not the same as usual...\d") ; fill 3
 
