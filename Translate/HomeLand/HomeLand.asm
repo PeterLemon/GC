@@ -138,8 +138,8 @@ Text($23E21210, "Done") ; fill 3
 Text($23E21217, "My Pupil.") ; fill 2
 Text($23E21222, "Your diagnosis results are...") ; fill 1
 
-Text($23E21240, "Super Powerful Galant Type!") ; fill 4
-Text($23E2125F, "Perseverance and Defending Type!") ; fill 1
+Text($23E21240, "Powerful Galant Type!") ; fill 10
+Text($23E2125F, "Endurance Defence Type!") ; fill 10
 
 Text($23E21280, "If I do not clean up the closet quickly\n")
              db "mom will get angry!" ; fill 4

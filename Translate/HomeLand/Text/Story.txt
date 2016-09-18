@@ -339,16 +339,16 @@ Super Powerful Galant Type!
 $23E21240
 82 BF	82 A9	82 E7	82 C3	82 E6	82 A2	83 4B	83 93	83 67	83 5E	83 43	83 76	82 B6	82 E1	81 49	00	| Original Japanese Hex
  #  ち	 #  か	 #  ら	 #  づ	 #  よ	 #  い	 #  ガ	 #  ン	 #  ト	 #  タ	 #  イ	 #  プ	 #  じ	 #  ゃ	 #  ！	 #	| Original Japanese Text
- S  u	 p  e	 r   	 P  o	 w  e	 r  f	 u  l	    G	 a  l	 a  n	 t   	 T  y	 p  e	 !  #	 #  #	 #	| New English Text
-53 75	70 65	72 20	50 6F	77 65	72 66	75 6C	20 47	61 6C	61 6E	74 20	54 79	70 65	21 00	00 00	00	| New English Hex
+ P  o	 w  e	 r  f	 u  l	    G	 a  l	 a  n	 t   	 T  y	 p  e	 !  #	 #  #	 #  #	 #  #	 #  #	 #	| New English Text
+50 6F	77 65	72 66	75 6C	20 47	61 6C	61 6E	74 20	54 79	70 65	21 00	00 00	00 00	00 00	00 00	00	| New English Hex
 
 がんばりやのブロックタイプじゃ！
 Super Perseverance & Defending Type!
 $23E2125F
 82 AA	82 F1	82 CE	82 E8	82 E2	82 CC	83 75	83 8D	83 62	83 4E	83 5E	83 43	83 76	82 B6	82 E1	81 49	00	| Original Japanese Hex
  #  が	 #  ん	 #  ば	 #  り	 #  や	 #  の	 #  ブ	 #  ロ	 #  ッ	 #  ク	 #  タ	 #  イ	 #  プ	 #  じ	 #  ゃ	 #  ！	 #	| Original Japanese Text
- P  e	 r  s	 e  v	 e  r	 a  n	 c  e	    a	 n  d	    D	 e  f	 e  n	 d  i	 n  g	    T	 y  p	 e  !	 #	| New English Text
-50 65	72 73	65 76	65 72	61 6E	63 65	20 61	6E 64	20 44	65 66	65 6E	64 69	6E 67	20 54	79 70	65 21	00	| New English Hex
+ E  n	 d  u	 r  a	 n  c	 e   	 D  e	 f  e	 n  c	 e   	 T  y	 p  e	 !  #	 #  #	 #  #	 #  #	 #  #	 #	| New English Text
+45 6E	64 75	72 61	6E 63	65 20	44 65	66 65	6E 63	65 20	54 79	70 65	21 00	00 00	00 00	00 00	00 00	00	| New English Hex
 
 はやく クローゼットを かたづけないと
 If I do not clean up the closet quickly

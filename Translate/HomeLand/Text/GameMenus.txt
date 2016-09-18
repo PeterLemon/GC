@@ -20,7 +20,7 @@ $41C05447
 
 
 てをさしだした
-Joining Team
+The hand held out his / Reach Out
 $43B54790
 82 C4	82 F0	82 B3	82 B5	82 BE	82 B5	82 BD	00 00	| Original Japanese Hex
  #  て	 #  を	 #  さ	 #  し	 #  だ	 #  し	 #  た	 #  #	| Original Japanese Text
@@ -81,7 +81,7 @@ $43B56128
 54 61	6C 6B	00 00	00 00	| New English Hex
 
 てつなぎ
-Team Up
+Team Up / Hold Hands
 $43B56130
 82 C4	82 C2	82 C8	82 AC	00 00	00 00	| Original Japanese Hex
  #  て	 #  つ	 #  な	 #  ぎ	 #  #	 #  #	| Original Japanese Text
