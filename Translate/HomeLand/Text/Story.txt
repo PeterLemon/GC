@@ -680,3 +680,63 @@ $23E21AB7 (Line 3)
  #  お	 #  や	 #  つ	 #  ぬ	 #  き	 #  で	 #  す	 #  か	 #  ら	 #  ね	 #  っ	 #  ！	 #  ▼	 #	| Original Japanese Text
  l  l 	    n	 o  t	    g	 i  v	 e   	 y  o	 u   	 a   	 s  n	 a  c	 k  !	 #  ▼	 #	| New English Text
 6C 6C	20 6E	6F 74	20 67	69 76	65 20	79 6F	75 20	61 20	73 6E	61 63	6B 21	81 A5	00	| New English Hex
+
+こんちは (Player Name)。
+Hi / Hello (Player Name).
+$23E21AD2
+82 B1	82 F1	82 BF	82 CD	20 00	81 42	81 A5	00 0A	| Original Japanese Hex
+ #  こ	 #  ん	 #  ち	 #  は	    #	 #  。	 #  ▼	 # LF	| Original Japanese Text
+ H  e	 l  l	 o   	 #  #	 #  #	 .  #	 ▼  #	 # LF	| New English Text
+48 65	6C 6C	6F 20	00 00	00 00	2E 81	A5 00	00 0A	| New English Hex
+
+わたし テンシ。
+I am Tenshi / Intensifier.
+$23E21AE2
+82 ED	82 BD	82 B5	20 83	65 83	93 83	56 81	42 81	A5 00	0A	| Original Japanese Hex
+ #  わ	 #  た	 #  し	    #	 テ  #	 ン  #	 シ  #	 。  #	 ▼  #	LF	| Original Japanese Text
+ I   	 a  m	    T	 e  n	 s  h	 i  .	 #  ▼	 #  #	 #  #	LF	| New English Text
+49 20	61 6D	20 54	65 6E	73 68	69 2E	81 A5	00 00	00 00	0A	| New English Hex
+
+てんくうより せかいを
+From the world in the sky
+$23E21AF5 (Line 1)
+82 C4	82 F1	82 AD	82 A4	82 E6	82 E8	20 82	B9 82	A9 82	A2 82	F0 0A	| Original Japanese Hex
+ #  て	 #  ん	 #  く	 #  う	 #  よ	 #  り	    #	 せ  #	 か  #	 い  #	 を LF	| Original Japanese Text
+ F  r	 o  m	    t	 h  e	    w	 o  r	 l  d	    i	 n   	 t  h	 e   	| New English Text
+46 72	6F 6D	20 74	68 65	20 77	6F 72	6C 64	20 69	6E 20	74 68	65 20	| New English Hex
+みまもる ビッグかみさまに
+the Big God has been
+$23E21B0B (Line 2)
+82 DD	82 DC	82 E0	82 E9	20 83	72 83	62 83	4F 82	A9 82	DD 82	B3 82	DC 82	C9 0A	| Original Japanese Hex
+ #  み	 #  ま	 #  も	 #  る	    #	 ビ  #	 ッ  #	 グ  #	 か  #	 み  #	 さ  #	 ま  #	 に LF	| Original Japanese Text
+ s  k	 y LF	 t  h	 e   	 B  i	 g   	 G  o	 d   	 h  a	 s   	 b  e	 e  n	LF  w	| New English Text
+73 6B	79 0A	74 68	65 20	42 69	67 20	47 6F	64 20	68 61	73 20	62 65	65 6E	0A 77	| New English Hex
+おつかえしている ものです。
+watching over you.
+$23E21B25 (Line 3)
+82 A8	82 C2	82 A9	82 A6	82 B5	82 C4	82 A2	82 E9	20 82	E0 82	CC 82	C5 82	B7 81	42 81	A5 00	0A	| Original Japanese Hex
+ #  お	 #  つ	 #  か	 #  え	 #  し	 #  て	 #  い	 #  る	    #	 も  #	 の  #	 で  #	 す  #	 。  #	 ▼  #	LF	| Original Japanese Text
+ a  t	 c  h	 i  n	 g   	 o  v	 e  r	    y	 o  u	 .  #	 ▼  #	 #  #	 #  #	 #  #	 #  #	 #  #	LF	| New English Text
+61 74	63 68	69 6E	67 20	6F 76	65 72	20 79	6F 75	2E 81	A5 00	00 00	00 00	00 00	00 00	00 00	0A	| New English Hex
+
+こわがらなくて
+Do not be afraid
+$23E21B44 (Line 1)
+82 B1	82 ED	82 AA	82 E7	82 C8	82 AD	82 C4	0A	| Original Japanese Hex
+ #  こ	 #  わ	 #  が	 #  ら	 #  な	 #  く	 #  て	LF	| Original Japanese Text
+ D  o	    n	 o  t	    b	 e   	 a  f	 r  a	 i	| New English Text
+44 6F	20 6E	6F 74	20 62	65 20	61 66	72 61	69	| New English Hex
+だいじょーぶですよ。
+there is no problem.
+$23E21B53 (Line 2)
+82 BE	82 A2	82 B6	82 E5	81 5B	82 D4	82 C5	82 B7	82 E6	81 42	0A	| Original Japanese Hex
+ #  だ	 #  い	 #  じ	 #  ょ	 #  ー	 #  ぶ	 #  で	 #  す	 #  よ	 #  。	LF	| Original Japanese Text
+ d LF	 t  h	 e  r	 e  '	 s   	 n  o 	    p	 r  o	 b  l	 e  m	 .	| New English Text
+64 0A	74 68	65 72	65 27	73 20	6E 6F	20 70	72 6F	62 6C	65 6D	2E	| New English Hex
+あやしいものじゃありません。
+There is nothing suspicious to worry about.
+$23E21B68 (Line 3)
+82 A0	82 E2	82 B5	82 A2	82 E0	82 CC	82 B6	82 E1	82 A0	82 E8	82 DC	82 B9	82 F1	81 42	81 A5	00 0A	| Original Japanese Hex
+ #  あ	 #  や	 #  し	 #  い	 #  も	 #  の	 #  じ	 #  ゃ	 #  あ	 #  り	 #  ま	 #  せ	 #  ん	 #  。	 #  ▼	 # LF	| Original Japanese Text
+LF  T	 h  e	 r  e  	 '  s	    n	 o  t	 h  i	 n  g	    s	 u  s	 p  i	 c  i	 o  u	 s  .	 #  ▼	 # LF	| New English Text
+0A 54	68 65	72 65	27 73	20 6E	6F 74	68 69	6E 67	20 73	75 73	70 69	63 69	6F 75	73 2E	81 A5	00 0A	| New English Hex

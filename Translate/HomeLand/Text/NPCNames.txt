@@ -2,6 +2,15 @@
 ----------
 NPC Names:
 ----------
+テンシ
+Tenshi / Intensifier
+$23E1CC00
+83 65	83 93	83 56	00	| Original Japanese Hex
+ #  テ	 #  ン	 #  シ	 #	| Original Japanese Text
+ T  e	 n  s	 h  i	 #	| New English Text
+54 65	6E 73	68 69	00	| New English Hex
+
+
 おかあさん
 Mother / Mom
 $23E20CF8

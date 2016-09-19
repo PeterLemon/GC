@@ -71,6 +71,8 @@ Text($00199B58, "Yes") ; fill 5
 Text($00199B60, "No") ; fill 6
 
 // NPC Names
+Text($23E1CC00, "Tenshi") ; fill 1
+
 Text($23E20CF8, "Mother") ; fill 5
 
 
@@ -193,6 +195,18 @@ Text($23E21A66, "Really?\n")
 Text($23E21A8F, "Really now!\n")
              db "If you do not finish it\n"
              db "I will not give you a snack!", $81, $A5 ; fill 1
+
+Text($23E21AD2, "Hello ") ; fill 4 ; db ".", $81, $A5 ; fill 2 ; db "\n"
+
+Text($23E21AE2, "I am Tenshi.") ; db $81, $A5 ; fill 4 ; db "\n"
+
+Text($23E21AF5, "From the world in the sky\n")
+             db "the Big God has been\n"
+             db "watching over you.", $81, $A5 ; fill 11 ; db "\n"
+
+Text($23E21B44, "Do not be afraid\n")
+             db "there's no problem.\n"
+             db "There's nothing suspicious.", $81, $A5 ; fill 1 ; db "\n"
 
 // Game Menus
 Text($41C05442, "Yes") ; fill 2
