@@ -34,6 +34,7 @@ macro TextShiftJIS(OFFSET, TEXT) {
 
 // Font Colors
 constant BLACK($B0) // Default
+constant BLUE($B8)
 constant RED($BB)
 
 // Memory Card
@@ -207,6 +208,19 @@ Text($23E21AF5, "From the world in the sky\n")
 Text($23E21B44, "Do not be afraid\n")
              db "there's no problem.\n"
              db "There's nothing suspicious.", $81, $A5 ; fill 1 ; db "\n"
+
+Text($23E21B88, "Today ") ; fill 4 ; db "\n"
+             db "I came to convey to you\n"
+             db "a message from Big God.", $81, $A5 ; fill 2 ; db "\n"
+
+Text($23E21BC7, "In a book.") ; db $FE, $05, "Is that OK?\n"
+             db "I will tell.", $81, $A5 ; fill 2
+
+Text($23E21BEF, BLUE) ; db "Good " ; fill 3 ; db "\n"
+
+Text($23E21BF9, BLUE) ; db "I am going to see\n"
+             db "plenty of talent\n"
+             db "from thee.", $81, $A5 ; fill 4 ; db "\n"
 
 // Game Menus
 Text($41C05442, "Yes") ; fill 2

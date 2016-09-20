@@ -740,3 +740,70 @@ $23E21B68 (Line 3)
  #  あ	 #  や	 #  し	 #  い	 #  も	 #  の	 #  じ	 #  ゃ	 #  あ	 #  り	 #  ま	 #  せ	 #  ん	 #  。	 #  ▼	 # LF	| Original Japanese Text
 LF  T	 h  e	 r  e  	 '  s	    n	 o  t	 h  i	 n  g	    s	 u  s	 p  i	 c  i	 o  u	 s  .	 #  ▼	 # LF	| New English Text
 0A 54	68 65	72 65	27 73	20 6E	6F 74	68 69	6E 67	20 73	75 73	70 69	63 69	6F 75	73 2E	81 A5	00 0A	| New English Hex
+
+きょうは (Player Name)に
+Today (Player Name)
+$23E21B88 (Line 1)
+82 AB	82 E5	82 A4	82 CD	20 00	82 C9	0A	| Original Japanese Hex
+ #  き	 #  ょ	 #  う	 #  は	    #	 #  に	LF	| Original Japanese Text
+ T  o	 d  a	 y   	 #  #	 #  #	LF  I	  	| New English Text
+54 6F	64 61	79 20	00 00	00 00	0A 49	20	| New English Hex
+ビッグかみさまの でんごんを
+I came to convey to you
+$23E21B95 (Line 2)
+83 72	83 62	83 4F	82 A9	82 DD	82 B3	82 DC	82 CC	20 82	C5 82	F1 82	B2 82	F1 82	F0 0A	| Original Japanese Hex
+ #  ビ	 #  ッ	 #  グ	 #  か	 #  み	 #  さ	 #  ま	 #  の	    #	 で  #	 ん  #	 ご  #	 ん  #	 を LF	| Original Japanese Text
+ c  a	 m  e	    t	 o   	 c  o	 n  v	 e  y	    t	 o   	 y  o	 u LF	 a   	 m  e	 s  s	| New English Text
+63 61	6D 65	20 74	6F 20	63 6F	6E 76	65 79	20 74	6F 20	79 6F	75 0A	61 20	6D 65	73 73	| New English Hex
+つたえにきました。
+a message from Big God.
+$23E21BB1 (Line 3)
+82 C2	82 BD	82 A6	82 C9	82 AB	82 DC	82 B5	82 BD	81 42	81 A5	00 0A	| Original Japanese Hex
+ #  つ	 #  た	 #  え	 #  に	 #  き	 #  ま	 #  し	 #  た	 #  。	 #  ▼	 # LF	| Original Japanese Text
+ a  g	 e   	 f  r	 o  m	    B	 i  g	    G	 o  d	 .  #	 ▼  #	 # LF	| New English Text
+61 67	65 20	66 72	6F 6D	20 42	69 67	20 47	6F 64	2E 81	A5 00	00 0A	| New English Hex
+
+おほんっ。いいですか？
+Through your books. Is that okay?
+$23E21BC7 (Line 1)
+82 A8	82 D9	82 F1	82 C1	81 42	FE 05	82 A2	82 A2	82 C5	82 B7	82 A9	81 48	0A	| Original Japanese Hex
+ #  お	 #  ほ	 #  ん	 #  っ	 #  。	 þ  	 #  い	 #  い	 #  で	 #  す	 #  か	 #  ？	LF	| Original Japanese Text
+ I  n	    a	    b	 o  o	 k  .    þ  	 I  s	    t	 h  a	 t	 O  K	 ? LF	 I	| New English Text
+49 6E	20 61	20 62	6F 6F	6B 2E	FE 05	49 73	20 74	68 61	74 20	4F 4B	3F 0A	49	| New English Hex
+いいますよ。
+I will tell you now.
+$23E21BE0 (Line 2)
+82 A2	82 A2	82 DC	82 B7	82 E6	81 42	81 A5	00	| Original Japanese Hex
+ #  い	 #  い	 #  ま	 #  す	 #  よ	 #  。	 #  ▼	 #	| Original Japanese Text
+    w	 i  l	 l   	 t  e	 l  l	 .  #	 ▼  #	 #	| New English Text
+20 77	69 6C	6C 20	74 65	6C 6C	2E 81	A5 00	00	| New English Hex
+
+よいこ (Player Name)
+Good child (Player Name)
+$23E21BEF
+B8 82	E6 82	A2 82	B1 20	00 0A	| Original Japanese Hex
+BLUE#	 よ  #	 い  #	 こ   	 # LF	| Original Japanese Text
+BLUEG	 o  o	 d   	 #  #	 # LF	| New English Text
+B8 47	6F 6F	64 20	00 00	00 0A	| New English Hex
+
+そなたの そしつ
+I am going to see
+$23E21BF9 (Line 1)
+B8 82	BB 82	C8 82	BD 82	CC 20	82 BB	82 B5	82 C2	0A	| Original Japanese Hex
+BLUE#	 そ  #	 な  #	 た  #	 の   	 #  そ	 #  し	 #  つ	LF	| Original Japanese Text
+BLUEI	    a	 m  	 g  o	 i  n	 g   	 t  o	    s	 e	| New English Text
+B8 49	20 61	6D 20	67 6F	69 6E	67 20	74 6F	20 73	65	| New English Hex
+たっぷり みさせて
+plenty of talent
+$23E21C0A (Line 2)
+82 BD	82 C1	82 D5	82 E8	20 82	DD 82	B3 82	B9 82	C4 0A	| Original Japanese Hex
+ #  た	 #  っ	 #  ぷ	 #  り	    #	 み  #	 さ  #	 せ  #	 て LF	| Original Japanese Text
+ e LF	 p  l	 e  n	 t  y	    o	 f   	 t  a	 l  e	 n  t	| New English Text
+65 0A	70 6C	65 6E	74 79	20 6F	66 20	74 61	6C 65	6E 74	| New English Hex
+もらったぞよ。
+from thee.
+$23E21C1C (Line 3)
+82 E0	82 E7	82 C1	82 BD	82 BC	82 E6	81 42	81 A5	00 0A	| Original Japanese Hex
+ #  も	 #  ら	 #  っ	 #  た	 #  ぞ	 #  よ	 #  。	 #  ▼	 # LF	| Original Japanese Text
+LF  f	 r  o	 m   	 t  h	 e  e	 .  #	 ▼  #	 #  #	 # LF	| New English Text
+0A 66	72 6F	6D 20	74 68	65 65	2E 81	A5 00	00 00	00 0A	| New English Hex
