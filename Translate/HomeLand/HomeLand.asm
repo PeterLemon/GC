@@ -86,6 +86,9 @@ Text($23E20DB0, "If you do not finish the homework\n")
 
 Text($23E20DE6, "You must clean up your closet!") ; fill 2
 
+Text($23E20E1B, "If you show this room\n")
+             db "Mom will get angry!" ; fill 7
+
 Text($23E20E4B, "Closet containing various things is closed.\n")
              db "I cleaned up because it becomes quite messy\n"
              db "once it is opened." ; fill 1
@@ -175,6 +178,9 @@ Text($23E214F6, "Homework.\n")
              db "It is halfway through.\n"
              db "Take a little break." ; fill 12
 
+Text($23E21537, "Homework.\n")
+             db "Only half has been completed..." ; fill 2
+
 Text($23E21779, "Is the homework finished?") ; db $81, $A5 ; fill 3 ; db "\n"
 
 Text($23E21798, "When you finish\n")
@@ -183,6 +189,10 @@ Text($23E21798, "When you finish\n")
 
 Text($23E217D9, "If you do not clean up\n")
              db "I won't give you a snack!", $81, $A5 ; fill 1 ; db "\n"
+
+Text($23E2183C, "Look over") ; fill 2
+
+Text($23E21847, "Poof") ; fill 2
 
 Text($23E21A08, "\dOne day, not the same as usual...\d") ; fill 3
 
@@ -221,6 +231,62 @@ Text($23E21BEF, BLUE) ; db "Good " ; fill 3 ; db "\n"
 Text($23E21BF9, BLUE) ; db "I am going to see\n"
              db "plenty of talent\n"
              db "from thee.", $81, $A5 ; fill 4 ; db "\n"
+
+Text($23E21C2E, BLUE) ; db "Written test results\n"
+             db "were splendid\n"
+             db "you have passed!", $81, $A5 ; fill 1 ; db "\n"
+
+Text($23E21C66, BLUE) ; db "You are the person we seek\n"
+             db "and have all the makings\n"
+             db "required.", $81, $A5 ; fill 1 ; db "\n"
+
+Text($23E21CA8, BLUE) ; db "I am anticipating the quality\n"
+             db "of how you will handle\n"
+             db "these ", RED, "Quests", BLUE, "!", $81, $A5 ; fill 5
+
+Text($23E21CF4, "Wow clap clap clap!") ; db $81, $A5 ; fill 1 ; db "\n"
+
+Text($23E21D0B, "Amazing! ") ; fill 3 ; db ".\n"
+             db "it came from the note in\n"
+             db "the ", RED, "Quest", BLACK, ".", $81, $A5 ; fill 1
+
+Text($23E21D41, "Huh?") ; db $FE, $0A, " A ", RED, "Quest", BLACK, "\n"
+             db "What have I missed?", $81, $A5 ; fill 1 ; db "\n"
+
+Text($23E21D69, "Well put simply\n")
+             db "you have been called to\n"
+             db "protect the world.", $81, $A5 ; fill 1 ; db "\n"
+
+Text($23E21DA7, "You will travel the world\n")
+             db "and help people\n"
+             db "who are in trouble.", $81, $A5 ; fill 3
+
+Text($23E21DE9, "Message over!") ; db $81, $A5 ; fill 2
+
+Text($23E21DFA, "Well right away\n")
+             db "the basic Quest set\n"
+             db "and presentation!", $81, $A5 ; fill 3
+
+Text($23E21E34, "Okay.") ; db $81, $A4 ; fill 2
+
+Text($23E21E3D, "In reply some of the\n")
+             db "set has appeared\n"
+             db "2 are now available.", $81, $A5 ; fill 6 ; db "\n"
+
+Text($23E21E80, "Travel to the ") ; db RED, "Quest", BLACK, "\n"
+             db "by changing the appearance.", $81, $A5 ; fill 1
+
+Text($23E21EB4, "Quick") ; fill 2 ; db $FE, $05
+
+Text($23E21EBD, " immediately transform\n")
+             db "and go out to adventure\n"
+             db "please be prepared.", $81, $A5 ; fill 2
+
+Text($23E21F03, "It is useless\n")
+             db "to not reply!", $81, $A5 ; fill 3 ; db "\n"
+
+Text($23E21F24, "This") ; db $FE, $05, " ", RED, "Quest", BLACK, " is\n"
+             db "quite basic.", $81, $A5 ; fill 4
 
 // Game Menus
 Text($41C05442, "Yes") ; fill 2
