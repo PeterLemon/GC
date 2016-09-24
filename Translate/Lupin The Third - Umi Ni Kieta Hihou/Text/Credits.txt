@@ -24,3 +24,408 @@ $43A47A3E (Line 3)
  #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  （	 #  中	 #  央	 #  公	 #  論	 #  新	 #  社	 #  刊	 #  ）	 [  n	 ]  #	| Original Japanese Text
  #LEN	     	     	     	     	     	     	 (  P	 u  b	 l  i	 s  h	 e  d	    b	 y   	 C  h	 u  o	 k  o	 r  o	 n  -	 S  h	 i  n	 s  h	 a  )	 [  n	 ]  #	| New English Text
 33 30	20 20	20 20	20 20	20 20	20 20	20 20	28 50	75 62	6C 69	73 68	65 64	20 62	79 20	43 68	75 6F	6B 6F	72 6F	6E 2D	53 68	69 6E	73 68	61 29	5B 6E	5D 00	| New English Hex
+
+ルパン三世
+Lupin III
+$43A47AE6 (Line 1)
+33 24	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	83 8B	83 70	83 93	8E 4F	90 A2	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  ル	 #  パ	 #  ン	 #  三	 #  世	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	 L  u	 p  i	 n   	 I  I	 I   	     	     	 [  n	 ]  #	| New English Text
+33 24	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	4C 75	70 69	6E 20	49 49	49 20	20 20	20 20	5B 6E	5D 00	| New English Hex
+栗田貫一
+Kanichi Kurita
+$43A47B0C (Line 2)
+33 26	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	8C 49	93 63	8A D1	88 EA	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  栗	 #  田	 #  貫	 #  一	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	     	 K  a	 n  i	 c  h	 i   	 K  u	 r  i	 t  a	 [  n	 ]  #	| New English Text
+33 26	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	4B 61	6E 69	63 68	69 20	4B 75	72 69	74 61	5B 6E	5D 00	| New English Hex
+
+次元大介
+Daisuke Jigen
+$43A47BAA (Line 1)
+33 22	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	8E 9F	8C B3	91 E5	89 EE	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  次	 #  元	 #  大	 #  介	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	    D	 a  i	 s  u	 k  e	    J	 i  g	 e  n	     	 [  n	 ]  #	| New English Text
+33 22	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 44	61 69	73 75	6B 65	20 4A	69 67	65 6E	20 20	5B 6E	5D 00	| New English Hex
+小林清志
+Kiyoshi Kobayashi
+$43A47BCE (Line 2)
+33 26	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	8F AC	97 D1	90 B4	8E 75	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  小	 #  林	 #  清	 #  志	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	    K	 i  y	 o  s	 h  i	    K	 o  b	 a  y	 a  s	 h  i	 [  n	 ]  #	| New English Text
+33 26	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 4B	69 79	6F 73	68 69	20 4B	6F 62	61 79	61 73	68 69	5B 6E	5D 00	| New English Hex
+
+石川五エ門
+Ishikawa Goemon
+$43A47C6C (Line 1)
+33 24	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	90 CE	90 EC	8C DC	83 47	96 E5	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  石	 #  川	 #  五	 #  エ	 #  門	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	    I	 s  h	 i  k	 a  w	 a   	 G  o	 e  m	 o  n	 [  n	 ]  #	| New English Text
+33 24	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 49	73 68	69 6B	61 77	61 20	47 6F	65 6D	6F 6E	5B 6E	5D 00	| New English Hex
+井上真樹夫
+Makio Inoue
+$43A47C92 (Line 2)
+33 28	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	88 E4	8F E3	90 5E	8E F7	95 76	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  井	 #  上	 #  真	 #  樹	 #  夫	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	    M	 a  k	 i  o	    I	 n  o	 u  e	     	     	     	 [  n	 ]  #	| New English Text
+33 24	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 4D	61 6B	69 6F	20 49	6E 6F	75 65	20 20	20 20	20 20	5B 6E	5D 00	| New English Hex
+
+峰不二子
+Fujiko Mine
+$43A47D32 (Line 1)
+33 22	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	95 F4	95 73	93 F1	8E 71	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  峰	 #  不	 #  二	 #  子	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	    F	 u  j	 i  k	 o   	 M  i	 n  e	 [  n	 ]  #	| New English Text
+33 22	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 66	75 6A	69 6B	6F 20	4D 69	6E 65	5B 6E	5D 00	| New English Hex
+増山江威子
+Eiko Masuyama
+$43A47D56 (Line 2)
+33 28	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	91 9D	8E 52	8D 5D	88 D0	8E 71	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  増	 #  山	 #  江	 #  威	 #  子	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	     	    E	 i  k	 o   	 M  a	 s  u	 y  a	 m  a	     	 [  n	 ]  #	| New English Text
+33 28	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 45	69 6B	6F 20	4D 61	73 75	79 61	6D 61	20 20	5B 6E	5D 00	| New English Hex
+
+銭形平次
+Koichi Zenigata
+$43A47DF6 (Line 1)
+33 22	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	91 4B	8C 60	95 BD	8E 9F	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  銭	 #  形	 #  平	 #  次	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	    K	 o  i	 c  h	 i   	 Z  e	 n  i	 g  a	 t  a	 [  n	 ]  #	| New English Text
+33 22	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 4B	6F 69	63 68	69 20	5A 65	6E 69	67 61	74 61	5B 6E	5D 00	| New English Hex
+納谷悟朗
+Goro Naya
+$43A47E1A (Line 2)
+33 26	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	94 5B	92 4A	8C E5	98 4E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  納	 #  谷	 #  悟	 #  朗	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	    G	 o  r	 o   	 N  a	 y  a	     	     	     	     	 [  n	 ]  #	| New English Text
+33 26	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 47	6F 72	6F 20	4E 61	79 61	20 20	20 20	20 20	20 20	5B 6E	5D 00	| New English Hex
+
+テオ
+Theo
+$43A47EB8 (Line 1)
+33 1E	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	83 65	83 49	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  テ	 #  オ	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	    T	 h  e	 o   	     	 [  n	 ]  #	| New English Text
+33 1E	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 54	68 65	6F 20	20 20	5B 6E	5D 00	| New English Hex
+久保田恵
+Megumi Kubota
+$43A47ED8 (Line 2)
+33 26	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	8B 76	95 DB	93 63	8C 62	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  久	 #  保	 #  田	 #  恵	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	     	    M	 e  g	 u  m	 i   	 K  u	 b  o	 t  a	 [  n	 ]  #	| New English Text
+33 26	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 4D	65 67	75 6D	69 20	4B 75	62 6F	74 61	5B 6E	5D 00	| New English Hex
+
+リアナ
+Riana
+$43A47F76 (Line 1)
+33 20	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	83 8A	83 41	83 69	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  リ	 #  ア	 #  ナ	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	 R  i	 a  n	 a   	     	     	 [  n	 ]  #	| New English Text
+33 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	52 69	61 6E	61 20	20 20	20 20	5B 6E	5D 00	| New English Hex
+榎本温子
+Atsuko Enomoto
+$43A47F98 (Line 2)
+33 26	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	89 7C	96 7B	89 B7	8E 71	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  榎	 #  本	 #  温	 #  子	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	     	 A  t	 s  u	 k  o	    E	 n  o	 m  o	 t  o	 [  n	 ]  #	| New English Text
+33 26	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	41 74	73 75	6B 6F	20 45	6E 6F	6D 6F	74 6F	5B 6E	5D 00	| New English Hex
+
+クラーク教授
+Professor Clark
+$43A48036 (Line 1)
+33 26	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	83 4E	83 89	81 5B	83 4E	8B B3	8E F6	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  ク	 #  ラ	 #  ー	 #  ク	 #  教	 #  授	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	    P	 r  o	 f  e	 s  s	 o  r	    C	 l  a	 r  k	     	 [  n	 ]  #	| New English Text
+33 26	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 50	72 6F	66 65	73 73	6F 72	20 43	6C 61	72 6B	20 20	5B 6E	5D 00	| New English Hex
+藤村俊二
+Shunji Fujimura
+$43A4805E (Line 2)
+33 26	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	93 A1	91 BA	8F 72	93 F1	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  藤	 #  村	 #  俊	 #  二	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	    S	 h  u	 n  j	 i   	 F  u	 j  i	 m  u	 r  a	 [  n	 ]  #	| New English Text
+33 26	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 53	68 75	6E 6A	69 20	46 75	6A 69	6D 75	72 61	5B 6E	5D 00	| New English Hex
+
+アニメーション監督・演出
+Animation Director & Directed by
+$43A4820E (Line 1)
+33 2C	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	83 41	83 6A	83 81	81 5B	83 56	83 87	83 93	8A C4	93 C2	81 45	89 89	8F 6F	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  ア	 #  ニ	 #  メ	 #  ー	 #  シ	 #  ョ	 #  ン	 #  監	 #  督	 #  ・	 #  演	 #  出	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	 A  n	 i  m	 a  t	 i  o	 n   	 D  i	 r  e	 c  t	 o  r	    &	    D	 i  r	 e  c	 t  e	 d   	 b  y	 [  n	 ]  #	| New English Text
+33 2C	20 20	20 20	20 20	20 20	41 6E	69 6D	61 74	69 6F	6E 20	44 69	72 65	63 74	6F 72	20 26	20 44	69 72	65 63	74 65	64 20	62 79	5B 6E	5D 00	| New English Hex
+ところともかず
+Tomokazu Tokoro
+$43A4823C (Line 2)
+33 2C	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	82 C6	82 B1	82 EB	82 C6	82 E0	82 A9	82 B8	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  と	 #  こ	 #  ろ	 #  と	 #  も	 #  か	 #  ず	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	 T  o	 m  o	 k  a	 z  u	    T	 o  k	 o  r	 o   	     	     	     	     	     	     	     	 [  n	 ]  #	| New English Text
+33 2C	20 20	20 20	20 20	20 20	20 20	54 6F	6D 6F	6B 61	7A 75	20 54	6F 6B	6F 72	6F 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	5B 6E	5D 00	| New English Hex
+
+脚本
+Screenplay
+$43A482E0 (Line 1)
+33 20	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	8B 72	96 7B	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  脚	 #  本	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	 S  c	 r  e	 e  n	 p  l	 a  y	 [  n	 ]  #	| New English Text
+33 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	53 63	72 65	65 6E	70 6C	61 79	5B 6E	5D 00	| New English Hex
+翁　妙子
+Taeko Okina
+$43A48302 (Line 2)
+33 26	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	89 A5	81 40	96 AD	8E 71	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  翁	 #  　	 #  妙	 #  子	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	     	 T  a	 e  k	 o   	 O  k	 i  n	 a   	     	 [  n	 ]  #	| New English Text
+33 26	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	54 61	65 6B	6F 20	4F 6B	69 6E	61 20	20 20	5B 6E	5D 00	| New English Hex
+
+キャラクターデザイン
+Character Design
+$43A483A0 (Line 1)
+33 28	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	83 4C	83 83	83 89	83 4E	83 5E	81 5B	83 66	83 55	83 43	83 93	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  キ	 #  ャ	 #  ラ	 #  ク	 #  タ	 #  ー	 #  デ	 #  ザ	 #  イ	 #  ン	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	 C  h	 a  r	 a  c	 t  e	 r   	 D  e	 s  i	 g  n	     	     	     	     	 [  n	 ]  #	| New English Text
+33 28	20 20	20 20	20 20	20 20	20 20	20 20	43 68	61 72	61 63	74 65	72 20	44 65	73 69	67 6E	20 20	20 20	20 20	20 20	5B 6E	5D 00	| New English Hex
+小林利充
+Toshimitsu Kobayashi
+$43A483CA (Line 2)
+33 26	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	8F AC	97 D1	97 98	8F 5B	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  小	 #  林	 #  利	 #  充	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	 T  o	 s  h	 i  m	 i  t	 s  u	    K	 o  b	 a  y	 a  s	 h  i	 [  n	 ]  #	| New English Text
+33 26	20 20	20 20	20 20	20 20	20 20	20 20	20 20	54 6F	73 68	69 6D	69 74	73 75	20 4B	6F 62	61 79	61 73	68 69	5B 6E	5D 00	| New English Hex
+
+美術監督
+Art Director
+$43A48468 (Line 1)
+33 24	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	94 FC	8F 70	8A C4	93 C2	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  美	 #  術	 #  監	 #  督	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	 A  r	 t   	 D  i	 r  e	 c  t	 o  r	     	 [  n	 ]  #	| New English Text
+33 24	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	41 72	74 20	44 69	72 65	63 74	6F 72	20 20	5B 6E	5D 00	| New English Hex
+宮野　隆
+Takashi Miyano
+$43A4848E (Line 2)
+33 26	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	8B 7B	96 EC	81 40	97 B2	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  宮	 #  野	 #  　	 #  隆	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	     	 T  a	 k  a	 s  h	 i   	 M  i	 y  a	 n  o	 [  n	 ]  #	| New English Text
+33 26	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	54 61	6B 61	73 68	69 20	4D 69	79 61	6E 6F	5B 6E	5D 00	| New English Hex
+
+色彩設計
+Color Design
+$43A4852C (Line 1)
+33 24	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	90 46	8D CA	90 DD	8C 76	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  色	 #  彩	 #  設	 #  計	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	     	 C  o	 l  o	 r   	 D  e	 s  i	 g  n	 [  n	 ]  #	| New English Text
+33 24	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	43 6F	6C 6F	72 20	44 65	73 69	67 6E	5B 6E	5D 00	| New English Hex
+飯島孝枝
+Takae Iijima
+$43A48552 (Line 2)
+33 26	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	94 D1	93 87	8D 46	8E 7D	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  飯	 #  島	 #  孝	 #  枝	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	     	     	 T  a	 k  a	 e   	 I  i	 j  i	 m  a	 [  n	 ]  #	| New English Text
+33 26	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	54 61	6B 61	65 20	49 69	6A 69	6D 61	5B 6E	5D 00	| New English Hex
+
+撮影監督
+Director of Photography
+$43A485F0 (Line 1)
+33 24	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	8E 42	89 65	8A C4	93 C2	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  撮	 #  影	 #  監	 #  督	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	    D	 i  r	 e  c	 t  o	 r   	 o  f	    P	 h  o	 t  o	 g  r	 a  p	 h  y	 [  n	 ]  #	| New English Text
+33 24	20 20	20 20	20 20	20 20	20 44	69 72	65 63	74 6F	72 20	6F 66	20 50	68 6F	74 6F	67 72	61 70	68 79	5B 6E	5D 00	| New English Hex
+川田敏寛
+Toshihiro Kawada
+$43A48616 (Line 2)
+33 26	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	90 EC	93 63	95 71	8A B0	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  川	 #  田	 #  敏	 #  寛	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	    T	 o  s	 h  i	 h  i	 r  o	    K	 a  w	 a  d	 a   	     	     	     	 [  n	 ]  #	| New English Text
+33 26	20 20	20 20	20 20	20 20	20 20	20 54	6F 73	68 69	68 69	72 6F	20 4B	61 77	61 64	61 20	20 20	20 20	20 20	5B 6E	5D 00	| New English Hex
+
+録音監督
+Recording Director
+$43A486B4 (Line 1)
+33 24	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	98 5E	89 B9	8A C4	93 C2	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  録	 #  音	 #  監	 #  督	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	 R  e	 c  o	 r  d	 i  n	 g   	 D  i	 r  e	 c  t	 o  r	 [  n	 ]  #	| New English Text
+33 24	20 20	20 20	20 20	20 20	20 20	20 20	20 20	52 65	63 6F	72 64	69 6E	67 20	44 69	72 65	63 74	6F 72	5B 6E	5D 00	| New English Hex
+加藤　敏
+Satoshi Kato
+$43A486DA (Line 2)
+33 26	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	89 C1	93 A1	81 40	95 71	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  加	 #  藤	 #  　	 #  敏	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	 S  a	 t  o	 s  h	 i   	 K  a	 t  o	     	     	     	 [  n	 ]  #	| New English Text
+33 26	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	53 61	74 6F	73 68	69 20	4B 61	74 6F	20 20	20 20	20 20	5B 6E	5D 00	| New English Hex
+
+音楽監修
+Music Supervision
+$43A48778 (Line 1)
+33 24	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	89 B9	8A 79	8A C4	8F 43	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  音	 #  楽	 #  監	 #  修	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	    M	 u  s	 i  c	    S	 u  p	 e  r	 v  i	 s  i	 o  n	 [  n	 ]  #	| New English Text
+33 24	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 4D	75 73	69 63	20 53	75 70	65 72	76 69	73 69	6F 6E	5B 6E	5D 00	| New English Hex
+鈴木清司
+Seiji Suzuki
+$43A4879E (Line 2)
+33 26	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	97 E9	96 D8	90 B4	8E 69	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  鈴	 #  木	 #  清	 #  司	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	    S	 e  i	 j  i	    S	 u  z	 u  k	 i   	     	     	 [  n	 ]  #	| New English Text
+33 26	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 53	65 69	6A 69	20 53	75 7A	75 6B	69 20	20 20	20 20	5B 6E	5D 00	| New English Hex
+
+システム
+System
+$43A489CA (Line 1)
+33 24	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	83 56	83 58	83 65	83 80	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  シ	 #  ス	 #  テ	 #  ム	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	     	     	     	 S  y	 s  t	 e  m	     	 [  n	 ]  #	| New English Text
+33 24	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	53 79	73 74	65 6D	20 20	5B 6E	5D 00	| New English Hex
+居石淳一（HOWZ）
+HOWZ
+$43A489F0 (Line 2)
+33 2E	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	8B 8F	90 CE	8F 7E	88 EA	81 69	48 4F	57 5A	81 6A	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  居	 #  石	 #  淳	 #  一	 #  （	 H  O	 W  Z	 #  ）	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	     	     	     	     	 H  O	 W  Z	     	     	     	     	     	     	 [  n	 ]  #	| New English Text
+33 2E	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	48 4F	57 5A	20 20	20 20	20 20	20 20	20 20	20 20	5B 6E	5D 00	| New English Hex
+
+プランニング
+Planning
+$43A48A96 (Line 1)
+33 28	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	83 76	83 89	83 93	83 6A	83 93	83 4F	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  プ	 #  ラ	 #  ン	 #  ニ	 #  ン	 #  グ	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	    P	 l  a	 n  n	 i  n	 g   	     	     	     	     	     	 [  n	 ]  #	| New English Text
+33 28	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 50	6C 61	6E 6E	69 6E	67 20	20 20	20 20	20 20	20 20	20 20	5B 6E	5D 00	| New English Hex
+岩崎聡志
+Satoshi Iwasaki
+$43A48AC0 (Line 2)
+33 26	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	8A E2	8D E8	91 8F	8E 75	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  岩	 #  崎	 #  聡	 #  志	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	    S	 a  t	 o  s	 h  i	    I	 w  a	 s  a	 k  i	 [  n	 ]  #	| New English Text
+33 26	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 53	61 74	6F 73	68 69	20 49	77 61	73 61	6B 69	5B 6E	5D 00	| New English Hex
+
+ディレクター
+Director
+$43A48B5E (Line 1)
+33 28	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	83 66	83 42	83 8C	83 4E	83 5E	81 5B	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  デ	 #  ィ	 #  レ	 #  ク	 #  タ	 #  ー	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	     	 D  i	 r  e	 c  t	 o  r	     	     	     	     	 [  n	 ]  #	| New English Text
+33 28	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	44 69	72 65	63 74	6F 72	20 20	20 20	20 20	20 20	5B 6E	5D 00	| New English Hex
+岡野　一
+Hajime Okano
+$43A48B88 (Line 2)
+33 26	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	89 AA	96 EC	81 40	88 EA	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  岡	 #  野	 #  　	 #  一	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	     	     	 H  a	 j  i	 m  e	    O	 k  a	 n  o	 [  n	 ]  #	| New English Text
+33 26	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	48 61	6A 69	6D 65	20 4F	6B 61	6E 6F	5B 6E	5D 00	| New English Hex
+
+アニメーションプロデューサー
+Animation Producer
+$43A48C26 (Line 1)
+33 2C	81 40	81 40	81 40	81 40	81 40	81 40	83 41	83 6A	83 81	81 5B	83 56	83 87	83 93	83 76	83 8D	83 66	83 85	81 5B	83 54	81 5B	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  ア	 #  ニ	 #  メ	 #  ー	 #  シ	 #  ョ	 #  ン	 #  プ	 #  ロ	 #  デ	 #  ュ	 #  ー	 #  サ	 #  ー	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	    A	 n  i	 m  a	 t  i	 o  n	    P	 r  o	 d  u	 c  e	 r   	     	     	 [  n	 ]  #	| New English Text
+33 2C	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 41	6E 69	6D 61	74 69	6F 6E	20 50	72 6F	64 75	63 65	72 20	20 20	20 20	5B 6E	5D 00	| New English Hex
+尾崎穏通(TMS)
+Yasumichi Ozaki (TMS)
+$43A48C54 (Line 2)
+33 2C	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	94 F6	8D E8	89 B8	92 CA	28 54	4D 53	29 5B	6E 5D	00 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  尾	 #  崎	 #  穏	 #  通	 (  T	 M  S	 )  [	 n  ]	 #  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	    Y	 a  s	 u  m	 i  c	 h  i	    O	 z  a	 k  i	    (	 T  M	 S  )	 [  n	 ]  #	| New English Text
+33 2C	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 59	61 73	75 6D	69 63	68 69	20 4F	7A 61	6B 69	20 28	54 4D	53 29	5B 6E	5D 00	| New English Hex
+
+アニメーションプロデューサー
+Animation Producer
+$43A48CF8 (Line 1)
+33 2C	81 40	81 40	81 40	81 40	81 40	81 40	83 41	83 6A	83 81	81 5B	83 56	83 87	83 93	83 76	83 8D	83 66	83 85	81 5B	83 54	81 5B	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  ア	 #  ニ	 #  メ	 #  ー	 #  シ	 #  ョ	 #  ン	 #  プ	 #  ロ	 #  デ	 #  ュ	 #  ー	 #  サ	 #  ー	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	    A	 n  i	 m  a	 t  i	 o  n	    P	 r  o	 d  u	 c  e	 r   	     	     	 [  n	 ]  #	| New English Text
+33 2C	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 41	6E 69	6D 61	74 69	6F 6E	20 50	72 6F	64 75	63 65	72 20	20 20	20 20	5B 6E	5D 00	| New English Hex
+大石祐道(TMS)
+Hiromichi Oishi (TMS)
+$43A48D26 (Line 2)
+33 2C	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	91 E5	90 CE	97 53	93 B9	28 54	4D 53	29 5B	6E 5D	00 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  大	 #  石	 #  祐	 #  道	 (  T	 M  S	 )  [	 n  ]	 #  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	    H	 i  r	 o  m	 i  c	 h  i	    O	 i  s	 h  i	    (	 T  M	 S  )	 [  n	 ]  #	| New English Text
+33 2C	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 48	69 72	6F 6D	69 63	68 69	20 4F	69 73	68 69	20 28	54 4D	53 29	5B 6E	5D 00	| New English Hex
+
+プロデューサー
+Producer
+$43A48DCA (Line 1)
+33 2A	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	83 76	83 8D	83 66	83 85	81 5B	83 54	81 5B	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  プ	 #  ロ	 #  デ	 #  ュ	 #  ー	 #  サ	 #  ー	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	     	     	    P	 r  o	 d  u	 c  e	 r   	     	     	     	 [  n	 ]  #	| New English Text
+33 2A	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 50	72 6F	64 75	63 65	72 20	20 20	20 20	20 20	5B 6E	5D 00	| New English Hex
+小野幹雄(AAE)
+Mikio Ono (AAE)
+$43A48DF6 (Line 2)
+33 2C	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	8F AC	96 EC	8A B2	97 59	28 41	41 45	29 5B	6E 5D	00 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  小	 #  野	 #  幹	 #  雄	 (  A	 A  E	 )  [	 n  ]	 #  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	     	     	     	    M	 i  k	 i  o	    O	 n  o	    (	 A  A	 E  )	 [  n	 ]  #	| New English Text
+33 2C	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 4D	69 6B	69 6F	20 4F	6E 6F	20 28	41 41	45 29	5B 6E	5D 00	| New English Hex
+
+エグゼクティブプロデューサー
+Executive Producer
+$43A48E9A (Line 1)
+33 30	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	83 47	83 4F	83 5B	83 4E	83 65	83 42	83 75	83 76	83 8D	83 66	83 85	81 5B	83 54	81 5B	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  エ	 #  グ	 #  ゼ	 #  ク	 #  テ	 #  ィ	 #  ブ	 #  プ	 #  ロ	 #  デ	 #  ュ	 #  ー	 #  サ	 #  ー	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	 E  x	 e  c	 u  t	 i  v	 e   	 P  r	 o  d	 u  c	 e  r	     	     	     	     	     	 [  n	 ]  #	| New English Text
+33 30	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	45 78	65 63	75 74	69 76	65 20	50 72	6F 64	75 63	65 72	20 20	20 20	20 20	20 20	20 20	5B 6E	5D 00	| New English Hex
+椎名　保(AAE)
+Tamotsu Shiina (AAE)
+$43A48ECC (Line 2)
+33 2C	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	92 C5	96 BC	81 40	95 DB	28 41	41 45	29 5B	6E 5D	00 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  椎	 #  名	 #  　	 #  保	 (  A	 A  E	 )  [	 n  ]	 #  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	 T  a	 m  o	 t  s	 u   	 S  h	 i  i	 n  a	    (	 A  A	 E  )	     	 [  n	 ]  #	| New English Text
+33 2C	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	54 61	6D 6F	74 73	75 20	53 68	69 69	6E 61	20 28	41 41	45 29	20 20	5B 6E	5D 00	| New English Hex
+
+エグゼクティブプロデューサー
+Executive Producer
+$43A48F68 (Line 1)
+33 30	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	83 47	83 4F	83 5B	83 4E	83 65	83 42	83 75	83 76	83 8D	83 66	83 85	81 5B	83 54	81 5B	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  エ	 #  グ	 #  ゼ	 #  ク	 #  テ	 #  ィ	 #  ブ	 #  プ	 #  ロ	 #  デ	 #  ュ	 #  ー	 #  サ	 #  ー	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	 E  x	 e  c	 u  t	 i  v	 e   	 P  r	 o  d	 u  c	 e  r	     	     	     	     	     	 [  n	 ]  #	| New English Text
+33 30	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	45 78	65 63	75 74	69 76	65 20	50 72	6F 64	75 63	65 72	20 20	20 20	20 20	20 20	20 20	5B 6E	5D 00	| New English Hex
+豊島雅郎(AAE)
+Toshima Masao (AAE)
+$43A48F9A (Line 2)
+33 2C	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	96 4C	93 87	89 EB	98 59	28 41	41 45	29 5B	6E 5D	00 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  豊	 #  島	 #  雅	 #  郎	 (  A	 A  E	 )  [	 n  ]	 #  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	 T  o	 s  h	 i  m	 a   	 M  a	 s  a	 o   	 (  A	 A  E	 )   	     	 [  n	 ]  #	| New English Text
+33 2C	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	54 6F	73 68	69 6D	61 20	4D 61	73 61	6F 20	28 41	41 45	29 20	20 20	5B 6E	5D 00	| New English Hex
+
+アニメーション制作
+Animation Production
+$43A49036 (Line 1)
+33 2C	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	83 41	83 6A	83 81	81 5B	83 56	83 87	83 93	90 A7	8D EC	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  ア	 #  ニ	 #  メ	 #  ー	 #  シ	 #  ョ	 #  ン	 #  制	 #  作	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	     	 A  n	 i  m	 a  t	 i  o	 n   	 P  r	 o  d	 u  c	 t  i	 o  n	 [  n	 ]  #	| New English Text
+33 2C	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	41 6E	69 6D	61 74	69 6F	6E 20	50 72	6F 64	75 63	74 69	6F 6E	5B 6E	5D 00	| New English Hex
+東京ムービー
+Tokyo Movie
+$43A49064 (Line 2)
+33 2A	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	93 8C	8B 9E	83 80	81 5B	83 72	81 5B	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  東	 #  京	 #  ム	 #  ー	 #  ビ	 #  ー	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	     	     	 T  o	 k  y	 o   	 M  o	 v  i	 e   	     	     	 [  n	 ]  #	| New English Text
+33 2A	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	54 6F	6B 79	6F 20	4D 6F	76 69	65 20	20 20	20 20	5B 6E	5D 00	| New English Hex
+
+企画・製作
+Planning & Production
+$43A490FE (Line 1)
+33 28	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	8A E9	89 E6	81 45	90 BB	8D EC	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  企	 #  画	 #  ・	 #  製	 #  作	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	    P	 l  a	 n  n	 i  n	 g   	 &   	 P  r	 o  d	 u  c	 t  i	 o  n	 [  n	 ]  #	| New English Text
+33 28	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 50	6C 61	6E 6E	69 6E	67 20	26 20	50 72	6F 64	75 63	74 69	6F 6E	5B 6E	5D 00	| New English Hex
+アスミック・エース エンタテインメント
+Asmik Ace Entertainment
+$43A49128 (Line 2)
+33 36	81 40	81 40	81 40	81 40	81 40	81 40	83 41	83 58	83 7E	83 62	83 4E	81 45	83 47	81 5B	83 58	20 83	47 83	93 83	5E 83	65 83	43 83	93 83	81 83	93 83	67 5B	6E 5D	00 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  ア	 #  ス	 #  ミ	 #  ッ	 #  ク	 #  ・	 #  エ	 #  ー	 #  ス	    #	 エ  #	 ン  #	 タ  #	 テ  #	 イ  #	 ン  #	 メ  #	 ン  #	 ト  [	 n  ]	 #  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	    A	 s  m	 i  k	    A	 c  e	    E	 n  t	 e  r	 t  a	 i  n	 m  e	 n  t	     	     	     	     	     	 [  n	 ]  #	| New English Text
+33 36	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 41	73 6D	69 6B	20 41	63 65	20 45	6E 74	65 72	74 61	69 6E	6D 65	6E 74	20 20	20 20	20 20	20 20	20 20	5B 6E	5D 00	| New English Hex
+
+制作
+Production
+$43A491CE (Line 1)
+33 26	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	90 A7	8D EC	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  制	 #  作	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	     	     	     	 P  r	 o  d	 u  c	 t  i	 o  n	 [  n	 ]  #	| New English Text
+33 26	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	50 72	6F 64	75 63	74 69	6F 6E	5B 6E	5D 00	| New English Hex
+ＴＹＣＯＯＮ
+TYCOON
+$43A491F6 (Line 2)
+33 2A	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	82 73	82 78	82 62	82 6E	82 6E	82 6D	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  Ｔ	 #  Ｙ	 #  Ｃ	 #  Ｏ	 #  Ｏ	 #  Ｎ	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	     	     	     	     	 T  Y	 C  O	 O  N	     	     	     	 [  n	 ]  #	| New English Text
+33 2A	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	54 59	43 4F	4F 4E	20 20	20 20	20 20	5B 6E	5D 00	| New English Hex
