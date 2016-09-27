@@ -1,0 +1,107 @@
+﻿SHIFT-JIS
+----------
+Main Game:
+----------
+［船長］
+[Captain]
+$43A494D0 (Line 1)
+33 20	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 6D	91 44	92 B7	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  ［	 #  船	 #  長	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	 #  ［	 C  a	 p  t	 a  i	 n  ]	 [  n	 ]  #	| New English Text
+33 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	81 6D	43 61	70 74	61 69	6E 5D	5B 6E	5D 00	| New English Hex
+・・・こいつは！
+... Hey you / This time!
+$43A4950A (Line 2)
+33 28	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 45	81 45	81 45	82 B1	82 A2	82 C2	82 CD	81 49	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  ・	 #  ・	 #  ・	 #  こ	 #  い	 #  つ	 #  は	 #  ！	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	 			 .  .	 .   	 H  e	 y   	 y  o	 u  !	 [  n	 ]  #	| New English Text
+33 28	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	2E 2E	2E 20	48 65	79 20	79 6F	75 21	5B 6E	5D 00	| New English Hex
+
+［テオ］
+[Theo]
+$43A49580 (Line 1)
+33 18	81 40	81 40	81 40	81 40	81 40	81 40	81 6D	83 65	83 49	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  ［	 #  テ	 #  オ	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	 #  ［	 T  h	 e  o	 ]   	 [  n	 ]  #	| New English Text
+33 18	20 20	20 20	20 20	20 20	20 20	20 20	81 6D	74 68	65 6F	5D 20	5B 6E	5D 00	| New English Hex
+すごい！
+Amazing!
+$43A495B2 (Line 2)
+33 18	81 40	81 40	81 40	81 40	81 40	81 40	82 B7	82 B2	82 A2	81 49	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  す	 #  ご	 #  い	 #  ！	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	 A  m	 a  z	 i  n	 g  !	 [  n	 ]  #	| New English Text
+33 18	20 20	20 20	20 20	20 20	20 20	20 20	41 6D	61 7A	69 6E	67 21	5B 6E	5D 00	| New English Hex
+やったね、親方！
+We did it, boss!
+$43A495CC (Line 3)
+33 20	81 40	81 40	81 40	81 40	81 40	81 40	82 E2	82 C1	82 BD	82 CB	81 41	90 65	95 FB	81 49	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  や	 #  っ	 #  た	 #  ね	 #  、	 #  親	 #  方	 #  ！	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	 W  e	    d	 i  d	    i	 t  ,	    b	 o  s	 s  !	 [  n	 ]  #	| New English Text
+33 20	20 20	20 20	20 20	20 20	20 20	20 20	57 65	20 64	69 64	20 69	74 2C	20 62	6F 73	73 21	5B 6E	5D 00	| New English Hex
+
+［コスタス］
+[Kostas]
+$43A49678 (Line 1)
+33 10	81 6D	83 52	83 58	83 5E	83 58	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #  ［	 #  コ	 #  ス	 #  タ	 #  ス	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	 #  ［	 K  o	 s  t	 a  s	 ]  	     	 [  n	 ]  #	| New English Text
+33 10	81 6D	4B 6F	73 74	61 73	5D 20	20 20	5B 6E	5D 00	| New English Hex
+かなりのもんだ、
+Quite a bit,
+$43A496A2 (Line 2)
+33 14	82 A9	82 C8	82 E8	82 CC	82 E0	82 F1	82 BE	81 41	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #  か	 #  な	 #  り	 #  の	 #  も	 #  ん	 #  だ	 #  、	 [  n	 ]  #	| Original Japanese Text
+ #LEN	 Q  u	 i  t	 e   	 a   	 b  i	 t  ,	     	     	 [  n	 ]  #	| New English Text
+33 14	51 75	69 74	65 20	61 20	62 69	74 2C	20 20	20 20	5B 6E	5D 00	| New English Hex
+まだ、たくさんある。
+still / we are not yet finished, there are a lot more to come besides that.
+$43A496B8 (Line 3)
+33 18	82 DC	82 BE	81 41	82 BD	82 AD	82 B3	82 F1	82 A0	82 E9	81 42	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #  ま	 #  だ	 #  、	 #  た	 #  く	 #  さ	 #  ん	 #  あ	 #  る	 #  。	 [  n	 ]  #	| Original Japanese Text
+ #LEN	 s  t	 i  l	 l  ,	    m	 o  r	 e   	 t  o	    c	 o  m	 e  .	 [  n	 ]  #	| New English Text
+33 18	73 74	69 6C	6C 2C	20 6D	6F 72	65 20	74 6F	20 63	6F 6D	65 2E	5B 6E	5D 00	| New English Hex
+
+［アブリオ］
+[Aburio]
+$43A4988C (Line 1)
+33 10	81 6D	83 41	83 75	83 8A	83 49	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #  ［	 #  ア	 #  ブ	 #  リ	 #  オ	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	 #  ［	 A  b	 u  r	 i  o	 ]   	     	 [  n	 ]  #	| New English Text
+33 10	81 6D	41 42	75 72	69 6F	5D 20	20 20	5B 6E	5D 00	| New English Hex
+お～い、すごいぜテオ！
+Hey, wow / incredible / amazing Theo!
+$43A498CA (Line 2)
+33 1A	82 A8	81 60	82 A2	81 41	82 B7	82 B2	82 A2	82 BA	83 65	83 49	81 49	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #  お	 #  ～	 #  い	 #  、	 #  す	 #  ご	 #  い	 #  ぜ	 #  テ	 #  オ	 #  ！	 [  n	 ]  #	| Original Japanese Text
+ #LEN	 H  e	 y  ,	    i	 n  c	 r  e	 d  i	 b  l	 e   	 T  h	 e  o	 !   	 [  n	 ]  #	| New English Text
+33 1A	48 65	79 2C	20 69	6E 63	72 65	64 69	62 6C	65 20	54 68	65 6F	21 20	5B 6E	5D 00	| New English Hex
+
+［アブリオ］
+[Aburio]
+$43A499A4 (Line 1)
+33 10	81 6D	83 41	83 75	83 8A	83 49	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #  ［	 #  ア	 #  ブ	 #  リ	 #  オ	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	 #  ［	 A  b	 u  r	 i  o	 ]   	     	 [  n	 ]  #	| New English Text
+33 10	81 6D	41 42	75 72	69 6F	5D 20	20 20	5B 6E	5D 00	| New English Hex
+お～い！
+Hey!
+$43A499D6 (Line 2)
+33 0E	81 40	82 A8	81 60	82 A2	81 49	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #  お	 #  ～	 #  い	 #  ！	 [  n	 ]  #	| Original Japanese Text
+ #LEN				 H  e	 y  !	 [  n	 ]  #	| New English Text
+33 0E	20 20	20 20	20 20	48 65	79 21	5B 6E	5D 00	| New English Hex
+
+［テオ］
+[Theo]
+$43A49B1A (Line 1)
+33 18	81 40	81 40	81 40	81 40	81 40	81 40	81 6D	83 65	83 49	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  ［	 #  テ	 #  オ	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	 #  ［	 T  h	 e  o	 ]   	 [  n	 ]  #	| New English Text
+33 18	20 20	20 20	20 20	20 20	20 20	20 20	81 6D	74 68	65 6F	5D 20	5B 6E	5D 00	| New English Hex
+あ、僕の名前・・・
+Oh, my name...
+$43A49B3C (Line 2)
+33 22	81 40	81 40	81 40	81 40	81 40	81 40	82 A0	81 41	96 6C	82 CC	96 BC	91 4F	81 45	81 45	81 45	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  あ	 #  、	 #  僕	 #  の	 #  名	 #  前	 #  ・	 #  ・	 #  ・	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	 O  h	 ,   	 m  y	    n	 a  m	 e  .	 .  .	 [  n	 ]  #	| New English Text
+33 22	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	4F 68	2C 20	6D 69	20 6E	61 6D	65 2E	2E 2E	5B 6E	5D 00	| New English Hex

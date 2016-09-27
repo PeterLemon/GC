@@ -243,3 +243,24 @@ TextMain($43A49128, 17, 0, "Asmik Ace Entertainment          ")
 
 TextMain($43A491CE, 24, 0, "Production")
 TextMain($43A491F6, 26, 0, "TYCOON      ")
+
+// Main Game
+TextMain($43A494D0, 18, 1, "Captain]")
+TextMain($43A4950A, 24, 0, "... Hey you!")
+
+TextMain($43A49580, 12, 1, "Theo] ")
+TextMain($43A495B2, 12, 0, "Amazing!")
+TextMain($43A495CC, 12, 0, "We did it, boss!")
+
+TextMain($43A49678, 0, 1, "Kostas]   ")
+TextMain($43A496A2, 0, 0, "Quite a bit,    ")
+TextMain($43A496B8, 0, 0, "still, more to come.")
+
+TextMain($43A4988C, 0, 1, "Aburio]   ")
+TextMain($43A498CA, 0, 0, "Hey, incredible Theo! ")
+
+TextMain($43A499A4, 0, 1, "Aburio]   ")
+TextMain($43A499D6, 6, 0, "Hey!")
+
+TextMain($43A49B1A, 12, 1, "Theo] ")
+TextMain($43A49B3C, 16, 0, "Oh, my name...")
