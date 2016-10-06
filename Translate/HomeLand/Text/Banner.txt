@@ -22,7 +22,7 @@ $49A0D838
 
 Description:
 不思議な世界を冒険し、謎や事件を解決していこう。
-Option
+Adventures in a magical world, let's solve the mystery & incident.
 $49A0D8B8
 95 73	8E 76	8B 63	82 C8	90 A2	8A 45	82 F0	96 60	8C AF	82 B5	81 41	93 E4	82 E2	8E 96	8C 8F	82 F0	89 F0	8C 88	82 B5	82 C4	82 A2	82 B1	82 A4	81 42	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	| Original Japanese Hex
  #  不	 #  思	 #  議	 #  な	 #  世	 #  界	 #  を	 #  冒	 #  険	 #  し	 #  、	 #  謎	 #  や	 #  事	 #  件	 #  を	 #  解	 #  決	 #  し	 #  て	 #  い	 #  こ	 #  う	 #  。	     	     	     	     	     	     	     	     	     	| Original Japanese Text
