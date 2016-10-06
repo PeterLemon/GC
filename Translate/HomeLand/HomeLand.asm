@@ -77,6 +77,8 @@ Text($23E20CF8, "Mother") ; fill 5
 
 
 // Story
+Text($23E1CFAF, "So you want to go.") ; db $81, $A5 ; fill 12
+
 Text($23E20D79, "If the homework is not done\n")
              db "Mom will get angry!" ; fill 8
 
@@ -287,11 +289,32 @@ Text($23E21F03, "It is useless\n")
 Text($23E21F24, "This") ; db $FE, $05, " ", RED, "Quest", BLACK, " is\n"
              db "quite basic.", $81, $A5 ; fill 4
 
+Text($23E21F48, "Oh-!\n")
+             db "Well you look great.", $81, $A5 ; fill 6 ; db $81, $A1, "\n"
+
+Text($23E21F6C, "So immediately\n")
+             db "we should go into the World.", $81, $A4, "\n" ; fill 5
+
+Text($23E21F9F, "Are you ready to go?") ; db $81, $A5 ; fill 4 ; db "\n"
+
+Text($23E21FBA, "Please follow me\n")
+             db "right this way!", $81, $A5 ; fill 4
+
+Text($23E21FE0, "When you are ready\n")
+             db "please come over here\n"
+             db "& ask again.", $81, $A5 ; fill 2
+
 // Game Menus
 Text($41C05442, "Yes") ; fill 2
 Text($41C05447, "No") ; fill 5
 
 TextShiftJIS($43B54790, "Joining") ; fill 2
+
+Text($43ADDF6C, "Block") ; fill 7
+
+Text($43ADDF90, "Pinnock") ; fill 5
+
+Text($43B242B4, RED) ; db "B Button", BLACK, ": Quit & Return" ; fill 11
 
 Text($43B55730, "    Sort Items") ; fill 2
 
@@ -314,6 +337,16 @@ Text($43B564CC, "Top Zoom") ; fill 8
 Text($43B564DC, "Skill Pointer") ; fill 3
 Text($43B564EC, "BGM Volume") ; fill 10
 Text($43B56500, " SE Volume") ; fill 6
+
+Text($43B56570, "[Block Mascot]\n")
+             db " The Block is part of a tribe of toys who live in a town.\n"
+             db " Weak in power, exert your personality to grow stronger." ; fill 11
+
+Text($43B56784, "[Pinnock Mascot]\n")
+             db " A tribe of friendly dolls living in a village.\n"
+             db " Can injure monsters, also has cure as an ability." ; fill 17
+
+Text($43B56D18, "There is no Mascot here yet.") ; fill 8
 
 Text($43B58B90, "Clear Points") ; fill 4
 Text($43B58BA0, "points") ; fill 2

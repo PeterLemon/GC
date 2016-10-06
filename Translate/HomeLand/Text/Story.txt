@@ -2,6 +2,15 @@
 ------
 Story:
 ------
+それでは ごあんないしま～す。
+So you want to go.
+$23E1CFAF
+82 BB	82 EA	82 C5	82 CD	20 82	B2 82	A0 82	F1 82	C8 82	A2 82	B5 82	DC 81	60 82	B7 81	42 81	A5 00	| Original Japanese Hex
+ #  そ	 #  れ	 #  で	 #  は	    #	 ご  #	 あ  #	 ん  #	 な  #	 い  #	 し  #	 ま  #	 ～  #	 す  #	 。  #	 ▼  #	| Original Japanese Text
+ S  o	    y	 o  u	    w	 a  n	 t   	 t  o	    g	 o  .	 #  ▼	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	| New English Text
+53 6F	20 79	6F 75	20 77	61 6E	74 20	74 6F	20 67	6F 2E	81 A5	00 00	00 00	00 00	00 00	00 00	00 00	| New English Hex
+
+
 はやく しゅくだいを しないと
 If the homework is not done / completed quickly
 $23E20D79 (Line 1)
@@ -1144,3 +1153,78 @@ $23E21F39 (Line 2)
  #  き	 #  ほ	 #  ん	 #  で	 #  す	 #  。	 #  ▼	 #	| Original Japanese Text
  t  e	    b	 a  s	 i  c	 .  #	 ▼  #	 #  #	 #	| New English Text
 74 65	20 62	61 73	69 63	2E 81	A5 00	00 00	00	| New English Hex
+
+おお～！
+Oh~!
+$23E21F48 (Line 1)
+82 A8	82 A8	81 60	81 49	0A	| Original Japanese Hex
+ #  お	 #  お	 #  ～	 #  ！	 #	| Original Japanese Text
+ O  h	 -  !	LF  W	 e  l	 l	| New English Text
+4F 68	2D 21	0A 57	65 6C	6C	| New English Hex
+よく おにあいですよ。
+Well you look great.
+$23E21F51 (Line 2)
+82 E6	82 AD	20 82	A8 82	C9 82	A0 82	A2 82	C5 82	B7 82	E6 81	42 81	A5 00	81 A1	0A	| Original Japanese Hex
+ #  よ	 #  く	    #	 お  #	 に  #	 あ  #	 い  #	 で  #	 す  #	 よ  #	 。  #	 ▼  #	 #  ■	LF	| Original Japanese Text
+    y	 o  u	    l	 o  o	 k   	 g  r	 e  a	 t  .	 #  ▼	 #  #	 #  #	 #  #	 #  ■	LF	| New English Text
+20 69	6F 75	20 6C	6F 6F	6B 20	67 72	65 61	74 2E	81 A5	00 00	00 00	00 00	81 A1	0A	| New English Hex
+
+それでは さっそく
+So immediately
+$23E21F6C (Line 1)
+82 BB	82 EA	82 C5	82 CD	20 82	B3 82	C1 82	BB 82	AD 0A	| Original Japanese Hex
+ #  そ	 #  れ	 #  で	 #  は	    #	 さ  #	 っ  #	 そ  #	 く LF	| Original Japanese Text
+ S  o	    i	 m  m	 e  d	 i  a	 t  e	 l  y	LF  w	 e   	| New English Text
+53 6F	20 69	6D 6D	65 64	69 61	74 65	6C 69	0A 77	65 20	| New English Hex
+いせかいへ むかいましょうか。
+we should go into the World.
+$23E21F7E (Line 2)
+82 A2	82 B9	82 A9	82 A2	82 D6	20 82	DE 82	A9 82	A2 82	DC 82	B5 82	E5 82	A4 82	A9 81	42 81	A4 0A	00	| Original Japanese Hex
+ #  い	 #  せ	 #  か	 #  い	 #  へ	    #	 む  #	 か  #	 い  #	 ま  #	 し  #	 ょ  #	 う  #	 か  #	 。  #	 ▽ LF	 #	| Original Japanese Text
+ s  h	 o  u	 l  d	    g	 o   	 i  n	 t  o	    t	 h  e	    W	 o  r	 l  d	 .  #	 ▽ LF	 #  #	 #  #	 #	| New English Text
+73 68	6F 75	6C 64	20 67	6F 20	69 6E	74 6F	20 74	68 65	20 57	6F 72	6C 64	2E 81	A4 0A	00 00	00 00	00	| New English Hex
+
+じゅんびは よいですか？
+Are you ready to go?
+$23E21F9F (Line 1)
+82 B6	82 E3	82 F1	82 D1	82 CD	20 82	E6 82	A2 82	C5 82	B7 82	A9 81	48 81	A5 00	0A	| Original Japanese Hex
+ #  じ	 #  ゅ	 #  ん	 #  び	 #  は	    #	 よ  #	 い  #	 で  #	 す  #	 か  #	 ？  #	 ▼  #	LF	| Original Japanese Text
+ A  r	 e   	 y  o	 u   	 r  e	 a  d	 y   	 t  o	    g	 o  ?	 #  ▼	 #  #	 #  #	LF	| New English Text
+41 72	65 20	79 6F	75 20	72 65	61 64	69 20	74 6F	20 67	6F 3F	81 A5	00 00	00 00	0A	| New English Hex
+
+わたしのあとに
+Please follow me
+$23E21FBA (Line 1)
+82 ED	82 BD	82 B5	82 CC	82 A0	82 C6	82 C9	0A	| Original Japanese Hex
+ #  わ	 #  た	 #  し	 #  の	 #  あ	 #  と	 #  に	LF	| Original Japanese Text
+ P  l	 e  a	 s  e	    f	 o  l	 l  o	 w   	 m	| New English Text
+50 6C	65 61	73 65	20 66	6F 6C	6C 6F	77 20	6D	| New English Hex
+ついてきてください！
+right this way!
+$23E21FC9 (Line 2)
+82 C2	82 A2	82 C4	82 AB	82 C4	82 AD	82 BE	82 B3	82 A2	81 49	81 A5	00	| Original Japanese Hex
+ #  つ	 #  い	 #  て	 #  き	 #  て	 #  く	 #  だ	 #  さ	 #  い	 #  ！	 #  ▼	 #	| Original Japanese Text
+ e LF  	 r  i	 g  h	 t   	 t  h	 i  s	    w	 a  y	 !  #	 ▼  #	 #  #	 #	| New English Text
+65 0A	72 69	67 68	74 20	74 68	69 73	20 77	61 69	21 81	A5 00	00 00	00	| New English Hex
+
+じゅんびができたら
+When you are ready
+$23E21FE0 (Line 1)
+82 B6	82 E3	82 F1	82 D1	82 AA	82 C5	82 AB	82 BD	82 E7	0A	| Original Japanese Hex
+ #  じ	 #  ゅ	 #  ん	 #  び	 #  が	 #  で	 #  き	 #  た	 #  ら	LF	| Original Japanese Text
+ W  h	 e  n	    y	 o  u	    a	 r  e	    r	 e  a	 d  y	LF	| New English Text
+57 68	65 6E	20 79	6F 75	20 61	72 65	20 72	65 61	64 79	0A	| New English Hex
+わたしに こえを かけて
+please come over here
+$23E21FF3 (Line 2)
+82 ED	82 BD	82 B5	82 C9	20 82	B1 82	A6 82	F0 20	82 A9	82 AF	82 C4	0A	| Original Japanese Hex
+ #  わ	 #  た	 #  し	 #  に	    #	 こ  #	 え  #	 を   	 #  か	 #  け	 #  て	LF	| Original Japanese Text
+ p  l	 e  a	 s  e	    c	 o  m	 e   	 o  v	 e  r	    h	 e  r	 e LF	 &	| New English Text
+70 6C	65 61	73 65	20 63	6F 6D	65 20	6F 76	65 72	20 68	65 72	65 0A	26	| New English Hex
+くださいね。
+& ask me again.
+$23E2200A (Line 3)
+82 AD	82 BE	82 B3	82 A2	82 CB	81 42	81 A5	00	| Original Japanese Hex
+ #  く	 #  だ	 #  さ	 #  い	 #  ね	 #  。	 #  ▼	 #	| Original Japanese Text
+    a	 s  k	    a	 g  a	 i  n	 .  #	 ▼  #	 #	| New English Text
+20 61	73 6B	20 65	67 61	69 6E	2E 81	A5 00	00	| New English Hex

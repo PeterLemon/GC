@@ -19,6 +19,33 @@ $41C05447
 4E 6F	00 00	00 00	00	| New English Hex
 
 
+ブロック
+Block
+$43ADDF6C
+83 75	83 8D	83 62	83 4E	00 00	00 00	| Original Japanese Hex
+ #  ブ	 #  ロ	 #  ッ	 #  ク	 #  #	 #  #	| Original Japanese Text
+ B  l	 o  c	 k  #	 #  #	 #  #	 #  #	| New English Text
+42 6C	6F 63	6B 00	00 00	00 00	00 00	| New English Hex
+
+
+ピノック
+Pinnock
+$43ADDF90
+83 73	83 6D	83 62	83 4E	00 00	00 00	| Original Japanese Hex
+ #  ピ	 #  ノ	 #  ッ	 #  ク	 #  #	 #  #	| Original Japanese Text
+ P  i	 n  n	 o  c	 k  #	 #  #	 #  #	| New English Text
+50 69	6E 6E	6F 63	6B 00	00 00	00 00	| New English Hex
+
+
+Ｂボタン：へんしんをやめる
+B Button: Quit & Return
+$43B242B4
+BB 82	61 83	7B 83	5E 83	93 B0	81 46	82 D6	82 F1	82 B5	82 F1	82 F0	82 E2	82 DF	82 E9	00 00	00 00	00 00	00 00	| Original Japanese Hex
+RED #	 Ｂ  #	 ボ  #	 タ  #	 ンBLACK	 #  ：	 #  へ	 #  ん	 #  し	 #  ん	 #  を	 #  や	 #  め	 #  る	 #  #	 #  #	 #  #	 #  #	| Original Japanese Text
+RED B	    B	 u  t	 t  o	 nBLACK	 :   	 Q  u	 i  t	    &	    R	 e  t	 u  r	 n  #	 #  #	 #  #	 #  #	 #  #	 #  #	| New English Text
+BB 42	20 42	75 74	74 6F	6E B0	3A 20	51 75	69 74	20 26	20 52	65 74	75 72	6E 00	00 00	00 00	00 00	00 00	00 00	| New English Hex
+
+
 てをさしだした
 The hand held out his / Reach Out
 $43B54790
@@ -143,6 +170,61 @@ $43B56500 (Line 4)
  #  Ｓ	 #  Ｅ	 #  ボ	 #  リ	 #  ュ	 #  ー	 #  ム	 #  #	| Original Japanese Text
     S	 E   	 V  o	 l  u	 m  e	 #  #	 #  #	 #  #	| New English Text
 20 53	45 20	56 6F	6C 75	6D 6E	00 00	00 00	00 00	| New English Hex
+
+
+［ブロックのマスコット］
+[Block Mascot]
+$43B56570 (Line 1)
+81 6D	83 75	83 8D	83 62	83 4E	82 CC	83 7D	83 58	83 52	83 62	83 67	81 6E	0A	| Original Japanese Hex
+ #  ［	 #  ブ	 #  ロ	 #  ッ	 #  ク	 #  の	 #  マ	 #  ス	 #  コ	 #  ッ	 #  ト	 #  ］	LF	| Original Japanese Text
+ [  B	 l  o	 c  k	    M	 a  s	 c  o	 t  ]	LF   	 T  h	 e   	 B  l	 o  c	 k	| New English Text
+5B 42	6C 6F	63 6B	20 4D	61 73	63 6F	74 5D	0A 20	54 68	65 20	42 6C	6F 63	6B	| New English Hex
+ブロックのまちアプリカントにすむ おもちゃのしゅぞく。
+The Block is part of a tribe of toys who live in a town.
+$43B56589 (Line 2)
+81 40	83 75	83 8D	83 62	83 4E	82 CC	82 DC	82 BF	83 41	83 76	83 8A	83 4A	83 93	83 67	82 C9	82 B7	82 DE	20 82	A8 82	E0 82	BF 82	E1 82	CC 82	B5 82	E3 82	BC 82	AD 81	42 0A	| Original Japanese Hex
+ #   	 #  ブ	 #  ロ	 #  ッ	 #  ク	 #  の	 #  ま	 #  ち	 #  ア	 #  プ	 #  リ	 #  カ	 #  ン	 #  ト	 #  に	 #  す	 #  む	    #	 お  #	 も  #	 ち  #	 ゃ  #	 の  #	 し  #	 ゅ  #	 ぞ  #	 く  #	 。 LF	| Original Japanese Text
+    i	 s   	 p  a	 r  t	    o	 f   	 a   	 t  r	 i  b	 e   	 o  f	    t	 o  y	 s   	 w  h	 o   	 l  i	 v  e	    i	 n   	 a   	 t  o	 w  n	 . LF	    W	 e  a	 k   	 i  n	| New English Text
+20 69	73 20	70 61	72 74	20 6F	66 20	61 20	74 72	69 62	65 20	6F 66	20 74	6F 79	73 20	77 68	6F 20	6B 69	76 65	20 69	6E 20	61 20	74 6F	77 6E	2E 0A	20 57	65 61	6B 20	69 6E	| New English Hex
+ちからはよわいが せいちょうすると こせいをはっきする。
+Weak in power, exert your personality to grow stronger.
+$43B565C1 (Line 3)
+81 40	82 BF	82 A9	82 E7	82 CD	82 E6	82 ED	82 A2	82 AA	20 82	B9 82	A2 82	BF 82	E5 82	A4 82	B7 82	E9 82	C6 20	82 B1	82 B9	82 A2	82 F0	82 CD	82 C1	82 AB	82 B7	82 E9	81 42	00 00	00	| Original Japanese Hex
+ #   	 #  ち	 #  か	 #  ら	 #  は	 #  よ	 #  わ	 #  い	 #  が	    #	 せ  #	 い  #	 ち  #	 ょ  #	 う  #	 す  #	 る  #	 と   	 #  こ	 #  せ	 #  い	 #  を	 #  は	 #  っ	 #  き	 #  す	 #  る	 #  。	 #  #	 #	| Original Japanese Text
+    p	 o  w	 e  r	 ,   	 e  x	 e  r	 t   	 y  o	 u  r	    p	 e  r	 s  o	 n  a	 l  i	 t  y	    t	 o   	 g  r	 o  w	    s	 t  r	 o  n	 g  e	 r  .	 #  #	 #  #	 #  #	 #  #	 #  #	 #	| New English Text
+20 70	6F 77	65 72	2C 20	65 78	65 72	74 20	79 6F	75 72	20 70	65 72	73 6F	6E 61	6B 69	74 79	20 74	6F 20	67 72	6F 77	20 73	74 72	6F 6E	67 65	72 2E	00 00	00 00	00 00	00 00	00 00	00	| New English Hex
+
+
+［ピノックのマスコット］
+[Pinnock Mascot]
+$43B56784 (Line 1)
+81 6D	83 73	83 6D	83 62	83 4E	82 CC	83 7D	83 58	83 52	83 62	83 67	81 6E	0A	| Original Japanese Hex
+ #  ［	 #  ピ	 #  ノ	 #  ッ	 #  ク	 #  の	 #  マ	 #  ス	 #  コ	 #  ッ	 #  ト	 #  ］	LF	| Original Japanese Text
+ [  P	 i  n	 n  o	 c  k	    M	 a  s	 c  o	 t  ]	LF   	 A   	 t  r	 i  b	 e	| New English Text
+5B 50	69 6E	6E 6F	63 6B	20 6D	61 73	63 6F	74 5D	0A 20	41 20	74 72	69 62	65	| New English Hex
+クローツむらにすむ やさしい にんぎょうのしゅぞく。
+A tribe of friendly dolls living in a village.
+$43B5679D (Line 2)
+81 40	83 4E	83 8D	81 5B	83 63	82 DE	82 E7	82 C9	82 B7	82 DE	20 82	E2 82	B3 82	B5 82	A2 20	82 C9	82 F1	82 AC	82 E5	82 A4	82 CC	82 B5	82 E3	82 BC	82 AD	81 42	0A	| Original Japanese Hex
+ #   	 #  ク	 #  ロ	 #  ー	 #  ツ	 #  む	 #  ら	 #  に	 #  す	 #  む	    #	 や  #	 さ  #	 し  #	 い  	 #  に	 #  ん	 #  ぎ	 #  ょ	 #  う	 #  の	 #  し	 #  ゅ	 #  ぞ	 #  く	 #  。	LF	| Original Japanese Text
+    o	 f   	 f  r	 i  e	 n  d	 l  y	    d	 o  l	 l  s	    l	 i  v	 i  n	 g   	 i  n	    a	    v	 i  l	 l  a	 g  e	 . LF	    C	 a  n	    i	 n  j	 u  r	 e   	 m	| New English Text
+20 6F	66 20	66 72	69 65	6E 64	6C 79	20 64	6F 6C	6C 73	20 6C	69 76	69 6E	67 20	69 6E	20 41	20 76	69 6C	6C 61	67 65	2E 0A	20 43	61 6E	20 69	6E 6A	75 72	65 20	6D	| New English Hex
+まもののケガさえも なおす のうりょくをもっている。
+Can injure monsters, also has cure as an ability.
+$43B567D2 (Line 3)
+81 40	82 DC	82 E0	82 CC	82 CC	83 50	83 4B	82 B3	82 A6	82 E0	20 82	C8 82	A8 82	B7 20	82 CC	82 A4	82 E8	82 E5	82 AD	82 F0	82 E0	82 C1	82 C4	82 A2	82 E9	81 42	00 00	| Original Japanese Hex
+ #   	 # 　ま	 #  も	 #  の	 #  の	 #  ケ	 #  ガ	 #  さ	 #  え	 #  も	    #	 な  #	 お  #	 す  	 #  の	 #  う	 #  り	 #  ょ	 #  く	 #  を	 #  も	 #  っ	 #  て	 #  い	 #  る	 #  。	 #  #	| Original Japanese Text
+ o  n	 s  t	 e  r	 s  ,	    a	 l  s	 o   	 h  a	 s   	 c  u	 r  e	    a	 s   	 a  n	    a	 b  i	 l  i	 t  y	 .  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	| New English Text
+6F 6E	73 74	65 72	73 2C	20 61	6C 73	6F 20	68 61	73 20	63 75	72 65	20 61	73 20	61 6E	20 61	62 69	6C 69	74 79	2E 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	| New English Hex
+
+
+ここのマスコットは まだありません。
+There is no Mascot here yet.
+$43B56D18
+82 B1	82 B1	82 CC	83 7D	83 58	83 52	83 62	83 67	82 CD	20 82	DC 82	BE 82	A0 82	E8 82	DC 82	B9 82	F1 81	42 00	| Original Japanese Hex
+ #  こ	 #  こ	 #  の	 #  マ	 #  ス	 #  コ	 #  ッ	 #  ト	 #  は	    #	 ま  #	 だ  #	 あ  #	 り  #	 ま  #	 せ  #	 ん  #	 。  #	| Original Japanese Text
+ T  h	 e  r	 e   	 i  s	    n	 o   	 M  a	 s  c	 o  t	    h	 e  r	 e   	 y  e	 t  .    #  #	 #  #	 #  #	 #  #	| New English Text
+54 68	65 72	65 20	69 73	20 6E	6F 20	4D 61	73 63	6F 74	20 68	65 72	65 20	69 65	74 2E	00 00	00 00	00 00	00 00	| New English Hex
 
 
 クリアポイント %dてん
