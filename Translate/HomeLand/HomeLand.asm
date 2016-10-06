@@ -314,6 +314,8 @@ Text($43ADDF6C, "Block") ; fill 7
 
 Text($43ADDF90, "Pinnock") ; fill 5
 
+Text($43ADDFD0, "Ganto") ; fill 3
+
 Text($43B242B4, RED) ; db "B Button", BLACK, ": Quit & Return" ; fill 11
 
 Text($43B55730, "    Sort Items") ; fill 2
@@ -345,6 +347,10 @@ Text($43B56570, "[Block Mascot]\n")
 Text($43B56784, "[Pinnock Mascot]\n")
              db " A tribe of friendly dolls living in a village.\n"
              db " Can injure monsters, also has cure as an ability." ; fill 17
+
+Text($43B56A80, "[Ganto Mascot]\n")
+             db " A tribe of large builders, protecting the fort of Parumara.\n"
+             db " It has outstanding offensive & destructive power." ; fill 10
 
 Text($43B56D18, "There is no Mascot here yet.") ; fill 8
 

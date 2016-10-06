@@ -37,6 +37,15 @@ $43ADDF90
 50 69	6E 6E	6F 63	6B 00	00 00	00 00	| New English Hex
 
 
+ガント
+Ganto
+$43ADDFD0
+83 4B	83 93	83 67	00 00	| Original Japanese Hex
+ #  ガ	 #  ン	 #  ト	 #  #	| Original Japanese Text
+ G  a	 n  t	 o  #	 #  #	| New English Text
+47 61	6E 74	6F 00	00 00	| New English Hex
+
+
 Ｂボタン：へんしんをやめる
 B Button: Quit & Return
 $43B242B4
@@ -216,6 +225,29 @@ $43B567D2 (Line 3)
  #   	 # 　ま	 #  も	 #  の	 #  の	 #  ケ	 #  ガ	 #  さ	 #  え	 #  も	    #	 な  #	 お  #	 す  	 #  の	 #  う	 #  り	 #  ょ	 #  く	 #  を	 #  も	 #  っ	 #  て	 #  い	 #  る	 #  。	 #  #	| Original Japanese Text
  o  n	 s  t	 e  r	 s  ,	    a	 l  s	 o   	 h  a	 s   	 c  u	 r  e	    a	 s   	 a  n	    a	 b  i	 l  i	 t  y	 .  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	| New English Text
 6F 6E	73 74	65 72	73 2C	20 61	6C 73	6F 20	68 61	73 20	63 75	72 65	20 61	73 20	61 6E	20 61	62 69	6C 69	74 79	2E 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	| New English Hex
+
+
+［ガントのマスコット］
+[Ganto Mascot]
+$43B56A80 (Line 1)
+81 6D	83 4B	83 93	83 67	82 CC	83 7D	83 58	83 52	83 62	83 67	81 6E	0A	| Original Japanese Hex
+ #  ［	 #  ガ	 #  ン	 #  ト	 #  の	 #  マ	 #  ス	 #  コ	 #  ッ	 #  ト	 #  ］	LF	| Original Japanese Text
+ [  G	 a  n	 t  o	    M	 a  s	 c  o	 t  ]	LF   	 A   	 t  r	 i  b	 e	| New English Text
+5B 47	61 6E	74 6F	20 4D	61 73	63 6F	74 5D	0A 20	41 20	74 72	69 62	65	| New English Hex
+パルマーラのとりでをまもる おおきな たてものしゅぞく。
+A tribe of large builders, protecting the fort of Parumara.
+$43B56A97 (Line 2)
+81 40	83 70	83 8B	83 7D	81 5B	83 89	82 CC	82 C6	82 E8	82 C5	82 F0	82 DC	82 E0	82 E9	20 82	A8 82	A8 82	AB 82	C8 20	82 BD	82 C4	82 E0	82 CC	82 B5	82 E3	82 BC	82 AD	81 42	0A	| Original Japanese Hex
+ #   	 #  パ	 #  ル	 #  マ	 #  ー	 #  ラ	 #  の	 #  と	 #  り	 #  で	 #  を	 #  ま	 #  も	 #  る	    #	 お  #	 お  #	 き  #	 な  	 #  た	 #  て	 #  も	 #  の	 #  し	 #  ゅ	 #  ぞ	 #  く	 #  。	LF	| Original Japanese Text
+    o	 f   	 l  a	 r  g	 e   	 b  u	 i  l	 d  e	 r  s	 ,   	 p  r	 o  t	 e  c	 t  i	 n  g	    t	 h  e	    f	 o  r	 t   	 o  f	    P	 a  r	 u  m	 a  r	 a  .	LF   	 I  t	  	| New English Text
+20 5F	66 20	6C 61	72 67	65 20	62 75	69 6C	64 65	72 73	2C 20	70 72	6F 74	65 63	74 69	6E 67	20 74	68 65	20 66	6F 72	74 20	6F 66	20 50	61 72	75 6D	61 72	61 2E	0A 20	49 74	20	| New English Hex
+はかいりょくばつぐんの こうげきりょくを もっている。
+It has outstanding offensive & destructive power.
+$43B56AD0 (Line 3)
+81 40	82 CD	82 A9	82 A2	82 E8	82 E5	82 AD	82 CE	82 C2	82 AE	82 F1	82 CC	20 82	B1 82	A4 82	B0 82	AB 82	E8 82	E5 82	AD 82	F0 20	82 E0	82 C1	82 C4	82 A2	82 E9	81 42	00 00	| Original Japanese Hex
+ #   	 #  は	 #  か	 #  い	 #  り	 #  ょ	 #  く	 #  ば	 #  つ	 #  ぐ	 #  ん	 #  の	    #	 こ  #	 う  #	 げ  #	 き  #	 り  #	 ょ  #	 く  #	 を   	 #  も	 #  っ	 #  て	 #  い	 #  る	 #  。	 #  #	| Original Japanese Text
+ h  a	 s   	 o  u	 t  s	 t  a	 n  d	 i  n	 g   	 o  f	 f  e	 n  s	 i  v	 e   	 &   	 d  e	 s  t	 r  u	 c  t	 i  v	 e   	 p  o	 w  e	 r  .	 #  #	 #  #	 #  #	 #  #	 #  #	| New English Text
+68 61	73 20	6F 75	74 73	74 61	6E 64	69 6E	67 20	6F 66	66 65	6E 73	69 76	65 20	26 20	64 65	73 74	72 75	63 74	69 76	65 20	70 6F	77 65	72 2E	00 00	00 00	00 00	00 00	00 00	| New English Hex
 
 
 ここのマスコットは まだありません。
