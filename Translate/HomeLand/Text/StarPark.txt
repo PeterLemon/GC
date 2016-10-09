@@ -1,0 +1,147 @@
+﻿SHIFT-JIS
+----------
+Star Park:
+----------
+ここは クエスターパーク。
+Here is the Star Park.
+$3C08A832
+82 B1	82 B1	82 CD	20 83	4E 83	47 83	58 83	5E 81	5B 83	70 81	5B 83	4E 81	42 81	A5 00	0A	| Original Japanese Hex
+ #  こ	 #  こ	 #  は	    #	 ク  #	 エ  #	 ス  #	 タ  #	 ー  #	 パ  #	 ー  #	 ク  #	 。  #	 ▼  #	LF	| Original Japanese Text
+ H  e	 r  e	    i	 s   	 t  h	 e   	 S  t	 a  r	    P	 a  r	 k  .	 #  ▼	 #  #	 #  #	 #	| New English Text
+48 65	72 65	20 69	73 20	74 68	65 20	53 74	61 72	20 50	61 72	6B 2E	81 A5	00 00	00 00	0A	| New English Hex
+
+
+テンシ
+Tenshi / Intensifier
+$3C08BE74
+83 65	83 93	83 56	00	| Original Japanese Hex
+ #  テ	 #  ン	 #  シ	 #	| Original Japanese Text
+ T  e	 n  s	 h  i	 #	| New English Text
+54 65	6E 73	68 69	00	| New English Hex
+
+
+はい とうちゃく～。
+OK we have arrived~.
+$3C08C02C
+82 CD	82 A2	20 82	C6 82	A4 82	BF 82	E1 82	AD 81	60 81	42 81	A4 0A	00 0A	| Original Japanese Hex
+ #  は	 #  い	    #	 と  #	 う  #	 ち  #	 ゃ  #	 く  #	 ～  #	 。  #	 ▽ LF	 # LF	| Original Japanese Text
+ O  K	    w	 e   	 h  a	 v  e	    a	 r  r	 i  v	 e  d	 .  #	 ▽ LF	 # LF	| New English Text
+4F 4B	20 77	65 20	68 61	76 65	20 61	72 72	69 76	65 64	2E 81	A4 0A	00 0A	| New English Hex
+
+せかいを たびする
+It is a special place
+$3C08C044 (Line 1)
+82 B9	82 A9	82 A2	82 F0	20 82	BD 82	D1 82	B7 82	E9 0A	| Original Japanese Hex
+ #  せ	 #  か	 #  い	 #  を	    #	 た  #	 び  #	 す  #	 る LF	| Original Japanese Text
+ I  t	    i	 s   	 a   	 s  p	 e  c	 i  a	 l   	 p  l	| New English Text
+49 74	20 69	73 20	61 20	73 70	65 63	69 61	6C 20	70 6C	| New English Hex
+クエスターのための
+to travel the world
+$3C08C056 (Line 2)
+83 4E	83 47	83 58	83 5E	81 5B	82 CC	82 BD	82 DF	82 CC	0A	| Original Japanese Hex
+ #  ク	 #  エ	 #  ス	 #  タ	 #  ー	 #  の	 #  た	 #  め	 #  の	LF	| Original Japanese Text
+ a  c	 e LF	 t  o	    t	 r  a	 v  e	 l   	 t  h	 e   	 w	| New English Text
+61 63	65 0A	74 6F	20 74	72 61	76 65	6C 20	74 68	65 20	77	| New English Hex
+とくべつな ばしょです。
+for the Quests.
+$3C08C069 (Line 3)
+82 C6	82 AD	82 D7	82 C2	82 C8	20 82	CE 82	B5 82	E5 82	C5 82	B7 81	42 81	A5 00	0A	| Original Japanese Hex
+ #  と	 #  く	 #  べ	 #  つ	 #  な	    #	 ば  #	 し  #	 ょ  #	 で  #	 す  #	 。  #	 ▼  #	LF	| Original Japanese Text
+ o  r	 l  d	LF  f	 o  r	    t	 h  e	    Q	 u  e	 s  t	 s  .	 #  ▼	 #  #	 #  #	LF	| New English Text
+6F 72	6C 64	0A 66	6F 72	20 74	68 65	20 51	75 65	73 74	73 2E	81 A5	00 00	00 00	0A	| New English Hex
+
+ここにいる テンシたちは
+Angels come here
+$3C08C084 (Line 1)
+82 B1	82 B1	82 C9	82 A2	82 E9	20 83	65 83	93 83	56 82	BD 82	BF 82	CD 0A	| Original Japanese Hex
+ #  こ	 #  こ	 #  に	 #  い	 #  る	    #	 テ  #	 ン  #	 シ  #	 た  #	 ち  #	 は LF	| Original Japanese Text
+ A  n	 g  e	 l  s	    c	 o  m	 e   	 h  e	 r  e	LF  t	 o   	 g  i	 v  e	| New English Text
+41 6E	67 65	6C 73	20 63	6F 6D	65 20	68 65	72 65	0A 74	6F 20	67 69	76 65	| New English Hex
+クエスターに ひつような
+to give necessary knowledge
+$3C08C09C (Line 2)
+83 4E	83 47	83 58	83 5E	81 5B	82 C9	20 82	D0 82	C2 82	E6 82	A4 82	C8 0A	| Original Japanese Hex
+ #  ク	 #  エ	 #  ス	 #  タ	 #  ー	 #  に	    #	 ひ  #	 つ  #	 よ  #	 う  #	 な LF	| Original Japanese Text
+    n	 e  c	 e  s	 s  a	 r  y	    k	 n  o	 w  l	 e  d	 g  e	LF  a	 b  o	| New English Text
+20 6E	65 63	65 73	73 61	72 79	20 6B	6E 6F	77 6C	65 64	67 65	0A 61	62 6F	| New English Hex
+こころがけを つたえています。
+about the Quests.
+$3C08C0B4 (Line 3)
+82 B1	82 B1	82 EB	82 AA	82 AF	82 F0	20 82	C2 82	BD 82	A6 82	C4 82	A2 82	DC 82	B7 81	42 81	A5 00	0A	| Original Japanese Hex
+ #  こ	 #  こ	 #  ろ	 #  が	 #  け	 #  を	    #	 つ  #	 た  #	 え  #	 て  #	 い  #	 ま  #	 す  #	 。  #	 ▼  #	LF	| Original Japanese Text
+ u  t	    t	 h  e	    Q	 u  e	 s  t	 s  .	 #  ▼	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	LF	| New English Text
+75 74	20 74	68 65	20 51	75 65	73 74	73 2E	81 A5	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	0A	| New English Hex
+
+まずは かれらの はなしを
+Please listen well
+$3C08C0D5 (Line 1)
+82 DC	82 B8	82 CD	20 82	A9 82	EA 82	E7 82	CC 20	82 CD	82 C8	82 B5	82 F0	0A	| Original Japanese Hex
+ #  ま	 #  ず	 #  は	    #	 か  #	 れ  #	 ら  #	 の  	 #  は	 #  な	 #  し	 #  を	LF	| Original Japanese Text
+ P  l	 e  a	 s  e	    l	 i  s	 t  e	 n   	 w  e	 l  l	LF  t	 o   	 w  h	 a	| New English Text
+50 6C	65 61	73 65	20 6C	69 73	74 65	6E 20	77 65	6C 6C	0A 74	6F 20	77 68	61	| New English Hex
+よく きいてください。
+to what they have to say.
+$3C08C0EE (Line 2)
+82 E6	82 AD	20 82	AB 82	A2 82	C4 82	AD 82	BE 82	B3 82	A2 81	42 81	A5 00	0A	| Original Japanese Hex
+ #  よ	 #  く	    #	 き  #	 い  #	 て  #	 く  #	 だ  #	 さ  #	 い  #	 。  #	 ▼  #	LF	| Original Japanese Text
+ t   	 t  h	 e  y	    h	 a  v	 e   	 t  o	    s	 a  y	 .  #	 ▼  #	 #  #	LF	| New English Text
+74 20	74 68	65 79	20 68	61 76	65 20	74 6F	20 73	61 69	2E 81	A5 00	00 00	0A	| New English Hex
+
+そして クエスターとして
+When you are ready
+$3C08C107 (Line 1)
+82 BB	82 B5	82 C4	20 83	4E 83	47 83	58 83	5E 81	5B 82	C6 82	B5 82	C4 0A	| Original Japanese Hex
+ #  そ	 #  し	 #  て	    #	 ク  #	 エ  #	 ス  #	 タ  #	 ー  #	 と  #	 し  #	 て LF	| Original Japanese Text
+ W  h	 e  n	    y	 o  u	    a	 r  e	    r	 e  a	 d  y	LF  t	 o   	 j  o	| New English Text
+57 68	65 6E	20 79	6F 75	20 61	72 65	20 72	65 61	64 79	0A 74	6F 20	6A 6F	| New English Hex
+たびだつ じゅんびができたら
+to journey on your Quest
+$3C08C11F (Line 2)
+82 BD	82 D1	82 BE	82 C2	20 82	B6 82	E3 82	F1 82	D1 82	AA 82	C5 82	AB 82	BD 82	E7 0A	| Original Japanese Hex
+ #  た	 #  び	 #  だ	 #  つ	    #	 じ  #	 ゅ  #	 ん  #	 び  #	 が  #	 で  #	 き  #	 た  #	 ら LF	| Original Japanese Text
+ u  r	 n  e	 y   	 o  n	    y	 o  u	 r   	 Q  u	 e  s	 t LF	 p  l	 e  a	 s  e	    c	| New English Text
+75 72	6E 65	79 20	6F 6E	20 79	6F 75	72 20	51 75	65 73	74 0A	70 6C	65 61	73 65	20 63	| New English Hex
+わたしのとこに きてください。
+please come and talk to me.
+$3C08C13B (Line 3)
+82 ED	82 BD	82 B5	82 CC	82 C6	82 B1	82 C9	20 82	AB 82	C4 82	AD 82	BE 82	B3 82	A2 81	42 81	A5 00	0A	| Original Japanese Hex
+ #  わ	 #  た	 #  し	 #  の	 #  と	 #  こ	 #  に	    #	 き  #	 て  #	 く  #	 だ  #	 さ  #	 い  #	 。  #	 ▼  #	LF	| Original Japanese Text
+ o  m	 e   	 a  n	 d   	 t  a	 l  k	    t	 o   	 m  e	 .  #	 ▼  #	 #  #	 #  #	 #  #	 #  #	 #  #	LF	| New English Text
+6F 6D	65 20	61 6E	64 20	74 61	6C 6B	20 74	6F 20	6D 65	2E 81	A5 00	00 00	00 00	00 00	00 00	00 00	0A	| New English Hex
+
+わたしは むこうで
+I will be waiting
+$3C08C15C (Line 1)
+82 ED	82 BD	82 B5	82 CD	20 82	DE 82	B1 82	A4 82	C5 0A	| Original Japanese Hex
+ #  わ	 #  た	 #  し	 #  は	    #	 む  #	 こ  #	 う  #	 で LF	| Original Japanese Text
+ I   	 w  i	 l  l	    b	 e   	 w  a	 i  t	 i  n	 g LF	| New English Text
+49 20	77 69	6C 6C	20 62	65 20	77 61	69 74	69 6E	67 0A	| New English Hex
+まってますね。
+over there.
+$3C08C16E (Line 2)
+82 DC	82 C1	82 C4	82 DC	82 B7	82 CB	81 42	81 A5	00	| Original Japanese Hex
+ #  ま	 #  っ	 #  て	 #  ま	 #  す	 #  ね	 #  。	 #  ▼	 #	| Original Japanese Text
+ o  v	 e  r	    t	 h  e	 r  e	 .  #	 ▼  #	 #  #	 #	| New English Text
+6F 76	65 72	20 74	68 65	72 65	2E 81	A5 00	00 00	00	| New English Hex
+
+‥‥‥‥‥‥。
+..............
+$3C08C17F (Line 1)
+81 64	81 64	81 64	81 64	81 64	81 64	81 42	FE 14	0A 00	| Original Japanese Hex
+ #  ‥	 #  ‥	 #  ‥	 #  ‥	 #  ‥	 #  ‥	 #  。	 #  #	LF  #	| Original Japanese Text
+ .  .	 .  .	 .  .	 .  .	 .  .	 #  #	LF  M	 r  .	    #	| New English Text
+2E 2E	2E 2E	2E 2E	2E 2E	2E 2E	FE 14	0A 4D	72 2E	20 00	| New English Hex
+(Player Name)さん‥‥
+Mr. (Player Name)....
+$3C08C191 (Line 2)
+82 B3	82 F1	81 64	81 64	FE 1E	0A	| Original Japanese Hex
+ #  さ	 #  ん	 #  ‥	 #  ‥	 #  #	LF	| Original Japanese Text
+ .  .	 .  .	 .  .	 .  .	 #  #	LF	| New English Text
+2E 2E	2E 2E	2E 2E	2E 2E	FE 1E	0A	| New English Hex
+よろしく。
+Best regards. / Please take care of him.
+$3C08C19C (Line 3)
+82 E6	82 EB	82 B5	82 AD	81 42	FE 32	81 A1	00	| Original Japanese Hex
+ #  よ	 #  ろ	 #  し	 #  く	 #  。	 #  #	 #  ■	 #	| Original Japanese Text
+ T  a	 k  e	    c	 a  r	 e  .	 #  #	 #  ■	 #	| New English Text
+74 61	6B 65	20 63	61 72	65 2E	FE 32	81 A1	00	| New English Hex

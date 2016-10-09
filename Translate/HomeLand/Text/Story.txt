@@ -823,8 +823,8 @@ $23E21BB1 (Line 3)
 Through your books. Is that okay?
 $23E21BC7 (Line 1)
 82 A8	82 D9	82 F1	82 C1	81 42	FE 05	82 A2	82 A2	82 C5	82 B7	82 A9	81 48	0A	| Original Japanese Hex
- #  お	 #  ほ	 #  ん	 #  っ	 #  。	 þ  	 #  い	 #  い	 #  で	 #  す	 #  か	 #  ？	LF	| Original Japanese Text
- I  n	    a	    b	 o  o	 k  .    þ  	 I  s	    t	 h  a	 t	 O  K	 ? LF	 I	| New English Text
+ #  お	 #  ほ	 #  ん	 #  っ	 #  。	 #  #	 #  い	 #  い	 #  で	 #  す	 #  か	 #  ？	LF	| Original Japanese Text
+ I  n	    a	    b	 o  o	 k  .    #  #	 I  s	    t	 h  a	 t	 O  K	 ? LF	 I	| New English Text
 49 6E	20 61	20 62	6F 6F	6B 2E	FE 05	49 73	20 74	68 61	74 20	4F 4B	3F 0A	49	| New English Hex
 いいますよ。
 I will tell you now.

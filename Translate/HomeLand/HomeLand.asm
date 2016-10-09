@@ -304,6 +304,35 @@ Text($23E21FE0, "When you are ready\n")
              db "please come over here\n"
              db "& ask again.", $81, $A5 ; fill 2
 
+// Star Park
+Text($3C08A832, "Here is the Star Park.") ; db $81, $A5 ; fill 4 ; db "\n"
+
+Text($3C08BE74, "Tenshi") ; fill 1
+
+Text($3C08C02C, "OK we have arrived.") ; db $81, $A4, "\n" ; fill 1 ; db "\n"
+
+Text($3C08C044, "It is a special place\n")
+             db "to travel the world\n"
+             db "for the Quests.", $81, $A5 ; fill 4 ; db "\n"
+
+Text($3C08C084, "Angels come here\n")
+             db "to give necessary knowledge\n"
+             db "about the Quests.", $81, $A5 ; fill 16 ; db "\n"
+
+Text($3C08C0D5, "Please listen well\n")
+             db "to what they have to say.", $81, $A5 ; fill 3 ; db "\n"
+
+Text($3C08C107, "When you are ready\n")
+             db "to journey on your Quest\n"
+             db "please come and talk to me.", $81, $A5 ; fill 11 ; db "\n"
+
+Text($3C08C15C, "I will be waiting\n")
+             db "over there.", $81, $A5 ; fill 4
+
+Text($3C08C17F, "..........") ; db $FE, $14, "\n"
+             db "Mr. " ; fill 1 ; db "........", $FE, $1E, "\n"
+             db "Take care.", $FE, $32, $81, $A1 ; fill 1
+
 // Game Menus
 Text($41C05442, "Yes") ; fill 2
 Text($41C05447, "No") ; fill 5
