@@ -349,9 +349,10 @@ Text($43B242B4, RED) ; db "B Button", BLACK, ": Quit & Return" ; fill 11
 
 Text($43B55730, "    Sort Items") ; fill 2
 
+Text($43B560D8, "Status") ; fill 2
 Text($43B560E0, "Points") ; fill 6
 Text($43B560EC, "Items") ; fill 7
-
+Text($43B560F8, "Skill") ; fill 3
 Text($43B56100, "Ask") ; fill 9
 
 Text($43B56114, "Examine") ; fill 5
@@ -363,6 +364,8 @@ Text($43B5620C, "I do not have any items") ; fill 5
 
 Text($43B56390, "Join Team") ; fill 3
 Text($43B5639C, "Leave Team") ; fill 2
+
+Text($43B56428, "Normal") ; fill 6
 
 Text($43B564CC, "Top Zoom") ; fill 8
 Text($43B564DC, "Skill Pointer") ; fill 3
@@ -385,6 +388,19 @@ Text($43B56D18, "There is no Mascot here yet.") ; fill 8
 
 Text($43B58B90, "Clear Points") ; fill 4
 Text($43B58BA0, "points") ; fill 2
+Text($43B58BA8, "Strength:") ; fill 3
+Text($43B58BB4, " Agility:") ; fill 3
+Text($43B58BC0, "    Mind:") ; fill 3
+Text($43B58BCC, "  Attack:") ; fill 3
+Text($43B58BD8, " Defense:") ; fill 3
+Text($43B58BE4, "  Life:") ; fill 1
+Text($43B58BEC, " Power:") ; fill 1
+Text($43B58BF4, "/ ") ; fill 2
+Text($43B58BF8, "Until Next Level:") ; fill 3
+Text($43B58C0C, "Current Completion:") ; fill 1
+
+Text($43B58C3C, " Level") ; fill 2
+Text($43B58C44, "     Exp:") ; fill 3
 
 // Banner Text
 Text($49A0D7F8, "HomeLand") ; fill 24 // Title Text (32 Bytes)

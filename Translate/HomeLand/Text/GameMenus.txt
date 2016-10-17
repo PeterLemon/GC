@@ -73,6 +73,14 @@ $43B55730
 20 20	20 20	53 6F	72 74	20 49	74 65	6D 73	00 00	| New English Hex
 
 
+つよさ
+Strength / Power / Status
+$43B560D8
+82 C2	82 E6	82 B3	00 00	| Original Japanese Hex
+ #  つ	 #  よ	 #  さ	 #  #	| Original Japanese Text
+ S  t	 a  t	 u  s	 #  #	| New English Text
+53 74	61 74	75 73	00 00	| New English Hex
+
 ポイント
 Points
 $43B560E0
@@ -89,6 +97,13 @@ $43B560EC
  I  t	 e  m	 s  #	 #  #	 #  #	 #  #	| New English Text
 49 74	65 6D	73 00	00 00	00 00	00 00	| New English Hex
 
+わざ
+Works / Deeds / Technique / Art / Skill
+$43B560F8
+82 ED	82 B4	00 00	00 00	| Original Japanese Hex
+ #  わ	 #  ざ	 #  #	 #  #	| Original Japanese Text
+ S  k	 i  l	 l  #	 #  #	| New English Text
+53 6B	69 6C	6C 00	00 00	| New English Hex
 
 たずねる
 Ask
@@ -149,6 +164,15 @@ $43B5639C
  #  て	 #  を	 #  は	 #  な	 #  す	 #  #	| Original Japanese Text
  L  e	 a  v	 e   	 T  e	 a  m	 #  #	| New English Text
 4C 65	61 76	65 20	54 65	61 6D	00 00	| New English Hex
+
+
+せいじょう
+Normal
+$43B56428
+82 B9	82 A2	82 B6	82 E5	82 A4	00 00	| Original Japanese Hex
+ #  せ	 #  い	 #  じ	 #  ょ	 #  う	 #  #	| Original Japanese Text
+ N  o	 r  m	 a  l	 #  #	 #  #	 #  #	| New English Text
+4E 6F	72 6D	61 6C	00 00	00 00	00 00	| New English Hex
 
 
 せんとうズーム
@@ -274,3 +298,100 @@ $43B58BA0
  #  て	 #  ん	 #  #	 #  #	| Original Japanese Text
  p  o	 i  n	 t  s	 #  #	| New English Text
 70 6F	69 6E	74 73	00 00	| New English Hex
+
+ちから:
+Force / Strength / Body / Might / Brawn:
+$43B58BA8
+81 40	82 BF	82 A9	82 E7	3A 00	00 00	| Original Japanese Hex
+ #  　	 #  ち	 #  か	 #  ら	 :  #	 #  #	| Original Japanese Text
+ S  t	 r  e	 n  g	 t  h	 :  #	 #  #	| New English Text
+53 74	72 65	6E 67	74 68	3A 00	00 00	| New English Hex
+
+すばやさ:
+Dexterity / Agility / Reflexes / Quickness:
+$43B58BB4
+82 B7	82 CE	82 E2	82 B3	3A 00	00 00	| Original Japanese Hex
+ #  す	 #  ば	 #  や	 #  さ	 :  #	 #  #	| Original Japanese Text
+    A	 g  i	 l  i	 t  y	 :  #	 #  #	| New English Text
+20 41	67 69	6C 69	74 79	3A 00	00 00	| New English Hex
+
+かしこさ:
+Intelligence / Intellect / Mind / Knowledge:
+$43B58BC0
+82 A9	82 B5	82 B1	82 B3	3A 00	00 00	| Original Japanese Hex
+ #  か	 #  し	 #  こ	 #  さ	 :  #	 #  #	| Original Japanese Text
+     	     	 M  i	 n  d	 :  #	 #  #	| New English Text
+20 20	20 20	4D 69	6E 64	3A 00	00 00	| New English Hex
+
+こうげき:
+Attack:
+$43B58BCC
+82 B1	82 A4	82 B0	82 AB	3A 00	00 00	| Original Japanese Hex
+ #  こ	 #  う	 #  げ	 #  き	 :  #	 #  #	| Original Japanese Text
+     	 A  t	 t  a	 c  k	 :  #	 #  #	| New English Text
+20 20	41 74	74 61	63 6B	3A 00	00 00	| New English Hex
+
+ぼうぎょ:
+Defense:
+$43B58BD8
+82 DA	82 A4	82 AC	82 E5	3A 00	00 00	| Original Japanese Hex
+ #  ぼ	 #  う	 #  ぎ	 #  ょ	 :  #	 #  #	| Original Japanese Text
+    D	 e  f	 e  n	 c  e	 :  #	 #  #	| New English Text
+20 44	65 66	65 6E	63 65	3A 00	00 00	| New English Hex
+
+ライフ:
+Life
+$43B58BE4
+83 89	83 43	83 74	3A 00	| Original Japanese Hex
+ #  ラ	 #  イ	 #  フ	 :  #	| Original Japanese Text
+     	 L  i	 f  e	 :  #	| New English Text
+20 20 	4C 69	66 65	3A 00	| New English Hex
+
+パウ:
+Pow / Power:
+$43B58BEC
+81 40	83 70	83 45	3A 00	| Original Japanese Hex
+ #  　	 #  パ	 #  ウ	 :  #	| Original Japanese Text
+    P	 o  w	 e  r	 :  #	| New English Text
+20 50	6F 77	65 72	3A 00	| New English Hex
+
+/
+/
+$43B58BF4
+2F 20	00 00	| Original Japanese Hex
+ /   	 #  #	| Original Japanese Text
+ /   	 #  #	| New English Text
+2F 20	00 00	| New English Hex
+
+つぎのレベルまで:
+Until The Next Level:
+$43B58BF8
+82 C2	82 AC	82 CC	83 8C	83 78	83 8B	82 DC	82 C5	3A 00	00 00	| Original Japanese Hex
+ #  つ	 #  ぎ	 #  の	 #  レ	 #  ベ	 #  ル	 #  ま	 #  で	 :  #	 #  #	| Original Japanese Text
+ U  n	 t  i	 l   	 N  e	 x  t	    L	 e  v	 e  l	 :  #	 #  #	| New English Text
+55 6E	74 69	6B 20	4E 65	78 74	20 4C	65 76	65 6C	3A 00	00 00	| New English Hex
+
+こんかいのげんてん:
+Current Completion:
+$43B58C0C
+82 B1	82 F1	82 A9	82 A2	82 CC	82 B0	82 F1	82 C4	82 F1	3A 00	| Original Japanese Hex
+ #  こ	 #  ん	 #  か	 #  い	 #  の	 #  げ	 #  ん	 #  て	 #  ん	 :  #	| Original Japanese Text
+ C  u	 r  r	 e  n	 t   	 C  o	 m  p	 l  e	 t  i	 o  n	 :  #	| New English Text
+43 75	72 72	65 6E	74 20	43 6E	6D 70	6C 65	74 69	6F 6E	3A 00	| New English Hex
+
+
+レベル
+Level
+$43B58C3C
+83 8C	83 78	83 8B	00 00	| Original Japanese Hex
+ #  レ	 #  ベ	 #  ル	 #  #	| Original Japanese Text
+    L	 e  v	 e  l	 #  #	| New English Text
+20 4C	65 76	65 6C	00 00	| New English Hex
+
+けいけん:
+Experience:
+$43B58C44
+82 AF	82 A2	82 AF	82 F1	3A 00	00 00	| Original Japanese Hex
+ #  け	 #  い	 #  け	 #  ん	 :  #	 #  #	| Original Japanese Text
+     	     	    E	 x  p	 :  #	 #  #	| New English Text
+20 20	20 20	20 45	78 70	3A 00	00 00	| New English Hex
