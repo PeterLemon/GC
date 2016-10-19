@@ -337,8 +337,6 @@ Text($3C08C17F, "..........") ; db $FE, $14, "\n"
 Text($41C05442, "Yes") ; fill 2
 Text($41C05447, "No") ; fill 5
 
-TextShiftJIS($43B54790, "Joining") ; fill 2
-
 Text($43ADDF6C, "Block") ; fill 7
 
 Text($43ADDF90, "Pinnock") ; fill 5
@@ -346,6 +344,20 @@ Text($43ADDF90, "Pinnock") ; fill 5
 Text($43ADDFD0, "Ganto") ; fill 3
 
 Text($43B242B4, RED) ; db "B Button", BLACK, ": Quit & Return" ; fill 11
+
+Text($43B3D704, "Exchange Item") ; fill 3
+
+Text($43B43370, "Call Somone") ; fill 4
+
+Text($43B434B8, "Guts") ; fill 4
+
+Text($43B43F18, "Loud voice reaches around the world") ; fill 1
+
+Text($43B44194, "Increase force") ; fill 2
+
+Text($43B4AC37, "Pow") ; fill 6
+
+TextShiftJIS($43B54790, "Joining") ; fill 2
 
 Text($43B55730, "    Sort Items") ; fill 2
 
@@ -361,6 +373,11 @@ Text($43B56128, "Talk") ; fill 4
 Text($43B56130, "Team Up") ; fill 5
 
 Text($43B5620C, "I do not have any items") ; fill 5
+
+Text($43B56228, "Use") ; fill 5
+
+Text($43B56240, "Drop") ; fill 4
+Text($43B56248, "Give") ; fill 8
 
 Text($43B56390, "Join Team") ; fill 3
 Text($43B5639C, "Leave Team") ; fill 2

@@ -55,6 +55,60 @@ RED B	    B	 u  t	 t  o	 nBLACK	 :   	 Q  u	 i  t	    &	    R	 e  t	 u  r	 n  #	
 BB 42	20 42	75 74	74 6F	6E B0	3A 20	51 75	69 74	20 26	20 52	65 74	75 72	6E 00	00 00	00 00	00 00	00 00	00 00	| New English Hex
 
 
+ものとこうかん
+Exchange Item
+$43B3D704
+82 E0	82 CC	82 C6	82 B1	82 A4	82 A9	82 F1	00 00	| Original Japanese Hex
+ #  も	 #  の	 #  と	 #  こ	 #  う	 #  か	 #  ん	 #  #	| Original Japanese Text
+ E  x	 c  h	 a  n	 g  e	    I	 t  e	 m  #	 #  #	| New English Text
+45 78	63 68	61 6E	67 65	20 49	74 65	6D 00	00 00	| New English Hex
+
+
+みんなにさけぶ
+Crying / Shout / Call Out To Everyone / Call Someone
+$43B43370
+82 DD	82 F1	82 C8	82 C9	82 B3	82 AF	82 D4	00 00	| Original Japanese Hex
+ #  み	 #  ん	 #  な	 #  に	 #  さ	 #  け	 #  ぶ	 #  #	| Original Japanese Text
+ C  a	 l  l	    S	 o  m	 e  o	 n  e	 #  #	 #  #	| New English Text
+43 61	6C 6C	20 53	6F 6D	65 6F	6E 65	00 00	00 00	| New English Hex
+
+
+ガッツ
+Guts
+$43B434B8
+83 4B	83 62	83 63	00 00	| Original Japanese Hex
+ #  ガ	 #  ッ	 #  ツ	 #  #	| Original Japanese Text
+ G  u	 t  s	 #  #	 #  #	| New English Text
+47 75	74 73	00 00	00 00	| New English Hex
+
+
+せかいじゅうに とどく おおきなこえ
+Loud voice that reaches around the world
+$43B43F18
+82 B9	82 A9	82 A2	82 B6	82 E3	82 A4	82 C9	20 82	C6 82	C7 82	AD 20	82 A8	82 A8	82 AB	82 C8	82 B1	82 A6	00 00	| Original Japanese Hex
+ #  せ	 #  か	 #  い	 #  じ	 #  ゅ	 #  う	 #  に	    #	 と  #	 ど  #	 く   	 #  お	 #  お	 #  き	 #  な	 #  こ	 #  え	 #  #	| Original Japanese Text
+ L  o	 u  d	    v	 o  i	 c  e	    r	 e  a	 c  h	 e  s	    a	 r  o	 u  n	 d   	 t  h	 e   	 w  o	 r  l	 d  #	| New English Text
+4B 6F	75 64	20 76	6F 69	63 65	20 72	65 61	63 68	65 73	20 61	72 6F	75 6E	64 20	74 68	65 20	77 6F	72 6C	64 00	| New English Hex
+
+
+ちからをあげる
+Increase force / strength
+$43B44194
+82 BF	82 A9	82 E7	82 F0	82 A0	82 B0	82 E9	00 00	| Original Japanese Hex
+ #  ち	 #  か	 #  ら	 #  を	 #  あ	 #  げ	 #  る	 #  #	| Original Japanese Text
+ I  n	 c  r	 e  a	 s  e	    f	 o  r	 c  e	 #  #	| New English Text
+49 6E	63 72	65 61	73 65	20 66	6F 72	63 65	00 00	| New English Hex
+
+
+パウ
+Pow
+$43B4AC37
+83 70	83 45	00 00	00 00	00	| Original Japanese Hex
+ #  パ	 #  ウ	 #  #	 #  #	 #	| Original Japanese Text
+ P  o	 w  #	 #  #	 #  #	 #	| New English Text
+50 6F	77 00	00 00	00 00	00	| New English Hex
+
+
 てをさしだした
 The hand held out his / Reach Out
 $43B54790
@@ -147,6 +201,32 @@ $43B5620C
  #  も	 #  ち	 #  も	 #  の	 #  を	 #  も	 #  っ	 #  て	 #  い	 #  ま	 #  せ	 #  ん	 #  #	 #  #	| Original Japanese Text
  I   	 d  o	    n	 o  t	    h	 a  v	 e   	 a  n	 y   	 i  t	 e  m	 s  #	 #  #	 #  #	| New English Text
 49 20	64 6F	20 6E	6F 74	20 68	61 76	65 20	61 6E	79 20	69 74	65 6D	73 00	00 00	00 00	| New English Hex
+
+
+つかう
+Use / Spend
+$43B56228
+82 C2	82 A9	82 A4	00 00	| Original Japanese Hex
+ #  つ	 #  か	 #  う	 #  #	| Original Japanese Text
+ U  s	 e  #	 #  #	 #  #	| New English Text
+55 73	65 00	00 00	00 00	| New English Hex
+
+
+すてる
+Cast Aside / Throw Away / Discard / Drop
+$43B56240
+82 B7	82 C4	82 E9	00 00	| Original Japanese Hex
+ #  す	 #  て	 #  る	 #  #	| Original Japanese Text
+ D  r	 o  p	 #  #	 #  #	| New English Text
+44 72	6F 70	00 00	00 00	| New English Hex
+
+さしだす
+Hold out / Present / Submit / Tender / Give
+$43B56248
+82 B3	82 B5	82 BE	82 B7	00 00	00 00	| Original Japanese Hex
+ #  さ	 #  し	 #  だ	 #  す	 #  #	 #  #	| Original Japanese Text
+ G  i	 v  e	 #  #	 #  #	 #  #	 #  #	| New English Text
+47 69	76 65	00 00	00 00	00 00	00 00	| New English Hex
 
 
 てをつなぐ
