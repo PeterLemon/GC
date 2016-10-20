@@ -22,6 +22,7 @@ macro TextShiftJIS(OFFSET, TEXT) {
   map '~',  $8160
   map '\s', $8166 // Single Quote "'"
   map '\d', $8168 // Double Quote '"'
+  map '+',  $817B
   map '&',  $8195
   map '0',  $824F, 10 // Map Numbers
   map 'A',  $8260, 26 // Map English "Upper Case" Characters
@@ -361,6 +362,12 @@ TextShiftJIS($43B54790, "Joining") ; fill 2
 
 Text($43B55730, "    Sort Items") ; fill 2
 
+TextShiftJIS($43B55B90, "Thinking") ; db $81, $63 ; fill 2
+
+TextShiftJIS($43B55BEC, "ForceUp+") ; db $25, $44 ; fill 2
+
+TextShiftJIS($43B55EF0, "ForceNormal") ; fill 2
+
 Text($43B560D8, "Status") ; fill 2
 Text($43B560E0, "Points") ; fill 6
 Text($43B560EC, "Items") ; fill 7
@@ -405,7 +412,7 @@ Text($43B56D18, "There is no Mascot here yet.") ; fill 8
 
 Text($43B58B90, "Clear Points") ; fill 4
 Text($43B58BA0, "points") ; fill 2
-Text($43B58BA8, "Strength:") ; fill 3
+Text($43B58BA8, "   Force:") ; fill 3
 Text($43B58BB4, " Agility:") ; fill 3
 Text($43B58BC0, "    Mind:") ; fill 3
 Text($43B58BCC, "  Attack:") ; fill 3
