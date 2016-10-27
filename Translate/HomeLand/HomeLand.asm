@@ -429,7 +429,7 @@ Text($43B58C44, "     Exp:") ; fill 3
 // Banner Text
 Text($49A0D7F8, "HomeLand") ; fill 24 // Title Text (32 Bytes)
 Text($49A0D838, "HomeLand") ; fill 56 // Long Title Text (64 Bytes)
-Text($49A0D8B8, "Adventures in a magical world, let's solve the mystery & incident.") ; fill 61 // Description Text (128 Bytes)
+Text($49A0D8B8, "Adventures in a magical world, let's solve the mystery & incident.") ; fill 62 // Description Text (128 Bytes)
 
 // Start Game
 Text($57051B14, "Which will you start with, a girl or a boy?") ; fill 5
