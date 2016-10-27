@@ -1,0 +1,38 @@
+﻿SHIFT-JIS
+------------
+Banner Text:
+------------
+Title:
+GIFTPIA
+GIFTPIA
+$57057EC0
+47 49	46 54	50 49	41 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	| Original Japanese Hex
+ G  I	 F  T	 P  I	 A  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	| Original Japanese Text
+ G  I	 F  T	 P  I	 A  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	| New English Text
+47 49	46 54	50 49	41 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	| New English Hex
+
+Long Title:
+ギフトピア
+GIFTPIA
+$57057F00
+83 4D	83 74	83 67	83 73	83 41	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	| Original Japanese Hex
+ #  ギ	 #  フ	 #  ト	 #  ピ	 #  ア	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	| Original Japanese Text
+ G  I	 F  T	 P  I	 A  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	| New English Text
+47 49	46 54	50 49	41 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	| New English Hex
+
+Description:
+ナナシ島のポックルが、勝手に大人になったとさ。
+Pokkle of Nanashi Island, the day he will become an adult.
+$57057F80 (Line 1)
+83 69	83 69	83 56	93 87	82 CC	83 7C	83 62	83 4E	83 8B	82 AA	81 41	8F 9F	8E E8	82 C9	91 E5	90 6C	82 C9	82 C8	82 C1	82 BD	82 C6	82 B3	81 42	0A	| Original Japanese Hex
+ #  ナ	 #  ナ	 #  シ	 #  島	 #  の	 #  ポ	 #  ッ	 #  ク	 #  ル	 #  が	 #  、	 #  勝	 #  手	 #  に	 #  大	 #  人	 #  に	 #  な	 #  っ	 #  た	 #  と	 #  さ	 #  。	LF	| Original Japanese Text
+ P  o	 k  k	 l  e	    o	 f   	 N  a	 n  a	 s  h	 i   	 I  s	 l  a	 n  d	 ,   	 t  h	 e   	 d  a	 y   	 h  e	    w	 i  l	 l   	 b  e	 c  o	 m	| New English Text
+50 6F	6B 6B	6C 65	20 6F	66 20	4E 61	6E 61	73 68	69 20	49 73	6C 61	6E 64	2C 20	74 68	65 20	64 61	79 20	68 65	20 77	69 6C	6C 20	62 65	63 6F	6D	| New English Hex
+
+キャッピー今夜は寝かさないよ。
+Kyappi will be blindfolded tonight.
+$57057FAF (Line 2)
+83 4C	83 83	83 62	83 73	81 5B	8D A1	96 E9	82 CD	90 51	82 A9	82 B3	82 C8	82 A2	82 E6	81 42	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00	| Original Japanese Hex
+ #  キ	 #  ャ	 #  ッ	 #  ピ	 #  ー	 #  今	 #  夜	 #  は	 #  寝	 #  か	 #  さ	 #  な	 #  い	 #  よ	 #  。	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #	| Original Japanese Text
+ e   	 a  n	    a	 d  u	 l  t	 . LF	 K  y	 a  p	 p  i	    w	 i  l	 l   	 b  e	    b	 l  i	 n  d	 f  o	 l  d	 e  d	    t	 o  n	 i  g	 h  t	 .  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #  #	 #	| New English Text
+65 20	61 6E	20 61	64 75	6C 74	2E 0A	4B 69	61 70	70 69	20 77	69 6B	6B 20	62 65	20 62	6C 69	6E 64	66 6F	6C 64	65 64	20 74	6F 6E	69 67	68 74	2E 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00 00	00	| New English Hex

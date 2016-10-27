@@ -1,0 +1,27 @@
+﻿SHIFT-JIS
+-------------
+Start Screen:
+-------------
+はじめる
+Start / Begin
+$57006A6C
+82 CD	82 B6	82 DF	82 E9	00 00	00 00	| Original Japanese Hex
+ #  は	 #  じ	 #  め	 #  る	 #  #	 #  #	| Original Japanese Text
+    S	 t  a	 r  t	 #  #	 #  #	 #  #	| New English Text
+20 53	74 61	72 74	00 00	00 00	00 00	| New English Hex
+
+つづける
+Continue
+$57006A78
+82 C2	82 C3	82 AF	82 E9	00 00	00 00	| Original Japanese Hex
+ #  つ	 #  づ	 #  け	 #  る	 #  #	 #  #	| Original Japanese Text
+ C  o	 n  t	 i  n	 u  e	 #  #	 #  #	| New English Text
+43 6F	6E 74	69 6E	75 65	00 00	00 00	| New English Hex
+
+オプション
+Options
+$57006A84
+83 49	83 76	83 56	83 87	83 93	00 00	| Original Japanese Hex
+ #  オ	 #  プ	 #  シ	 #  ョ	 #  ン	 #  #	| Original Japanese Text
+ O  p	 t  i	 o  n	 s  #	 #  #	 #  #	| New English Text
+4F 70	74 69	6F 6E	73 00	00 00	00 00	| New English Hex

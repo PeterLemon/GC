@@ -1,0 +1,78 @@
+﻿SHIFT-JIS
+--------
+Options:
+--------
+サウンド
+Sound
+$57006A9C
+83 54	83 45	83 93	83 68	00 00	00 00	| Original Japanese Hex
+ #  サ	 #  ウ	 #  ン	 #  ド	 #  #	 #  #	| Original Japanese Text
+ S  o	 u  n	 d  #	 #  #	 #  #	 #  #	| New English Text
+53 6F	75 6E	64 00	00 00	00 00	00 00	| New English Hex
+
+ステレオ
+Stereo
+$57006AA8
+83 58	83 65	83 8C	83 49	00 00	00 00	| Original Japanese Hex
+ #  ス	 #  テ	 #  レ	 #  オ	 #  #	 #  #	| Original Japanese Text
+    S	 t  e	 r  e	 o  #	 #  #	 #  #	| New English Text
+20 53	74 65	72 65	6F 00	00 00	00 00	| New English Hex
+
+モノラル
+Monaural
+$57006AB4
+83 82	83 6D	83 89	83 8B	00 00	00 00	| Original Japanese Hex
+ #  モ	 #  ノ	 #  ラ	 #  ル	 #  #	 #  #	| Original Japanese Text
+    M	 o  n	 o  #	 #  #	 #  #	 #  #	| New English Text
+20 4D	6F 6E	6F 00	00 00	00 00	00 00	| New English Hex
+
+
+%s時間%s分
+%sHours%sMinute
+$5700ED10
+25 73	8E 9E	8A D4	25 73	95 AA	00 00	| Original Japanese Hex
+ %  s	 #  時	 #  間	 %  s	 #  分	 #  #	| Original Japanese Text
+ %  s	 H  o	 u  r	 %  s	 M  i	 n  #	| New English Text
+25 73	48 6F	75 72	25 73	4D 69	6E 00	| New English Hex
+
+
+%sマネ
+%sMane
+$57053114
+25 73	83 7D	83 6C	00 00	| Original Japanese Hex
+ %  s	 #  マ	 #  ネ	 #  #	| Original Japanese Text
+ %  s	 M  a	 n  e	 #  #	| New English Text
+25 73	4D 61	6E 65	00 00	| New English Hex
+
+
+はい
+Yes
+$57053160
+82 CD	82 A2	00 00	00 00	| Original Japanese Hex
+ #  は	 #  い	 #  #	 #  #	| Original Japanese Text
+ Y  e	 s  #	 #  #	 #  #	| New English Text
+59 65	73 00	00 00	00 00	| New English Hex
+
+いいえ
+No
+$57053168
+82 A2	82 A2	82 A6	00 00	| Original Japanese Hex
+ #  い	 #  い	 #  え	 #  #	| Original Japanese Text
+    N	 o  #	 #  #	 #  #	| New English Text
+20 4E	6F 00	00 00	00 00	| New English Hex
+
+振動
+Vibration / Vibrate / Rumble
+$57053170
+90 55	93 AE	00 00	00 00	| Original Japanese Hex
+ #  振	 #  動	 #  #	 #  #	| Original Japanese Text
+ V  i	 b  r	 a  t	 e  #	| New English Text
+56 69	62 72	61 74	65 00	| New English Hex
+
+もどる
+Return / Go Back / Done
+$57053178
+82 E0	82 C7	82 E9	00 00	| Original Japanese Hex
+ #  も	 #  ど	 #  る	 #  #	| Original Japanese Text
+ R  e	 t  u	 r  n	 #  #	| New English Text
+52 65	74 75	72 6E	00 00	| New English Hex

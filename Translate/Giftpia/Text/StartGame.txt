@@ -1,0 +1,76 @@
+﻿SHIFT-JIS
+-----------
+Start Game:
+-----------
+からっぽ
+Empty
+$570060AC
+82 A9	82 E7	82 C1	82 DB	00 00	00 00	| Original Japanese Hex
+ #  か	 #  ら	 #  っ	 #  ぽ	 #  #	 #  #	| Original Japanese Text
+ E  m	 p  t	 y  #	 #  #	 #  #	 #  #	| New English Text
+45 6D	70 74	79 00	00 00	00 00	00 00	| New English Hex
+
+
+ファイルを上書きしてもよろしいですか？
+Are you sure you want to overwrite the file?
+$570062E0
+83 74	83 40	83 43	83 8B	82 F0	8F E3	8F 91	82 AB	82 B5	82 C4	82 E0	82 E6	82 EB	82 B5	82 A2	82 C5	82 B7	82 A9	81 48	00 00	| Original Japanese Hex
+ #  フ	 #  ァ	 #  イ	 #  ル	 #  を	 #  上	 #  書	 #  き	 #  し	 #  て	 #  も	 #  よ	 #  ろ	 #  し	 #  い	 #  で	 #  す	 #  か	 #  ？	 #  #	| Original Japanese Text
+ O  v	 e  r	 w  r	 i  t	 e   	 t  h	 e   	 f  i	 l  e	 ?   	     	     	     	     	     	     	     	     	     	    #	| New English Text
+4F 76	65 72	77 72	69 74	65 20	74 68	65 20	66 69	6C 65	3F 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 00	| New English Hex
+
+セーブします
+You save
+$57006308 (Line 1)
+83 5A	81 5B	83 75	82 B5	82 DC	82 B7	00 00	00 00	| Original Japanese Hex
+ #  セ	 #  ー	 #  ブ	 #  し	 #  ま	 #  す	 #  #	 #  #	| Original Japanese Text
+ Y  o	 u   	 s  a	 v  e	     	     	     	    #	| New English Text
+59 6F	75 20	73 61	76 65	20 20	20 20	20 20	20 00	| New English Hex
+メモリーカードやパワーボタンに
+to the memory card please do not
+$57006318 (Line 2)
+83 81	83 82	83 8A	81 5B	83 4A	81 5B	83 68	82 E2	83 70	83 8F	81 5B	83 7B	83 5E	83 93	82 C9	00 00	| Original Japanese Hex
+ #  メ	 #  モ	 #  リ	 #  ー	 #  カ	 #  ー	 #  ド	 #  や	 #  パ	 #  ワ	 #  ー	 #  ボ	 #  タ	 #  ン	 #  に	 #  #	| Original Japanese Text
+ m  e	 m  o	 r  y	    c	 a  r	 d   	 d  o	    n	 o  t	     	     	     	     	     	     	    #	| New English Text
+6D 65	6D 6F	72 79	20 63	61 72	64 20	64 6F	20 6E	6F 74	20 20	20 20	20 20	20 20	20 20	20 20	20 00	| New English Hex
+さわらないでください
+touch the power button
+$57006338 (Line 3)
+82 B3	82 ED	82 E7	82 C8	82 A2	82 C5	82 AD	82 BE	82 B3	82 A2	00 00	00 00	| Original Japanese Hex
+ #  さ	 #  わ	 #  ら	 #  な	 #  い	 #  で	 #  く	 #  だ	 #  さ	 #  い	 #  #	 #  #	| Original Japanese Text
+ t  o	 u  c	 h   	 t  h	 e   	 p  o	 w  e	 r   	     	     	     	    #	| New English Text
+74 6F	75 63	68 20	74 68	65 20	70 6F	77 65	72 20	20 20	20 20	20 20	20 00	| New English Hex
+
+
+セーブ中です
+It is being saved
+$57006364
+83 5A	81 5B	83 75	92 86	82 C5	82 B7	00 00	00 00	| Original Japanese Hex
+ #  セ	 #  ー	 #  ブ	 #  中	 #  で	 #  す	 #  #	 #  #	| Original Japanese Text
+ N  o	 w  	 s  a	 v  i	 n  g	     	     	    #	| New English Text
+4E 6F	77 20	73 61	76 69	6E 67	20 20	20 20	20 00	| New English Hex
+
+
+はじめから
+From the beginning
+$57006598
+82 CD	82 B6	82 DF	82 A9	82 E7	00 00	| Original Japanese Hex
+ #  は	 #  じ	 #  め	 #  か	 #  ら	 #  #	| Original Japanese Text
+ B  e	 g  i	 n  n	 i  n	 g  #	 #  #	| New English Text
+42 65	67 69	6E 6E	69 6E	67 00	00 00	| New English Hex
+
+
+はじめからのデータを作成します
+Create the data from the beginning
+$570065D0 (Line 1)
+82 CD	82 B6	82 DF	82 A9	82 E7	82 CC	83 66	81 5B	83 5E	82 F0	8D EC	90 AC	82 B5	82 DC	82 B7	00 00	| Original Japanese Hex
+ #  は	 #  じ	 #  め	 #  か	 #  ら	 #  の	 #  デ	 #  ー	 #  タ	 #  を	 #  作	 #  成	 #  し	 #  ま	 #  す	 #  #	| Original Japanese Text
+ C  r	 e  a	 t  e	    s	 t  a	 r  t	    d	 a  t	 a   	     	     	     	     	     	     	    #	| New English Text
+43 72	65 61	74 65	20 73	74 61	72 74	20 64	61 74	61 20	20 20	20 20	20 20	20 20	20 20	20 20	20 00	| New English Hex
+ファイルを選択してください
+Please select a file
+$570065F0 (Line 2)
+83 74	83 40	83 43	83 8B	82 F0	91 49	91 F0	82 B5	82 C4	82 AD	82 BE	82 B3	82 A2	00 00	| Original Japanese Hex
+ #  フ	 #  ァ	 #  イ	 #  ル	 #  を	 #  選	 #  択	 #  し	 #  て	 #  く	 #  だ	 #  さ	 #  い	 #  #	| Original Japanese Text
+ P  l	 e  a	 s  e	    s	 e  l	 e  c	 t   	 f  i	 l  e	     	     	     	     	    #	| New English Text
+50 6C	65 61	73 65	20 73	65 6C	65 63	74 20	66 69	6C 65	20 20	20 20	20 20	20 20	20 00	| New English Hex
