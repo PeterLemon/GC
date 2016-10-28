@@ -88,7 +88,7 @@ Hey!
 $43A499D6 (Line 2)
 33 0E	81 40	82 A8	81 60	82 A2	81 49	5B 6E	5D 00	| Original Japanese Hex
  #LEN	 #   	 #  お	 #  ～	 #  い	 #  ！	 [  n	 ]  #	| Original Japanese Text
- #LEN				 H  e	 y  !	 [  n	 ]  #	| New English Text
+ #LEN	     	     	     	 H  e	 y  !	 [  n	 ]  #	| New English Text
 33 0E	20 20	20 20	20 20	48 65	79 21	5B 6E	5D 00	| New English Hex
 
 ［テオ］
@@ -105,3 +105,55 @@ $43A49B3C (Line 2)
  #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  あ	 #  、	 #  僕	 #  の	 #  名	 #  前	 #  ・	 #  ・	 #  ・	 [  n	 ]  #	| Original Japanese Text
  #LEN	     	     	     	     	     	     	     	     	 O  h	 ,   	 m  y	    n	 a  m	 e  .	 .  .	 [  n	 ]  #	| New English Text
 33 22	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	4F 68	2C 20	6D 69	20 6E	61 6D	65 2E	2E 2E	5B 6E	5D 00	| New English Hex
+
+［テオ］
+[Theo]
+$43A49B72 (Line 1)
+33 18	81 40	81 40	81 40	81 40	81 40	81 40	81 6D	83 65	83 49	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  ［	 #  テ	 #  オ	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	 #  ［	 T  h	 e  o	 ]   	 [  n	 ]  #	| New English Text
+33 18	20 20	20 20	20 20	20 20	20 20	20 20	81 6D	74 68	65 6F	5D 20	5B 6E	5D 00	| New English Hex									 
+僕の名前はテオ。
+My name is Theo.
+$43A49B94 (Line 2)
+33 20	81 40	81 40	81 40	81 40	81 40	81 40	96 6C	82 CC	96 BC	91 4F	82 CD	83 65	83 49	81 42	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  僕	 #  の	 #  名	 #  前	 #  は	 #  テ	 #  オ	 #  。	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	 M  y	    n	 a  m	 e   	 i  s	    T	 h  e	 o  .	 [  n	 ]  #	| New English Text
+33 20	20 20	20 20	20 20	20 20	20 20	20 20	4D 79	20 6E	61 6D	65 20	69 73	20 54	68 65	6F 2E	5B 6E	5D 00	| New English Hex
+
+［アブリオ］
+[Aburio]
+$43A49BC4 (Line 1)
+33 10	81 6D	83 41	83 75	83 8A	83 49	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #  ［	 #  ア	 #  ブ	 #  リ	 #  オ	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	 #  ［	 A  b	 u  r	 i  o	 ]   	     	 [  n	 ]  #	| New English Text
+33 10	81 6D	41 42	75 72	69 6F	5D 20	20 20	5B 6E	5D 00	| New English Hex
+お～い！
+Hey!
+$43A49BEE (Line 2)
+33 0C	82 A8	81 60	82 A2	81 49	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #  お	 #  ～	 #  い	 #  ！	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	 H  e	 y  !	 [  n	 ]  #	| New English Text
+33 0C	20 20	20 20	48 65	79 21	5B 6E	5D 00	| New English Hex
+
+［アブリオ］
+[Aburio]
+$43A49CC2 (Line 1)
+33 1C	81 40	81 40	81 40	81 40	81 40	81 40	81 6D	83 41	83 75	83 8A	83 49	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  ［	 #  ア	 #  ブ	 #  リ	 #  オ	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	 #  ［	 A  b	 u  r	 i  o	 ]   	     	 [  n	 ]  #	| New English Text
+33 1C	20 20	20 20	20 20	20 20	20 20	20 20	81 6D	41 42	75 72	69 6F	5D 20	20 20	5B 6E	5D 00	| New English Hex
+お前も潜ってみろよ！
+You should dive too!
+$43A49D03 (Line 2)
+33 24	81 40	81 40	81 40	81 40	81 40	81 40	82 A8	91 4F	82 E0	90 F6	82 C1	82 C4	82 DD	82 EB	82 E6	81 49	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  お	 #  前	 #  も	 #  潜	 #  っ	 #  て	 #  み	 #  ろ	 #  よ	 #  ！	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	 Y  o	 u   	 s  h	 o  u	 l  d	    d	 i  v	 e   	 t  o	 o  !	 [  n	 ]  #	| New English Text
+33 24	20 20	20 20	20 20	20 20	20 20	20 20	59 6F	75 20	73 68	6F 75	6C 64	20 64	69 76	65 20	74 6F	6F 21	5B 6E	5D 00	| New English Hex
+コーフンするぜっ！
+It is exciting!
+$43A49D29 (Line 3)
+33 22	81 40	81 40	81 40	81 40	81 40	81 40	83 52	81 5B	83 74	83 93	82 B7	82 E9	82 BA	82 C1	81 49	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  コ	 #  ー	 #  フ	 #  ン	 #  す	 #  る	 #  ぜ	 #  っ	 #  ！	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	    I	 t   	 i  s	    e	 x  c	 i  t	 i  n	 g  !	 [  n	 ]  #	| New English Text
+33 22	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 49	74 20	69 73	20 65	78 63	69 74	69 6E	67 21	5B 6E	5D 00	| New English Hex
