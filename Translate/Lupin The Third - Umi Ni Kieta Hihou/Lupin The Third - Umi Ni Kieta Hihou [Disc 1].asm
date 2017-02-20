@@ -274,3 +274,10 @@ TextMain($43A49BEE, 4, 0, "Hey!")
 TextMain($43A49CC2, 12, 1, "Aburio]   ")
 TextMain($43A49D03, 12, 0, "You should dive too!")
 TextMain($43A49D29, 15, 0, "It is exciting!")
+
+TextMain($43A49E09, 12, 1, "Theo] ")
+
+TextMain($43A49E59, 12, 1, "Aburio]   ")
+TextMain($43A49E8F, 2, 0, "What's that, I can't hear you!")
+
+TextMain($43A49F07, 12, 1, "Theo] ")
