@@ -202,3 +202,336 @@ $43A49F29 (Line 2)
  #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  ・	 #  ・	 #  ・	 #  ・	 #  ・	 [  n	 ]  #	| Original Japanese Text
  #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  ・	 #  ・	 #  ・	 #  ・	 #  ・	 [  n	 ]  #	| New English Text
 33 1A	81 40	81 40	81 40	81 40	81 40	81 40	81 45	81 45	81 45	81 45	81 45	5B 6E	5D 00	| New English Hex
+
+［アブリオ］
+[Aburio]
+$43A49F8F (Line 1)
+33 1C	81 40	81 40	81 40	81 40	81 40	81 40	81 6D	83 41	83 75	83 8A	83 49	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  ［	 #  ア	 #  ブ	 #  リ	 #  オ	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	 #  ［	 A  b	 u  r	 i  o	 ]   	     	 [  n	 ]  #	| New English Text
+33 1C	20 20	20 20	20 20	20 20	20 20	20 20	81 6D	41 42	75 72	69 6F	5D 20	20 20	5B 6E	5D 00	| New English Hex
+何かあったら、
+If something happens,
+$43A49FC4 (Line 2)
+33 1E	81 40	81 40	81 40	81 40	81 40	81 40	89 BD	82 A9	82 A0	82 C1	82 BD	82 E7	81 41	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  何	 #  か	 #  あ	 #  っ	 #  た	 #  ら	 #  、	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	    I	 f   	 s  o	 m  e	 t  h	 i  n	 g   	 h  a	 p  p	 e  n	 s  ,	 [  n	 ]  #	| New English Text
+33 1E	20 20	20 20	20 49	66 20	73 6F	6D 65	74 68	69 6E	67 20	68 61	70 70	65 6E	73 2C	5B 6E	5D 00	| New English Hex
+また人魚が助けてくれるさ！
+the mermaid will help us again!
+$43A49FE4 (Line 3)
+33 2A	81 40	81 40	81 40	81 40	81 40	81 40	82 DC	82 BD	90 6C	8B 9B	82 AA	8F 95	82 AF	82 C4	82 AD	82 EA	82 E9	82 B3	81 49	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  ま	 #  た	 #  人	 #  魚	 #  が	 #  助	 #  け	 #  て	 #  く	 #  れ	 #  る	 #  さ	 #  ！	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	    t	 h  e	    m	 e  r	 m  a	 i  d	    w	 i  l	 l   	 h  e	 l  p	    u	 s   	 a  g	 a  i	 n  !	 [  n	 ]  #	| New English Text
+33 2A	20 20	20 20	20 20	20 74	68 65	20 6D	65 72	6D 61	69 64	20 77	69 6C	6C 20	68 65	6C 70	20 75	73 20	61 67	61 69	6E 21	5B 6E	5D 00	| New English Hex
+
+［コスタス］
+[Kostas]
+$43A4A144 (Line 1)
+33 16	81 40	81 40	81 40	81 6D	83 52	83 58	83 5E	83 58	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #  ［	 #  コ	 #  ス	 #  タ	 #  ス	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	 #  ［	 K  o	 s  t	 a  s	 ]  	     	 [  n	 ]  #	| New English Text
+33 16	20 20	20 20	20 20	81 6D	4B 6F	73 74	61 73	5D 20	20 20	5B 6E	5D 00	| New English Hex
+・・・アブリオッ
+... Aburio
+$43A4A174 (Line 2)
+33 1A	81 40	81 40	81 40	81 45	81 45	81 45	83 41	83 75	83 8A	83 49	83 62	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #  ・	 #  ・	 #  ・	 #  ア	 #  ブ	 #  リ	 #  オ	 #  ッ	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	 .  .	 .   	 A  b	 u  r	 i  o	 [  n	 ]  #	| New English Text
+33 1A	20 20	20 20	20 20	20 20	20 20	20 20	2E 2E	2E 20	41 42	75 72	69 6F	5B 6E	5D 00	| New English Hex
+早くあがれっ！
+Hurry up!
+$43A4A190 (Line 3)
+33 1A	81 40	81 40	81 40	81 40	91 81	82 AD	82 A0	82 AA	82 EA	82 C1	81 49	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #  早	 #  く	 #  あ	 #  が	 #  れ	 #  っ	 #  ！	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	    H	 u  r	 r  y	    u	 p  !	 [  n	 ]  #	| New English Text
+33 1A	20 20	20 20	20 20	20 20	20 20	20 20	20 48	75 72	72 79	20 75	70 21	5B 6E	5D 00	| New English Hex
+
+［アブリオ］
+[Aburio]
+$43A4A1BA (Line 1)
+33 1C	81 40	81 40	81 40	81 40	81 40	81 40	81 6D	83 41	83 75	83 8A	83 49	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  ［	 #  ア	 #  ブ	 #  リ	 #  オ	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	 #  ［	 A  b	 u  r	 i  o	 ]   	     	 [  n	 ]  #	| New English Text
+33 1C	20 20	20 20	20 20	20 20	20 20	20 20	81 6D	41 42	75 72	69 6F	5D 20	20 20	5B 6E	5D 00	| New English Hex
+わっ！
+Alright!
+$43A4A1F0 (Line 2)
+33 16	81 40	81 40	81 40	81 40	81 40	81 40	82 ED	82 C1	81 49	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  わ	 #  っ	 #  ！	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	 A  l	 r  i	 g  h	 t  !	 [  n	 ]  #	| New English Text
+33 16	20 20	20 20	20 20	20 20	20 20	41 6C	72 69	67 68	74 21	5B 6E	5D 00	| New English Hex
+は、はいっ！
+I'm going back in!
+$43A4A208 (Line 3)
+33 1C	81 40	81 40	81 40	81 40	81 40	81 40	82 CD	81 41	82 CD	82 A2	82 C1	81 49	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  は	 #  、	 #  は	 #  い	 #  っ	 #  ！	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	    I	 '  m       c	 o  m	 i  n	 g   	 b  a	 c  k	    i	 n  !	 [  n	 ]  #	| New English Text
+33 1C	20 20	20 20	20 49	27 6D	20 63	6F 6D	69 6E	67 20	62 61	63 6B	20 69	6E 21	5B 6E	5D 00	| New English Hex
+
+［コスタス］
+[Kostas]
+$43A4A346 (Line 1)
+33 1C	81 40	81 40	81 40	81 40	81 40	81 40	81 6D	83 52	83 58	83 5E	83 58	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  ［	 #  コ	 #  ス	 #  タ	 #  ス	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	 #  ［	 K  o	 s  t	 a  s	 ]  	     	 [  n	 ]  #	| New English Text
+33 1C	20 20	20 20	20 20	20 20	20 20	20 20	81 6D	4B 6F	73 74	61 73	5D 20	20 20	5B 6E	5D 00	| New English Hex
+船長、いったん戻ろう。
+Captain, let's get back.
+$43A4A388 (Line 2)
+33 26	81 40	81 40	81 40	81 40	81 40	81 40	91 44	92 B7	81 41	82 A2	82 C1	82 BD	82 F1	96 DF	82 EB	82 A4	81 42	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  船	 #  長	 #  、	 #  い	 #  っ	 #  た	 #  ん	 #  戻	 #  ろ	 #  う	 #  。	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	 C  a	 p  t	 a  i	 n  ,	    l	 e  t	 '  s	    g	 e  t	    b	 a  c	 k  .	 [  n	 ]  #	| New English Text
+33 26	20 20	20 20	20 20	20 20	20 20	43 61	70 74	61 69	6E 2C	20 6C	65 74	27 73	20 68	65 74	20 62	61 63	6B 2E	5B 6E	5D 00	| New English Hex
+教授に報告だ。
+Report to the professor.
+$43A4A3B0 (Line 3)
+33 1E	81 40	81 40	81 40	81 40	81 40	81 40	8B B3	8E F6	82 C9	95 F1	8D 90	82 BE	81 42	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  教	 #  授	 #  に	 #  報	 #  告	 #  だ	 #  。	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	 R  e	 p  o	 r  t	    t	 o   	 t  h	 e   	 p  r	 o  f	 e  s	 s  o	 r  .	 [  n	 ]  #	| New English Text
+33 1E	20 20	52 65	70 6F	72 74	20 74	6F 20	74 68	65 20	70 72	6F 66	65 73	73 6F	72 2E	5B 6E	5D 00	| New English Hex
+
+［コスタス］
+[Kostas]
+$43A4A61E (Line 1)
+33 20	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 6D	83 52	83 58	83 5E	83 58	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  ［	 #  コ	 #  ス	 #  タ	 #  ス	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	 #  ［	 K  o	 s  t	 a  s	 ]  	     	 [  n	 ]  #	| New English Text
+33 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	81 6D	4B 6F	73 74	61 73	5D 20	20 20	5B 6E	5D 00	| New English Hex
+教授に渡してくれ、
+Please take this to the professor,
+$43A4A663 (Line 2)
+33 26	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	8B B3	8E F6	82 C9	93 6E	82 B5	82 C4	82 AD	82 EA	81 41	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  教	 #  授	 #  に	 #  渡	 #  し	 #  て	 #  く	 #  れ	 #  、	 [  n	 ]  #	| Original Japanese Text
+ #LEN	 P  l	 e  a	 s  e	    t	 a  k	 e   	 t  h	 i  s	    t	 o   	 t  h	 e   	 p  r	 o  f	 e  s	 s  o	 r  ,	 [  n	 ]  #	| New English Text
+33 26	50 6C	65 61	73 65	20 74	61 6B	65 20	74 68	69 73	20 74	6F 20	74 68	65 20	70 72	6F 66	65 73	73 6F	72 2C	5B 6E	5D 00	| New English Hex
+オレもあとで行く。
+I will be there later.
+$43A4A68B (Line 3)
+33 26	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	83 49	83 8C	82 E0	82 A0	82 C6	82 C5	8D 73	82 AD	81 42	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  オ	 #  レ	 #  も	 #  あ	 #  と	 #  で	 #  行	 #  く	 #  。	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	 I   	 w  i	 l  l	    b	 e   	 t  h	 e  r	 e   	 l  a	 t  e	 r  .	 [  n	 ]  #	| New English Text
+33 26	20 20	20 20	20 20	20 20	20 20	20 20	49 20	77 69	6C 6C	20 62	65 20	74 68	65 72	65 20	6C 61	74 65	72 2E	5B 6E	5D 00	| New English Hex
+
+［テオ］
+[Theo]
+$43A4A6C1 (Line 1)
+33 18	81 40	81 40	81 40	81 40	81 40	81 40	81 6D	83 65	83 49	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  ［	 #  テ	 #  オ	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	 #  ［	 T  h	 e  o	 ]   	 [  n	 ]  #	| New English Text
+33 18	20 20	20 20	20 20	20 20	20 20	20 20	81 6D	74 68	65 6F	5D 20	5B 6E	5D 00	| New English Hex
+うん。
+Yep.
+$43A4A6F2 (Line 2)
+33 18	81 40	81 40	81 40	81 40	81 40	81 40	81 40	82 A4	82 F1	81 42	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  う	 #  ん	 #  。	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	 Y  e	 p  .	 [  n	 ]  #	| New English Text
+33 18	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	59 65	70 2E	5B 6E	5D 00	| New English Hex
+
+［アブリオ］
+[Aburio]
+$43A4A71A (Line 1)
+33 24	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 6D	83 41	83 75	83 8A	83 49	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  ［	 #  ア	 #  ブ	 #  リ	 #  オ	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	     	 #  ［	 A  b	 u  r	 i  o	 ]   	     	 [  n	 ]  #	| New English Text
+33 24	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	81 6D	41 42	75 72	69 6F	5D 20	20 20	5B 6E	5D 00	| New English Hex
+気をつけろよな。
+Be careful.
+$43A4A757 (Line 2)
+33 28	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	8B 43	82 F0	82 C2	82 AF	82 EB	82 E6	82 C8	81 42	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  気	 #  を	 #  つ	 #  け	 #  ろ	 #  よ	 #  な	 #  。	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	     	     	     	    B	 e   	 c  a	 r  e	 f  u	 l  .	 [  n	 ]  #	| New English Text
+33 28	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 42	65 20	63 61	72 65	66 75	6C 2E	5B 6E	5D 00	| New English Hex
+
+［フェリーの乗員］
+[Passenger Ferry]
+$43A4A7D1 (Line 1)
+33 1E	81 40	81 40	81 40	81 40	81 6D	83 74	83 46	83 8A	81 5B	82 CC	8F E6	88 F5	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #  ［	 #  フ	 #  ェ	 #  リ	 #  ー	 #  の	 #  乗	 #  員	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	 #  ［	 P  a	 s  s	 e  n	 g  e	 r   	 F  e	 r  r	 y  ]	 [  n	 ]  #	| New English Text
+33 1E	20 20	20 20	20 20	20 20	81 6D	50 61	73 73	65 6E	67 65	72 20	46 65	72 72	79 5D	5B 6E	5D 00	| New English Hex
+連絡フェリー最終便、出しますよ！
+Ferry now boarding, we are sailing soon!
+$43A4A808 (Line 2)
+33 2C	81 40	81 40	81 40	81 40	98 41	97 8D	83 74	83 46	83 8A	81 5B	8D C5	8F 49	95 D6	81 41	8F 6F	82 B5	82 DC	82 B7	82 E6	81 49	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #  連	 #  絡	 #  フ	 #  ェ	 #  リ	 #  ー	 #  最	 #  終	 #  便	 #  、	 #  出	 #  し	 #  ま	 #  す	 #  よ	 #  ！	 [  n	 ]  #	| Original Japanese Text
+ #LEN	 F  e	 r  r	 y   	 n  o	 w   	 b  o	 a  r	 d  i	 n  g	 ,   	 w  e	    a	 r  e       s	 a  i	 l  i	 n  g	    s	 o  o	 n  !	 [  n	 ]  #	| New English Text
+33 2C	46 65	72 72	79 20	6E 6F	77 20	62 6F	61 72	64 69	6E 67	2C 20	77 65	20 61	72 65	20 73	61 69	6C 69	6E 67	20 73	6F 6F	6E 21	5B 6E	5D 00	| New English Hex
+本日、これが最終便でーす！
+This is the last ferry today!
+$43A4A836 (Line 3)
+33 26	81 40	81 40	81 40	81 40	96 7B	93 FA	81 41	82 B1	82 EA	82 AA	8D C5	8F 49	95 D6	82 C5	81 5B	82 B7	81 49	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #  本	 #  日	 #  、	 #  こ	 #  れ	 #  が	 #  最	 #  終	 #  便	 #  で	 #  ー	 #  す	 #  ！	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	    T	 h  i	 s   	 i  s	    t	 h  e	    l	 a  s	 t   	 f  e	 r  r	 y   	 t  o	 d  a	 y  !	 [  n	 ]  #	| New English Text
+33 26	20 20	20 20	20 54	68 69	73 20	69 73	20 74	68 65	20 6C	61 73	74 20	66 65	72 72	79 20	74 6F	64 61	79 21	5B 6E	5D 00	| New English Hex
+
+［リアナ］
+[Riana]
+$43A4A946 (Line 1)
+33 1C	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 6D	83 8A	83 41	83 69	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  ［	 #  リ	 #  ア	 #  ナ	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	 #  ［	 R  i	 a  n	 a  ]	     	 [  n	 ]  #	| New English Text
+33 1C	20 20	20 20	20 20	20 20	20 20	20 20	20 20	81 6D	52 69	61 6E	61 5D	20 20	5B 6E	5D 00	| New English Hex
+ハア・・ハア・・
+Gasp.. Gasp..
+$43A4A97B (Line 2)
+33 20	81 40	81 40	81 40	81 40	81 40	81 40	83 6E	83 41	81 45	81 45	83 6E	83 41	81 45	81 45	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  ハ	 #  ア	 #  ・	 #  ・	 #  ハ	 #  ア	 #  ・	 #  ・	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	    G	 a  s	 p  .	 .   	 G  a	 s  p	 .  .	 [  n	 ]  #	| New English Text
+33 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 47	61 73	70 2E	2E 20	47 61	73 70	2E 2E	5B 6E	5D 00	| New English Hex
+
+［リアナ］
+[Riana]
+$43A4A9AB (Line 1)
+33 1C	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 6D	83 8A	83 41	83 69	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  ［	 #  リ	 #  ア	 #  ナ	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	 #  ［	 R  i	 a  n	 a  ]	     	 [  n	 ]  #	| New English Text
+33 1C	20 20	20 20	20 20	20 20	20 20	20 20	20 20	81 6D	52 69	61 6E	61 5D	20 20	5B 6E	5D 00	| New English Hex
+待って、待って～！
+Wait, wait~!
+$43A4A9E0 (Line 2)
+33 22	81 40	81 40	81 40	81 40	81 40	81 40	91 D2	82 C1	82 C4	81 41	91 D2	82 C1	82 C4	81 60	81 49	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #  待	 #  っ	 #  て	 #  、	 #  待	 #  っ	 #  て	 #  ～	 #  ！	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	 W  a	 i  t	 ,   	 w  a	 i  t	 .  .	 .  !	 [  n	 ]  #	| New English Text
+33 22	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	57 61	69 74	2C 20	77 61	69 74	2E 2E	2E 21	5B 6E	5D 00	| New English Hex
+
+［リアナ］
+[Riana]
+$43A4AC04 (Line 1)
+33 22	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 6D	83 8A	83 41	83 69	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  ［	 #  リ	 #  ア	 #  ナ	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	     	 #  ［	 R  i	 a  n	 a  ]	     	 [  n	 ]  #	| New English Text
+33 22	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	81 6D	52 69	61 6E	61 5D	20 20	5B 6E	5D 00	| New English Hex
+・・・・・・
+......
+$43A4AC3F (Line 2)
+33 24	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 45	81 45	81 45	81 45	81 45	81 45	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  ・	 #  ・	 #  ・	 #  ・	 #  ・	 #  ・	 [  n	 ]  #	| Original Japanese Text
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  ・	 #  ・	 #  ・	 #  ・	 #  ・	 #  ・	 [  n	 ]  #	| New English Text
+33 24	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 45	81 45	81 45	81 45	81 45	81 45	5B 6E	5D 00	| New English Hex
+
+［テオ］
+[Theo]
+$43A4AC73 (Line 1)
+33 12	81 40	81 40	81 40	81 6D	83 65	83 49	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #  ［	 #  テ	 #  オ	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	 #  ［	 T  h	 e  o	 ]   	 [  n	 ]  #	| New English Text
+33 12	20 20	20 20	20 20	81 6D	74 68	65 6F	5D 20	5B 6E	5D 00	| New English Hex
+イタタタタ・・・
+Aargh...
+$43A4AC9E (Line 2)
+33 1A	81 40	81 40	81 40	83 43	83 5E	83 5E	83 5E	83 5E	81 45	81 45	81 45	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #  イ	 #  タ	 #  タ	 #  タ	 #  タ	 #  ・	 #  ・	 #  ・	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	 A  a	 r  g	 h  .	 .  .	 [  n	 ]  #	| New English Text
+33 1A	20 20	20 20	20 20	20 20	20 20	20 20	20 20	41 61	72 67	68 2E	2E 2E	5B 6E	5D 00	| New English Hex
+
+［リアナ］
+[Riana]
+$43A4ACC8 (Line 1)
+33 22	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 6D	83 8A	83 41	83 69	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  ［	 #  リ	 #  ア	 #  ナ	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	     	 #  ［	 R  i	 a  n	 a  ]	     	 [  n	 ]  #	| New English Text
+33 22	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	81 6D	52 69	61 6E	61 5D	20 20	5B 6E	5D 00	| New English Hex
+いった～い！
+I want to say it!
+$43A4AD03 (Line 2)
+33 24	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	82 A2	82 C1	82 BD	81 60	82 A2	81 49	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  い	 #  っ	 #  た	 #  ～	 #  い	 #  ！	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	           I	    w	 a  n	 t   	 t  o	    s	 a  y	    i	 t  !	 [  n	 ]  #	| New English Text
+33 24	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 49	20 77	61 6E	74 20	74 6F	20 73	61 79	20 69	74 21	5B 6E	5D 00	| New English Hex
+
+［リアナ］
+[Riana]
+$43A4AD49 (Line 1)
+33 22	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 6D	83 8A	83 41	83 69	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  ［	 #  リ	 #  ア	 #  ナ	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	     	 #  ［	 R  i	 a  n	 a  ]	     	 [  n	 ]  #	| New English Text
+33 22	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	81 6D	52 69	61 6E	61 5D	20 20	5B 6E	5D 00	| New English Hex
+ちょっと！
+Hey!
+$43A4ADAC (Line 2)
+33 20	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	82 BF	82 E5	82 C1	82 C6	81 49	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  ち	 #  ょ	 #  っ	 #  と	 #  ！	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	     	     	     	 H  e	 y  !	 [  n	 ]  #	| New English Text
+33 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	48 65	79 21	5B 6E	5D 00	| New English Hex
+気をつけなさいよ!!
+Be careful!!
+$43A4ADCE (Line 3)
+33 28	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	8B 43	82 F0	82 C2	82 AF	82 C8	82 B3	82 A2	82 E6	21 21	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  気	 #  を	 #  つ	 #  け	 #  な	 #  さ	 #  い	 #  よ	 !  !	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	     	     	     	 B  e	    c	 a  r	 e  f	 u  l	 !  !	 [  n	 ]  #	| New English Text
+33 28	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	42 65	20 63	61 72	65 66	75 6C	21 21	5B 6E	5D 00	| New English Hex
+
+［テオ］
+[Theo]
+$43A4AE06 (Line 1)
+33 12	81 40	81 40	81 40	81 6D	83 65	83 49	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #  ［	 #  テ	 #  オ	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	 #  ［	 T  h	 e  o	 ]   	 [  n	 ]  #	| New English Text
+33 12	20 20	20 20	20 20	81 6D	74 68	65 6F	5D 20	5B 6E	5D 00	| New English Hex
+え・・・？
+Huh...?
+$43A4AE22 (Line 2)
+33 14	81 40	81 40	81 40	82 A6	81 45	81 45	81 45	81 48	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #  え	 #  ・	 #  ・	 #  ・	 #  ？	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	    H	 u  h	 .  .	 .  ?	 [  n	 ]  #	| New English Text
+33 14	20 20	20 20	20 20	20 20	20 48	75 68	2E 2E	2E 3F	5B 6E	5D 00	| New English Hex
+
+選択
+Choice / Select / Option
+$43A4AE6A (Line 1)
+33 0A	81 40	91 49	91 F0	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #  選	 #  択	 [  n	 ]  #	| Original Japanese Text
+ #LEN	 S  e	 l  e	 c  t	 [  n	 ]  #	| New English Text
+33 0A	53 65	6C 65	63 74	5B 6E	5D 00	| New English Hex
+そっちがぶつかってきたんだろ！
+That bumped you up!
+$43A4AE7A (Line 2)
+81 40	82 BB	82 C1	82 BF	82 AA	82 D4	82 C2	82 A9	82 C1	82 C4	82 AB	82 BD	82 F1	82 BE	82 EB	81 49	5B 6E	5D 00	| Original Japanese Hex
+ #   	 #  そ	 #  っ	 #  ち	 #  が	 #  ぶ	 #  つ	 #  か	 #  っ	 #  て	 #  き	 #  た	 #  ん	 #  だ	 #  ろ	 #  ！	 [  n	 ]  #	| Original Japanese Text
+     	 T  h	 a  t	    b	 u  m	 p  e	 d   	 y  o	 u   	 u  p	 !   	     	     	     	     	     	 [  n	 ]  #	| New English Text
+20 20	54 68	61 74	20 62	75 6D	70 65	64 20	79 6F	75 20	75 70	21 20	20 20	20 20	20 20	20 20	20 20	5B 6E	5D 00	| New English Hex
+あ、ごめん
+Oh, sorry
+$43A4AE9E (Line 3)
+81 40	82 A0	81 41	82 B2	82 DF	82 F1	5B 6E	5D 00	| Original Japanese Hex
+ #   	 #  あ	 #  、	 #  ご	 #  め	 #  ん	 [  n	 ]  #	| Original Japanese Text
+     	 O  h	 ,   	 s  o	 r  r	 y	 [  n	 ]  #	| New English Text
+20 20	4F 68	2C 20	73 6F	72 72	79 20	5B 6E	5D 00	| New English Hex
+
+［リアナ］
+[Riana]
+$43A4AF70 (Line 1)
+33 1E	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 6D	83 8A	83 41	83 69	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  ［	 #  リ	 #  ア	 #  ナ	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	 #  ［	 R  i	 a  n	 a  ]	     	 [  n	 ]  #	| New English Text
+33 1E	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	81 6D	52 69	61 6E	61 5D	20 20	5B 6E	5D 00	| New English Hex
+女の子とぶつかったら、
+If you hit a girl,
+$43A4AFB0 (Line 2)
+33 2A	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	8F 97	82 CC	8E 71	82 C6	82 D4	82 C2	82 A9	82 C1	82 BD	82 E7	81 41	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  女	 #  の	 #  子	 #  と	 #  ぶ	 #  つ	 #  か	 #  っ	 #  た	 #  ら	 #  、	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	     	     	     	 I  f	    y	 o  u	    h	 i  t	    a	    g	 i  r	 l  ,	 [  n	 ]  #	| New English Text
+33 2A	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 20	49 66	20 79	6F 75	20 68	69 74	20 61	20 67	69 72	6C 2C	5B 6E	5D 00	| New English Hex
+『大丈夫？』くらい言いなさいよ！
+you should ask her "Are you OK?"!
+$43A4AFDC (Line 3)
+33 34	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 40	81 77	91 E5	8F E4	95 76	81 48	81 78	82 AD	82 E7	82 A2	8C BE	82 A2	82 C8	82 B3	82 A2	82 E6	81 49	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #   	 #  『	 #  大	 #  丈	 #  夫	 #  ？	 #  』	 #  く	 #  ら	 #  い	 #  言	 #  い	 #  な	 #  さ	 #  い	 #  よ	 #  ！	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	     	     	     	    y	 o  u	    s	 h  o	 u  l	 d   	 a  s	 k   	 h  e	 r   	 "  A	 r  e	    y	 o  u	    O	 K  ?	 "  !	 [  n	 ]  #	| New English Text
+33 34	20 20	20 20	20 20	20 20	20 20	20 20	20 20	20 79	6F 75	20 73	68 6F	75 6C	64 20	61 73	6B 20	68 65	72 20	22 41	72 65	20 79	6F 75	20 50	4B 3F	22 21	5B 6E	5D 00	| New English Hex
+
+［テオ］
+[Theo]
+$43A4B02E (Line 1)
+33 12	81 40	81 40	81 40	81 6D	83 65	83 49	81 6E	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #  ［	 #  テ	 #  オ	 #  ］	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	 #  ［	 T  h	 e  o	 ]   	 [  n	 ]  #	| New English Text
+33 12	20 20	20 20	20 20	81 6D	74 68	65 6F	5D 20	5B 6E	5D 00	| New English Hex
+え・・・？
+Huh...?
+$43A4B05A (Line 2)
+33 14	81 40	81 40	81 40	82 A6	81 45	81 45	81 45	81 48	5B 6E	5D 00	| Original Japanese Hex
+ #LEN	 #   	 #   	 #   	 #  え	 #  ・	 #  ・	 #  ・	 #  ？	 [  n	 ]  #	| Original Japanese Text
+ #LEN	     	     	     	     	    H	 u  h	 .  .	 .  ?	 [  n	 ]  #	| New English Text
+33 14	20 20	20 20	20 20	20 20	20 48	75 68	2E 2E	2E 3F	5B 6E	5D 00	| New English Hex
