@@ -124,7 +124,7 @@ $001160BF (Line 2)
 
 ぼうけんを きろくしました。
 The adventure was recorded.
-$001160F8
+$00116180
 82 DA	82 A4	82 AF	82 F1	82 F0	20 82	AB 82	EB 82	AD 82	B5 82	DC 82	B5 82	BD 81	42 00	| Original Japanese Hex
  #  ぼ	 #  う	 #  け	 #  ん	 #  を	 #  き	 #  ろ	 #  く	 #  し	 #  ま	 #  し	 #  た	 #  。	 #  #	| Original Japanese Text
  T  h	 e   	 a  d	 v  e	 n  t	 u  r	 e   	 w  a	 s   	 r  e	 c  o	 r  d	 e  d	 .  #	| New English Text
