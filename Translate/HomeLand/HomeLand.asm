@@ -60,7 +60,7 @@ Text($00115EC0, "It will not be able to save your progress in the game.") ; fill
 Text($00116084, "The memory card in Slot A is used to record the adventure.\n")
 Text($001160BF, "Please do not turn off the power or remove the card.") ; fill 5
 
-Text($001160F8, "The adventure was recorded.") ; fill 1
+Text($00116180, "The adventure was recorded.") ; fill 1
 
 // Menus
 Text($00116C08, "Record") ; fill 6
@@ -465,4 +465,4 @@ Text($57052660, "Connection Test") ; fill 1
 Text($57052670, "Production Staff") ; fill 4
 
 Text($57052684, "Go To The Network Settings.       \n")
-Text($570526A7, "Is This OK?") ; fill 14
+Text($570526A7, "Is This OK?") ; fill 14z
