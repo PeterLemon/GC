@@ -465,4 +465,4 @@ Text($57052660, "Connection Test") ; fill 1
 Text($57052670, "Production Staff") ; fill 4
 
 Text($57052684, "Go To The Network Settings.       \n")
-Text($570526A7, "Is This OK?") ; fill 14z
+Text($570526A7, "Is This OK?") ; fill 14
